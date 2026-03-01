@@ -134,42 +134,29 @@ def build_features(drug_vec, adr_idx):
 # Dataset with negative sampling
 # -----------------------------
 class DrugAdrDataset(Dataset):
-    def __init__(self, positives, Gdrug_eff, num_adrs, neg_per_pos=20):
+    def __init__(self, positives, Gdrug_eff, num_adrs):
         self.Gdrug_eff = Gdrug_eff
         self.num_adrs = num_adrs
-        self.neg_per_pos = neg_per_pos
-
-        # IMPORTANT: only use positives from THIS split
         self.pos_set = set(positives)
-
-        self.samples = []
-
-        for (d, a) in positives:
-            # positive sample
-            self.samples.append((d, a, 1.0))
-
-            # negative samples
-            for _ in range(self.neg_per_pos):
-                neg_a = random.randrange(self.num_adrs)
-
-                # ensure negative not actually positive
-                while (d, neg_a) in self.pos_set:
-                    neg_a = random.randrange(self.num_adrs)
-
-                self.samples.append((d, neg_a, 0.0))
+        self.samples = positives  # only positives
 
     def __len__(self):
         return len(self.samples)
 
     def __getitem__(self, idx):
-        d, a, label = self.samples[idx]
+        d, a_pos = self.samples[idx]
 
-        # Gene-level interaction features
-        feats = build_features(self.Gdrug_eff[d], a)
+        # sample one negative ADR
+        a_neg = random.randrange(self.num_adrs)
+        while (d, a_neg) in self.pos_set:
+            a_neg = random.randrange(self.num_adrs)
+
+        pos_feats = build_features(self.Gdrug_eff[d], a_pos)
+        neg_feats = build_features(self.Gdrug_eff[d], a_neg)
 
         return (
-            torch.tensor(feats, dtype=torch.float32),
-            torch.tensor(label, dtype=torch.float32)
+            torch.tensor(pos_feats, dtype=torch.float32),
+            torch.tensor(neg_feats, dtype=torch.float32),
         )
 # -----------------------------
 # MLP model
@@ -192,24 +179,34 @@ class InteractionMLP(nn.Module):
 # -----------------------------
 # Train
 # -----------------------------
-dataset = DrugAdrDataset(train_pos, Gdrug_eff, num_adrs, neg_per_pos=20)
-loader = DataLoader(dataset, batch_size=256, shuffle=True, num_workers=0)
+dataset = DrugAdrDataset(train_pos, Gdrug_eff, num_adrs)
+loader = DataLoader(dataset, batch_size=256, shuffle=True)
 
 model = InteractionMLP()
-optimizer = torch.optim.Adam(model.parameters(), lr=1e-3)
-criterion = nn.BCEWithLogitsLoss()
+optimizer = torch.optim.Adam(model.parameters(), lr=1e-4, weight_decay=1e-4)
 
 epochs = 20
+
 for epoch in range(epochs):
     model.train()
     total_loss = 0.0
 
-    for x, y in loader:
+    for pos_x, neg_x in loader:
         optimizer.zero_grad()
-        logits = model(x)
-        loss = criterion(logits, y)
+
+        pos_scores = model(pos_x)
+        neg_scores = model(neg_x)
+
+        # Stable BPR loss
+        loss = torch.nn.functional.softplus(-(pos_scores - neg_scores)).mean()
+
         loss.backward()
+
+        # Prevent exploding gradients
+        torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=5.0)
+
         optimizer.step()
+
         total_loss += float(loss.item())
 
     print(f"Epoch {epoch+1}/{epochs} loss={total_loss:.4f}")
@@ -255,10 +252,10 @@ def evaluate_model(model, test_pos, Gdrug_eff, Gadr, num_adrs, k_list=[10, 50]):
             scores = np.zeros(num_adrs, dtype=np.float32)
             drug_vec = Gdrug_eff[drug_idx]
 
-            for a in range(num_adrs):
-                feats = build_features(drug_vec, a)
-                x = torch.tensor(feats, dtype=torch.float32).unsqueeze(0)
-                scores[a] = model(x).item()
+            adr_matrix = torch.tensor(Gadr_dense, dtype=torch.float32)
+            drug_vec_t = torch.tensor(drug_vec, dtype=torch.float32)
+            interaction = drug_vec_t.unsqueeze(0) * adr_matrix
+            scores = model(interaction).detach().numpy()
 
             # Rank ADRs descending
             ranked_indices = np.argsort(-scores)

@@ -14,6 +14,8 @@ import random
 Gdrug_mu = np.load("Gdrug_mu_restricted.npy")
 Gdrug_sigma = np.load("Gdrug_sigma_restricted.npy")
 Gadr = load_npz("Gadr_restricted.npz")
+# Convert sparse ADR-gene matrix to dense once (small: 3659 x 574)
+Gadr_dense = Gadr.astype(np.float32).toarray()
 
 eps = 1e-6
 Gdrug_eff = Gdrug_mu / (Gdrug_sigma + eps)
@@ -44,13 +46,13 @@ adr_id_to_idx = dict(zip(adr_index_df["adr_id"], adr_index_df["adr_idx"]))
 # Load SIDER and map to indices
 # -----------------------------
 sider_df = pd.read_csv("sider_lincs_common_clean_FINAL.csv")
-print("sider df: ", sider_df.columns.tolist())
-print("sider df head:", sider_df.head())
+# print("sider df: ", sider_df.columns.tolist())
+# print("sider df head:", sider_df.head())
 positives = []
 
-for _, row in sider_df.iterrows():
+for _, row in sider_df.iterrows(): 
     pert_id = row["pert_id"]
-    drug_name = row["pert_iname"]
+    drug_name = row["drug_name"]
     adr_id = row["adr_id"]
 
     if drug_name in drug_id_to_idx and adr_id in adr_id_to_idx:
@@ -59,15 +61,53 @@ for _, row in sider_df.iterrows():
         positives.append((d, a))
 
 positive_set = set(positives)
+print("\n==================== DATA DEBUG ====================")
 
-print("Num positives:", len(positives))
+print("====================================================\n")
+def debug_column(df, col_name):
+    print(f"\n==================== {col_name} ====================")
+    print("Total rows:", len(df))
+    print("Unique count:", df[col_name].nunique())
 
-# positives = list(zip(sider_df[drug_col].astype(int).tolist(), sider_df[adr_col].astype(int).tolist()))
-# positive_set = set(positives)
-print("Example SIDER pert_id:", sider_df["pert_id"].iloc[0])
-print("Example drug_index drug_id:", drug_index_df["drug_id"].iloc[0])
+    unique_vals = df[col_name].unique()
 
-print("Num positives:", len(positives))
+    print("\nFirst 50 unique values:")
+    print(unique_vals[:50])
+
+    print("\nLast 50 unique values:")
+    print(unique_vals[-50:])
+
+    print("\nValue counts (top 10):")
+    print(df[col_name].value_counts().head(10))
+
+    print("====================================================\n")
+
+# debug_column(sider_df, "drug_id")
+# debug_column(sider_df, "pert_id")
+# debug_column(sider_df, "adr_id")
+
+# debug_column(drug_index_df, "drug_id")
+# debug_column(adr_index_df, "adr_id")
+sider_drugs = set(sider_df["drug_id"])
+index_drugs = set(drug_index_df["drug_id"])
+
+sider_adrs = set(sider_df["adr_id"])
+index_adrs = set(adr_index_df["adr_id"])
+
+# print("\nDrug overlap:", len(sider_drugs & index_drugs))
+# print("Drug missing in index:", len(sider_drugs - index_drugs))
+# print("Drug missing examples:", list(sider_drugs - index_drugs)[:20])
+
+# print("\nADR overlap:", len(sider_adrs & index_adrs))
+# print("ADR missing in index:", len(sider_adrs - index_adrs))
+# print("ADR missing examples:", list(sider_adrs - index_adrs)[:20])
+
+# print("intersection: ",set(sider_df["drug_name"]).intersection(set(drug_index_df["drug_id"])))
+# print("intersection len", len(set(sider_df["drug_name"]).intersection(set(drug_index_df["drug_id"]))))
+
+# print("Num positives:", len(positives))
+# print("Example SIDER pert_id:", sider_df["pert_id"].iloc[0])
+# print("Example drug_index drug_id:", drug_index_df["drug_id"].iloc[0])
 random.shuffle(positives)
 
 n = len(positives)
@@ -84,34 +124,24 @@ print("Test:", len(test_pos))
 # -----------------------------
 # Feature builder (FAST: no dense toarray)
 # -----------------------------
-def build_features(drug_vec, adr_row_csr):
-    # adr_row_csr is a 1 x num_genes CSR row
-    gene_idx = adr_row_csr.indices  # genes connected to this ADR
-
-    if gene_idx.size == 0:
-        return np.zeros(5, dtype=np.float32)
-
-    selected = drug_vec[gene_idx]
-
-    if selected.size == 0:
-        return np.zeros(5, dtype=np.float32)
-
-    f1 = float(selected.sum())
-    f2 = float(np.abs(selected).sum())
-    f3 = float(np.abs(selected).max())
-    f4 = float(selected.mean())
-    f5 = float(gene_idx.size)
-
-    return np.array([f1, f2, f3, f4, f5], dtype=np.float32)
+def build_features(drug_vec, adr_idx):
+    # gene-level interaction (574-d vector)
+    adr_mask = Gadr_dense[adr_idx]              # shape (574,)
+    interaction = drug_vec * adr_mask          # elementwise interaction
+    return interaction.astype(np.float32)
 
 # -----------------------------
 # Dataset with negative sampling
 # -----------------------------
 class DrugAdrDataset(Dataset):
-    def __init__(self, positives, Gdrug_eff, Gadr, num_adrs, neg_per_pos=3):
+    def __init__(self, positives, Gdrug_eff, num_adrs, neg_per_pos=20):
         self.Gdrug_eff = Gdrug_eff
-        self.Gadr = Gadr
         self.num_adrs = num_adrs
+        self.neg_per_pos = neg_per_pos
+
+        # IMPORTANT: only use positives from THIS split
+        self.pos_set = set(positives)
+
         self.samples = []
 
         for (d, a) in positives:
@@ -119,10 +149,13 @@ class DrugAdrDataset(Dataset):
             self.samples.append((d, a, 1.0))
 
             # negative samples
-            for _ in range(neg_per_pos):
-                neg_a = random.randrange(num_adrs)
-                while (d, neg_a) in positive_set:
-                    neg_a = random.randrange(num_adrs)
+            for _ in range(self.neg_per_pos):
+                neg_a = random.randrange(self.num_adrs)
+
+                # ensure negative not actually positive
+                while (d, neg_a) in self.pos_set:
+                    neg_a = random.randrange(self.num_adrs)
+
                 self.samples.append((d, neg_a, 0.0))
 
     def __len__(self):
@@ -130,11 +163,14 @@ class DrugAdrDataset(Dataset):
 
     def __getitem__(self, idx):
         d, a, label = self.samples[idx]
-        drug_vec = self.Gdrug_eff[d]
-        adr_row = self.Gadr[a]  # 1 x num_genes CSR row
-        feats = build_features(drug_vec, adr_row)
-        return torch.tensor(feats, dtype=torch.float32), torch.tensor(label, dtype=torch.float32)
 
+        # Gene-level interaction features
+        feats = build_features(self.Gdrug_eff[d], a)
+
+        return (
+            torch.tensor(feats, dtype=torch.float32),
+            torch.tensor(label, dtype=torch.float32)
+        )
 # -----------------------------
 # MLP model
 # -----------------------------
@@ -142,12 +178,12 @@ class InteractionMLP(nn.Module):
     def __init__(self):
         super().__init__()
         self.net = nn.Sequential(
-            nn.Linear(5, 32),
+            nn.Linear(574, 256),
             nn.ReLU(),
-            nn.Dropout(0.2),
-            nn.Linear(32, 16),
+            nn.Dropout(0.3),
+            nn.Linear(256, 128),
             nn.ReLU(),
-            nn.Linear(16, 1)
+            nn.Linear(128, 1)
         )
 
     def forward(self, x):
@@ -156,15 +192,14 @@ class InteractionMLP(nn.Module):
 # -----------------------------
 # Train
 # -----------------------------
-# dataset = DrugAdrDataset(positives, Gdrug_eff, Gadr, num_adrs, neg_per_pos=3)
-dataset = DrugAdrDataset(train_pos, Gdrug_eff, Gadr, num_adrs)
+dataset = DrugAdrDataset(train_pos, Gdrug_eff, num_adrs, neg_per_pos=20)
 loader = DataLoader(dataset, batch_size=256, shuffle=True, num_workers=0)
 
 model = InteractionMLP()
 optimizer = torch.optim.Adam(model.parameters(), lr=1e-3)
 criterion = nn.BCEWithLogitsLoss()
 
-epochs = 10
+epochs = 20
 for epoch in range(epochs):
     model.train()
     total_loss = 0.0
@@ -221,7 +256,7 @@ def evaluate_model(model, test_pos, Gdrug_eff, Gadr, num_adrs, k_list=[10, 50]):
             drug_vec = Gdrug_eff[drug_idx]
 
             for a in range(num_adrs):
-                feats = build_features(drug_vec, Gadr[a])
+                feats = build_features(drug_vec, a)
                 x = torch.tensor(feats, dtype=torch.float32).unsqueeze(0)
                 scores[a] = model(x).item()
 
@@ -255,3 +290,7 @@ for k, val in recall_at_k.items():
     print(f"Recall@{k}: {val:.4f}")
 
 print(f"Mean Percentile Rank: {mpr:.4f}")
+
+# Random ranking gives:
+# Recall@10 ≈ 10 / 3659 ≈ 0.0027
+# Recall@50 ≈ 50 / 3659 ≈ 0.0137

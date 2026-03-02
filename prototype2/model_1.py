@@ -19,6 +19,9 @@ Gadr_dense = Gadr.astype(np.float32).toarray()
 
 eps = 1e-6
 Gdrug_eff = Gdrug_mu / (Gdrug_sigma + eps)
+mean = Gdrug_eff.mean(axis=0, keepdims=True)
+std = Gdrug_eff.std(axis=0, keepdims=True) + 1e-6
+Gdrug_eff = (Gdrug_eff - mean) / std
 
 num_drugs, num_genes = Gdrug_eff.shape
 num_adrs = Gadr.shape[0]
@@ -108,16 +111,17 @@ index_adrs = set(adr_index_df["adr_id"])
 # print("Num positives:", len(positives))
 # print("Example SIDER pert_id:", sider_df["pert_id"].iloc[0])
 # print("Example drug_index drug_id:", drug_index_df["drug_id"].iloc[0])
-random.shuffle(positives)
+unique_drugs = list({d for d, _ in positives})
+random.shuffle(unique_drugs)
 
-n = len(positives)
-train_split = int(0.8 * n)
-val_split = int(0.9 * n)
+m = len(unique_drugs)
+train_drugs = set(unique_drugs[:int(0.8 * m)])
+val_drugs = set(unique_drugs[int(0.8 * m):int(0.9 * m)])
+test_drugs = set(unique_drugs[int(0.9 * m):])
 
-train_pos = positives[:train_split]
-val_pos = positives[train_split:val_split]
-test_pos = positives[val_split:]
-
+train_pos = [(d, a) for (d, a) in positives if d in train_drugs]
+val_pos = [(d, a) for (d, a) in positives if d in val_drugs]
+test_pos = [(d, a) for (d, a) in positives if d in test_drugs]
 print("Train:", len(train_pos))
 print("Val:", len(val_pos))
 print("Test:", len(test_pos))
@@ -134,25 +138,30 @@ def build_features(drug_vec, adr_idx):
 # Dataset with negative sampling
 # -----------------------------
 class DrugAdrDataset(Dataset):
-    def __init__(self, positives, Gdrug_eff, num_adrs):
+    def __init__(self, positives, Gdrug_eff, num_adrs, neg_per_pos=10):
         self.Gdrug_eff = Gdrug_eff
         self.num_adrs = num_adrs
+        self.neg_per_pos = neg_per_pos
         self.pos_set = set(positives)
-        self.samples = positives  # only positives
+        self.samples = positives
 
     def __len__(self):
         return len(self.samples)
 
     def __getitem__(self, idx):
         d, a_pos = self.samples[idx]
+        drug_vec = self.Gdrug_eff[d]
 
-        # sample one negative ADR
-        a_neg = random.randrange(self.num_adrs)
-        while (d, a_neg) in self.pos_set:
+        pos_feats = build_features(drug_vec, a_pos)
+
+        neg_list = []
+        for _ in range(self.neg_per_pos):
             a_neg = random.randrange(self.num_adrs)
+            while (d, a_neg) in self.pos_set:
+                a_neg = random.randrange(self.num_adrs)
+            neg_list.append(build_features(drug_vec, a_neg))
 
-        pos_feats = build_features(self.Gdrug_eff[d], a_pos)
-        neg_feats = build_features(self.Gdrug_eff[d], a_neg)
+        neg_feats = np.stack(neg_list)
 
         return (
             torch.tensor(pos_feats, dtype=torch.float32),
@@ -175,59 +184,6 @@ class InteractionMLP(nn.Module):
 
     def forward(self, x):
         return self.net(x).squeeze(-1)
-
-# -----------------------------
-# Train
-# -----------------------------
-dataset = DrugAdrDataset(train_pos, Gdrug_eff, num_adrs)
-loader = DataLoader(dataset, batch_size=256, shuffle=True)
-
-model = InteractionMLP()
-optimizer = torch.optim.Adam(model.parameters(), lr=1e-4, weight_decay=1e-4)
-
-epochs = 20
-
-for epoch in range(epochs):
-    model.train()
-    total_loss = 0.0
-
-    for pos_x, neg_x in loader:
-        optimizer.zero_grad()
-
-        pos_scores = model(pos_x)
-        neg_scores = model(neg_x)
-
-        # Stable BPR loss
-        loss = torch.nn.functional.softplus(-(pos_scores - neg_scores)).mean()
-
-        loss.backward()
-
-        # Prevent exploding gradients
-        torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=5.0)
-
-        optimizer.step()
-
-        total_loss += float(loss.item())
-
-    print(f"Epoch {epoch+1}/{epochs} loss={total_loss:.4f}")
-
-# -----------------------------
-# Score all ADRs for a drug
-# -----------------------------
-def score_drug(drug_idx):
-    model.eval()
-    scores = np.zeros(num_adrs, dtype=np.float32)
-    drug_vec = Gdrug_eff[drug_idx]
-
-    with torch.no_grad():
-        for a in range(num_adrs):
-            feats = build_features(drug_vec, Gadr[a])
-            x = torch.tensor(feats, dtype=torch.float32).unsqueeze(0)
-            scores[a] = float(model(x).item())
-
-    return scores
-
-print("Training complete.")
 
 # -----------------------------
 # Evaluation (Ranking-Based)
@@ -277,6 +233,64 @@ def evaluate_model(model, test_pos, Gdrug_eff, Gadr, num_adrs, k_list=[10, 50]):
     mean_percentile_rank = np.mean(percentile_ranks)
 
     return recall_at_k, mean_percentile_rank
+# -----------------------------
+# Train
+# -----------------------------
+dataset = DrugAdrDataset(train_pos, Gdrug_eff, num_adrs, neg_per_pos=10)
+loader = DataLoader(dataset, batch_size=256, shuffle=True)
+
+model = InteractionMLP()
+optimizer = torch.optim.Adam(model.parameters(), lr=1e-4, weight_decay=1e-4)
+
+epochs = 20
+
+for epoch in range(epochs):
+    model.train()
+    total_loss = 0.0
+
+    for pos_x, neg_x in loader:
+        optimizer.zero_grad()
+
+        pos_scores = model(pos_x)            
+        B, N, D = neg_x.shape                  
+
+        neg_scores = model(neg_x.view(B * N, D)).view(B, N)  # (B, N)
+
+        # BPR over multiple negatives
+        diff = pos_scores.unsqueeze(1) - neg_scores
+        loss = torch.nn.functional.softplus(-diff).mean()
+
+        loss.backward()
+        torch.nn.utils.clip_grad_norm_(model.parameters(), max_norm=5.0)
+        optimizer.step()
+
+        total_loss += float(loss.item())
+
+    print(f"Epoch {epoch+1}/{epochs} loss={total_loss:.4f}")
+    # Add this after the epoch print:
+    if (epoch + 1) % 2 == 0:
+        eval_recall, val_mpr = evaluate_model(model, val_pos, Gdrug_eff, Gadr, num_adrs, k_list=[50])
+        print("VAL Recall@50:", eval_recall[50], "VAL MPR:", val_mpr)
+
+# -----------------------------
+# Score all ADRs for a drug
+# -----------------------------
+def score_drug(drug_idx):
+    model.eval()
+    scores = np.zeros(num_adrs, dtype=np.float32)
+    drug_vec = Gdrug_eff[drug_idx]
+
+    with torch.no_grad():
+        for a in range(num_adrs):
+            feats = build_features(drug_vec, a)
+            x = torch.tensor(feats, dtype=torch.float32).unsqueeze(0)
+            scores[a] = float(model(x).item())
+
+    return scores
+
+print("Training complete.")
+
+
 
 
 # Run evaluation

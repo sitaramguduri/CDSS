@@ -1,0 +1,84 @@
+loads three main matrices:
+
+    Gdrug_mu → drug × gene average perturbation
+    Gdrug_sigma → variability of that perturbation
+    Gadr → ADR × gene associations
+    The ADR matrix is sparse and converted to dense for faster computation. 
+
+Construct Effective Drug–Gene Signal
+    The model builds an effective perturbation signal:
+        Gdrug_eff = Gdrug_mu / (Gdrug_sigma + eps)
+    This emphasizes strong consistent gene perturbations while downweighting noisy ones.
+
+Then each gene feature is standardized (z-score normalization): (feature − mean) / std
+
+This ensures all genes are on comparable scales for training.
+    Final shapes printed:
+    drug × gene
+    ADR × gene
+
+Load Drug–ADR Ground Truth (SIDER): The file sider_lincs_common_clean_FINAL.csv contains known drug–ADR pairs.
+
+Two index mapping files are used:
+    drug_index.csv
+    adr_index.csv
+
+converts every valid row into: (d, a) = (drug_index, adr_index)- These pairs represent positive training examples.
+    80% train drugs
+    10% validation drugs
+    10% test drugs
+
+All ADR pairs for a drug go into the same split.=> This prevents information leakage.
+
+Feature Construction: For each drug–ADR pair a 574-dimensional feature vector is created.
+Feature: interaction = drug_gene_vector × adr_gene_mask
+
+    drug_gene_vector → effect of drug on genes
+    adr_gene_mask → genes associated with ADR
+    Element-wise multiplication captures which genes are both: perturbed by the drug, linked to the ADR
+
+This becomes the input feature vector.
+
+Dataset with Negative Sampling
+The dataset returns:
+    1 positive ADR for the drug
+    10 randomly sampled negative ADRs
+
+Negative ADRs are chosen such that: (drug, adr) is not a known positive.
+This converts the problem into a ranking task.
+
+Returned tensors:
+    positive feature vector
+    negative feature vectors
+
+Neural Network Model: A small MLP predicts a score for a drug–ADR interaction.
+
+Architecture: 574 → 256 → 128 → 1
+
+Layers: Linear, ReLU, Dropout, Linear, ReLU, Linear
+
+Output = interaction score.
+Higher score → model believes the drug causes that ADR.
+
+Training Objective (BPR Ranking Loss)
+Training uses a pairwise ranking objective.
+
+For each positive ADR and negative ADR: score_pos − score_neg
+
+Loss: softplus(−(score_pos − score_neg))
+
+Meaning: The model learns to make score_pos > score_neg.
+
+Per batch:
+    Compute positive scores
+    Compute negative scores
+    Apply BPR loss
+    Backpropagation
+    Gradient clipping for stability
+
+Validation is run every 2 epochs using Recall@50 and Mean Percentile Rank.
+
+Random ranking gives approximately:
+    Recall@10 ≈ 0.0027
+    Recall@50 ≈ 0.0137
+

@@ -1,0 +1,26 @@
+SIDER (drug->ADR) : http://sideeffects.embl.de/download/ -- meddra_all_se.tsv
+    contains side effects mapped using the MedDRA hierarchy
+    it has : LLT – Lowest Level Term, PT – Preferred Term ,HLT – High Level Term,HLGT – High Level Group Term,SOC – System Organ Class
+    we retained only PT (Preferred Term) as the standard level
+
+    retained only required columns: drug ID, adr ID, adr name. 
+    ===> L_raw_sider_edges 
+
+    cleaned drug ID - normalized, removed SALT words
+    ====> L_clean_norm_named_sider
+
+
+LINCS (drug->ADR): from https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE92742 -- GSE92742_Broad_LINCS_inst_info
+    filtering to pert type= trt_cp => kept only small molecule drug experiments 
+    discarded direct and deliberate genetic manipulations experiments
+    after similar data processing as SIDER
+    took the intersection of LINCS and SIDER drug->ADR pairs.
+    ==> SIDER_LINCS_common_drug_ADR -- 698 pairs -drug ID, drug Name, ADR ID
+
+
+LINCS gene peterbuation: https://clue.io/releases/data-dashboard -- level5_beta_trt_cp_n720216x12328
+    1. geneinfo_beta: select only landmark genes
+    2. siginfo_beta: pert_type = trt_cp so that only small-molecule drug perturbations remain.
+    
+
+drug–gene effect matrix

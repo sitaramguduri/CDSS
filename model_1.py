@@ -8,9 +8,9 @@ import random
 import random
 
 
-# -----------------------------
+
 # Load data (match scoring_2.ipynb)
-# -----------------------------
+
 Gdrug_mu = np.load("Gdrug_mu_restricted.npy")
 Gdrug_sigma = np.load("Gdrug_sigma_restricted.npy")
 Gadr = load_npz("Gadr_restricted.npz")
@@ -29,15 +29,15 @@ num_adrs = Gadr.shape[0]
 print("Gdrug_eff shape:", Gdrug_eff.shape)
 print("Gadr shape:", Gadr.shape)
 
-# -----------------------------
+
 # Load SIDER positives
-# -----------------------------
+
 sider_df = pd.read_csv("sider_lincs_common_clean_FINAL.csv")
 
 # Robust column detection
-# -----------------------------
+
 # Load index mappings
-# -----------------------------
+
 drug_index_df = pd.read_csv("drug_index.csv")
 adr_index_df = pd.read_csv("adr_index.csv")
 print("Drug index columns:", drug_index_df.columns.tolist())
@@ -45,9 +45,9 @@ print("ADR index columns:", adr_index_df.columns.tolist())
 drug_id_to_idx = dict(zip(drug_index_df["drug_id"], drug_index_df["drug_idx"]))
 adr_id_to_idx = dict(zip(adr_index_df["adr_id"], adr_index_df["adr_idx"]))
 
-# -----------------------------
+
 # Load SIDER and map to indices
-# -----------------------------
+
 sider_df = pd.read_csv("sider_lincs_common_clean_FINAL.csv")
 # print("sider df: ", sider_df.columns.tolist())
 # print("sider df head:", sider_df.head())
@@ -125,18 +125,18 @@ test_pos = [(d, a) for (d, a) in positives if d in test_drugs]
 print("Train:", len(train_pos))
 print("Val:", len(val_pos))
 print("Test:", len(test_pos))
-# -----------------------------
+
 # Feature builder (FAST: no dense toarray)
-# -----------------------------
+
 def build_features(drug_vec, adr_idx):
     # gene-level interaction (574-d vector)
     adr_mask = Gadr_dense[adr_idx]              # shape (574,)
     interaction = drug_vec * adr_mask          # elementwise interaction
     return interaction.astype(np.float32)
 
-# -----------------------------
+
 # Dataset with negative sampling
-# -----------------------------
+
 class DrugAdrDataset(Dataset):
     def __init__(self, positives, Gdrug_eff, num_adrs, neg_per_pos=10):
         self.Gdrug_eff = Gdrug_eff
@@ -167,9 +167,9 @@ class DrugAdrDataset(Dataset):
             torch.tensor(pos_feats, dtype=torch.float32),
             torch.tensor(neg_feats, dtype=torch.float32),
         )
-# -----------------------------
+
 # MLP model
-# -----------------------------
+
 class InteractionMLP(nn.Module):
     def __init__(self):
         super().__init__()
@@ -185,9 +185,9 @@ class InteractionMLP(nn.Module):
     def forward(self, x):
         return self.net(x).squeeze(-1)
 
-# -----------------------------
+
 # Evaluation (Ranking-Based)
-# -----------------------------
+
 
 def evaluate_model(model, test_pos, Gdrug_eff, Gadr, num_adrs, k_list=[10, 50]):
     model.eval()
@@ -233,9 +233,9 @@ def evaluate_model(model, test_pos, Gdrug_eff, Gadr, num_adrs, k_list=[10, 50]):
     mean_percentile_rank = np.mean(percentile_ranks)
 
     return recall_at_k, mean_percentile_rank
-# -----------------------------
+
 # Train
-# -----------------------------
+
 dataset = DrugAdrDataset(train_pos, Gdrug_eff, num_adrs, neg_per_pos=10)
 loader = DataLoader(dataset, batch_size=256, shuffle=True)
 
@@ -272,9 +272,9 @@ for epoch in range(epochs):
         eval_recall, val_mpr = evaluate_model(model, val_pos, Gdrug_eff, Gadr, num_adrs, k_list=[50])
         print("VAL Recall@50:", eval_recall[50], "VAL MPR:", val_mpr)
 
-# -----------------------------
+
 # Score all ADRs for a drug
-# -----------------------------
+
 def score_drug(drug_idx):
     model.eval()
     scores = np.zeros(num_adrs, dtype=np.float32)

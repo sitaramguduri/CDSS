@@ -1,0 +1,5975 @@
+adr_id,adr_name,GeneSymbol
+C0000737,Abdominal pain,IFNA2
+C0000786,Abortion spontaneous,ACE2
+C0000786,Abortion spontaneous,ACKR4
+C0000786,Abortion spontaneous,AGTR1
+C0000786,Abortion spontaneous,AHR
+C0000786,Abortion spontaneous,ALPG
+C0000786,Abortion spontaneous,APOE
+C0000786,Abortion spontaneous,ARNT
+C0000786,Abortion spontaneous,CD163
+C0000786,Abortion spontaneous,CD164
+C0000786,Abortion spontaneous,CD226
+C0000786,Abortion spontaneous,CD68
+C0000786,Abortion spontaneous,CD69
+C0000786,Abortion spontaneous,CD7
+C0000786,Abortion spontaneous,CD82
+C0000786,Abortion spontaneous,CD84
+C0000786,Abortion spontaneous,CD8A
+C0000786,Abortion spontaneous,CEACAM1
+C0000786,Abortion spontaneous,CEACAM5
+C0000786,Abortion spontaneous,CEACAM6
+C0000786,Abortion spontaneous,CHIA
+C0000786,Abortion spontaneous,COL13A1
+C0000786,Abortion spontaneous,COL1A1
+C0000786,Abortion spontaneous,COL1A2
+C0000786,Abortion spontaneous,COL4A6
+C0000786,Abortion spontaneous,COL5A1
+C0000786,Abortion spontaneous,COL5A2
+C0000786,Abortion spontaneous,COL6A1
+C0000786,Abortion spontaneous,COL6A3
+C0000786,Abortion spontaneous,COL9A2
+C0000786,Abortion spontaneous,CRISP3
+C0000786,Abortion spontaneous,CSF3
+C0000786,Abortion spontaneous,CSRNP3
+C0000786,Abortion spontaneous,CXCL10
+C0000786,Abortion spontaneous,CYP1A1
+C0000786,Abortion spontaneous,CYP24A1
+C0000786,Abortion spontaneous,DHFR
+C0000786,Abortion spontaneous,DIAPH2-AS1
+C0000786,Abortion spontaneous,ECM1
+C0000786,Abortion spontaneous,ECM2
+C0000786,Abortion spontaneous,EMP1
+C0000786,Abortion spontaneous,FETUB
+C0000786,Abortion spontaneous,FGF7
+C0000786,Abortion spontaneous,FLRT3
+C0000786,Abortion spontaneous,FN1
+C0000786,Abortion spontaneous,FST
+C0000786,Abortion spontaneous,GLS
+C0000786,Abortion spontaneous,HABP2
+C0000786,Abortion spontaneous,HSD17B1
+C0000786,Abortion spontaneous,IFI35
+C0000786,Abortion spontaneous,IFI44
+C0000786,Abortion spontaneous,IFI6
+C0000786,Abortion spontaneous,IFNA10
+C0000786,Abortion spontaneous,IGF1
+C0000786,Abortion spontaneous,IGF2
+C0000786,Abortion spontaneous,IGF2BP1
+C0000786,Abortion spontaneous,IGFBP1
+C0000786,Abortion spontaneous,IGFBP3
+C0000786,Abortion spontaneous,IGFBP6
+C0000786,Abortion spontaneous,IL11
+C0000786,Abortion spontaneous,IL12B
+C0000786,Abortion spontaneous,IL16
+C0000786,Abortion spontaneous,IL1B
+C0000786,Abortion spontaneous,IL20RA
+C0000786,Abortion spontaneous,IL24
+C0000786,Abortion spontaneous,IL5RA
+C0000786,Abortion spontaneous,IL6
+C0000786,Abortion spontaneous,IL9
+C0000786,Abortion spontaneous,INHA
+C0000786,Abortion spontaneous,ITGB4
+C0000786,Abortion spontaneous,ITGB6
+C0000786,Abortion spontaneous,JAK2
+C0000786,Abortion spontaneous,KLK10
+C0000786,Abortion spontaneous,LAMA4
+C0000786,Abortion spontaneous,LGALS14
+C0000786,Abortion spontaneous,LGALS3
+C0000786,Abortion spontaneous,LIF
+C0000786,Abortion spontaneous,MAP2
+C0000786,Abortion spontaneous,MAPRE3
+C0000786,Abortion spontaneous,MGAT2
+C0000786,Abortion spontaneous,MGP
+C0000786,Abortion spontaneous,MMP11
+C0000786,Abortion spontaneous,MMP12
+C0000786,Abortion spontaneous,MMP15
+C0000786,Abortion spontaneous,MMP19
+C0000786,Abortion spontaneous,MMP26
+C0000786,Abortion spontaneous,MMP7
+C0000786,Abortion spontaneous,MUC4
+C0000786,Abortion spontaneous,NCAM1
+C0000786,Abortion spontaneous,PAEP
+C0000786,Abortion spontaneous,PCDHA3
+C0000786,Abortion spontaneous,PGF
+C0000786,Abortion spontaneous,PRLR
+C0000786,Abortion spontaneous,PTGIS
+C0000786,Abortion spontaneous,PTHLH
+C0000786,Abortion spontaneous,RBP4
+C0000786,Abortion spontaneous,SDF2L1
+C0000786,Abortion spontaneous,SERPINB3
+C0000786,Abortion spontaneous,SERPINB4
+C0000786,Abortion spontaneous,SPAG5
+C0000786,Abortion spontaneous,SST
+C0000786,Abortion spontaneous,TFRC
+C0000786,Abortion spontaneous,TGFB1
+C0000786,Abortion spontaneous,TGFBI
+C0000786,Abortion spontaneous,TGFBR1
+C0000786,Abortion spontaneous,TIMP2
+C0000786,Abortion spontaneous,TIMP3
+C0000786,Abortion spontaneous,TNFSF10
+C0000786,Abortion spontaneous,TNFSF13
+C0000786,Abortion spontaneous,TNR
+C0000786,Abortion spontaneous,TRAF1
+C0000889,Acanthosis nigricans,AHR
+C0001122,Acidosis,NFE2L2
+C0001122,Acidosis,SLC9A4
+C0001175,Acquired immunodeficiency syndrome,IFNA1
+C0001175,Acquired immunodeficiency syndrome,IFNG
+C0001175,Acquired immunodeficiency syndrome,IL2
+C0001206,Acromegaly,GH1
+C0001206,Acromegaly,GNAS
+C0001206,Acromegaly,IGF1
+C0001349,Acute phase reaction,ANG
+C0001418,Adenocarcinoma,ABL1
+C0001418,Adenocarcinoma,ACE
+C0001418,Adenocarcinoma,AKT1
+C0001418,Adenocarcinoma,AKT2
+C0001418,Adenocarcinoma,ALOX12B
+C0001418,Adenocarcinoma,ALOX5
+C0001418,Adenocarcinoma,APC
+C0001418,Adenocarcinoma,APOA1
+C0001418,Adenocarcinoma,APOE
+C0001418,Adenocarcinoma,ARID1A
+C0001418,Adenocarcinoma,AZGP1
+C0001418,Adenocarcinoma,BCL2
+C0001418,Adenocarcinoma,BIRC5
+C0001418,Adenocarcinoma,CA1
+C0001418,Adenocarcinoma,CA2
+C0001418,Adenocarcinoma,CASP8
+C0001418,Adenocarcinoma,CCN2
+C0001418,Adenocarcinoma,CCND1
+C0001418,Adenocarcinoma,CDKN1C
+C0001418,Adenocarcinoma,CDKN2A
+C0001418,Adenocarcinoma,CEACAM1
+C0001418,Adenocarcinoma,CEBPB
+C0001418,Adenocarcinoma,CKB
+C0001418,Adenocarcinoma,CTNNB1
+C0001418,Adenocarcinoma,CXCL8
+C0001418,Adenocarcinoma,CYP19A1
+C0001418,Adenocarcinoma,CYP26A1
+C0001418,Adenocarcinoma,CYP2A6
+C0001418,Adenocarcinoma,CYP2E1
+C0001418,Adenocarcinoma,CYP7B1
+C0001418,Adenocarcinoma,DAPK1
+C0001418,Adenocarcinoma,DDR1
+C0001418,Adenocarcinoma,DNMT1
+C0001418,Adenocarcinoma,EEF2
+C0001418,Adenocarcinoma,EFEMP1
+C0001418,Adenocarcinoma,EGF
+C0001418,Adenocarcinoma,EGFR
+C0001418,Adenocarcinoma,ENO1
+C0001418,Adenocarcinoma,ERBB2
+C0001418,Adenocarcinoma,ESR1
+C0001418,Adenocarcinoma,ESR2
+C0001418,Adenocarcinoma,FAT4
+C0001418,Adenocarcinoma,FGF9
+C0001418,Adenocarcinoma,GAGE1
+C0001418,Adenocarcinoma,GAST
+C0001418,Adenocarcinoma,GHRL
+C0001418,Adenocarcinoma,GKN1
+C0001418,Adenocarcinoma,GMPR2
+C0001418,Adenocarcinoma,GPX3
+C0001418,Adenocarcinoma,GRB7
+C0001418,Adenocarcinoma,HDAC3
+C0001418,Adenocarcinoma,HOXA10
+C0001418,Adenocarcinoma,HRH4
+C0001418,Adenocarcinoma,HSPA8
+C0001418,Adenocarcinoma,HSPD1
+C0001418,Adenocarcinoma,ID3
+C0001418,Adenocarcinoma,IFNA1
+C0001418,Adenocarcinoma,IL1B
+C0001418,Adenocarcinoma,KCNQ1
+C0001418,Adenocarcinoma,KDR
+C0001418,Adenocarcinoma,KMT2A
+C0001418,Adenocarcinoma,KMT2C
+C0001418,Adenocarcinoma,KRAS
+C0001418,Adenocarcinoma,KRT20
+C0001418,Adenocarcinoma,KRT8
+C0001418,Adenocarcinoma,MET
+C0001418,Adenocarcinoma,MKI67
+C0001418,Adenocarcinoma,MMP14
+C0001418,Adenocarcinoma,MPP1
+C0001418,Adenocarcinoma,MSLN
+C0001418,Adenocarcinoma,MTOR
+C0001418,Adenocarcinoma,MUC2
+C0001418,Adenocarcinoma,MYC
+C0001418,Adenocarcinoma,NCOA3
+C0001418,Adenocarcinoma,NFKB1
+C0001418,Adenocarcinoma,NOS3
+C0001418,Adenocarcinoma,NPPA
+C0001418,Adenocarcinoma,NR1I2
+C0001418,Adenocarcinoma,OGG1
+C0001418,Adenocarcinoma,PAWR
+C0001418,Adenocarcinoma,PCNA
+C0001418,Adenocarcinoma,PGAM1
+C0001418,Adenocarcinoma,PGR
+C0001418,Adenocarcinoma,PHB1
+C0001418,Adenocarcinoma,PIK3CA
+C0001418,Adenocarcinoma,PLAU
+C0001418,Adenocarcinoma,PLCE1
+C0001418,Adenocarcinoma,PPARG
+C0001418,Adenocarcinoma,PRKD1
+C0001418,Adenocarcinoma,PRL
+C0001418,Adenocarcinoma,PTEN
+C0001418,Adenocarcinoma,PTGER1
+C0001418,Adenocarcinoma,PTGS2
+C0001418,Adenocarcinoma,PTPN11
+C0001418,Adenocarcinoma,PYCARD
+C0001418,Adenocarcinoma,RAMP2
+C0001418,Adenocarcinoma,RARB
+C0001418,Adenocarcinoma,RASSF1
+C0001418,Adenocarcinoma,RELA
+C0001418,Adenocarcinoma,ROBO1
+C0001418,Adenocarcinoma,RUNX3
+C0001418,Adenocarcinoma,SELENBP1
+C0001418,Adenocarcinoma,SERPINA1
+C0001418,Adenocarcinoma,SMARCC1
+C0001418,Adenocarcinoma,SOD2
+C0001418,Adenocarcinoma,SPP1
+C0001418,Adenocarcinoma,STAT3
+C0001418,Adenocarcinoma,STAT5A
+C0001418,Adenocarcinoma,STK11
+C0001418,Adenocarcinoma,SYCP1
+C0001418,Adenocarcinoma,TCF7L2
+C0001418,Adenocarcinoma,TGFB1
+C0001418,Adenocarcinoma,TNF
+C0001418,Adenocarcinoma,TNFRSF10A
+C0001418,Adenocarcinoma,TP53
+C0001418,Adenocarcinoma,TP63
+C0001418,Adenocarcinoma,TPM3
+C0001418,Adenocarcinoma,TRP53
+C0001418,Adenocarcinoma,TYRP1
+C0001418,Adenocarcinoma,UGT2B17
+C0001418,Adenocarcinoma,VEGFA
+C0001418,Adenocarcinoma,VTI1A
+C0001623,Adrenal insufficiency,CYP11A1
+C0001623,Adrenal insufficiency,NR5A1
+C0001623,Adrenal insufficiency,RX3
+C0001824,Agranulocytosis,CSF2
+C0001824,Agranulocytosis,CSF3
+C0001824,Agranulocytosis,NQO2
+C0001925,Albuminuria,ACE
+C0001925,Albuminuria,AGT
+C0001925,Albuminuria,CASP1
+C0001925,Albuminuria,CD38
+C0001925,Albuminuria,CP
+C0001925,Albuminuria,GNAQ
+C0001925,Albuminuria,GPC5
+C0001925,Albuminuria,IL6
+C0001925,Albuminuria,INS
+C0001925,Albuminuria,INS2
+C0001925,Albuminuria,LEPR
+C0001925,Albuminuria,MIR130A
+C0001925,Albuminuria,MIR145
+C0001925,Albuminuria,MIR155
+C0001925,Albuminuria,MIR424
+C0001925,Albuminuria,NCK1
+C0001925,Albuminuria,NCK2
+C0001925,Albuminuria,NPHS1
+C0001925,Albuminuria,NPHS2
+C0001925,Albuminuria,PTGS2
+C0001925,Albuminuria,PYCARD
+C0001925,Albuminuria,REN
+C0001925,Albuminuria,REN2
+C0001925,Albuminuria,SOD2
+C0001925,Albuminuria,TNF
+C0001925,Albuminuria,TRPC6
+C0001925,Albuminuria,TSLP
+C0001973,Alcoholism,ADH1B
+C0001973,Alcoholism,ADH1C
+C0001973,Alcoholism,ALDH2
+C0001973,Alcoholism,CCKAR
+C0001973,Alcoholism,CDK20
+C0001973,Alcoholism,CHRNA3
+C0001973,Alcoholism,CHRNA5
+C0001973,Alcoholism,COMT
+C0001973,Alcoholism,CYP2E1
+C0001973,Alcoholism,FSHB
+C0001973,Alcoholism,GABBR1
+C0001973,Alcoholism,GABRA2
+C0001973,Alcoholism,GABRG2
+C0001973,Alcoholism,GATA4
+C0001973,Alcoholism,GGT1
+C0001973,Alcoholism,GHSR
+C0001973,Alcoholism,GPHN
+C0001973,Alcoholism,LHB
+C0001973,Alcoholism,NPY
+C0001973,Alcoholism,NPY2R
+C0001973,Alcoholism,OPRM1
+C0001973,Alcoholism,PDE4B
+C0001973,Alcoholism,PDYN
+C0001973,Alcoholism,SHBG
+C0001973,Alcoholism,SLC6A3
+C0001973,Alcoholism,SLC6A4
+C0001973,Alcoholism,SNCA
+C0001973,Alcoholism,TACR1
+C0001973,Alcoholism,TACR3
+C0001973,Alcoholism,TAS2R16
+C0001973,Alcoholism,TAS2R38
+C0001973,Alcoholism,TBX19
+C0001973,Alcoholism,TF
+C0002063,Alkalosis,AGT
+C0002170,Alopecia,ABCC2
+C0002170,Alopecia,AR
+C0002170,Alopecia,BRD4
+C0002170,Alopecia,CRH
+C0002170,Alopecia,HR
+C0002170,Alopecia,MTHFR
+C0002170,Alopecia,PARP1
+C0002170,Alopecia,PRKAR1A
+C0002170,Alopecia,RHOA
+C0002170,Alopecia,SRD5A2
+C0002170,Alopecia,SUPV3L1
+C0002170,Alopecia,TNFRSF10A
+C0002170,Alopecia,VDR
+C0002170,Alopecia,ZDHHC13
+C0002170,Alopecia,ZFP36
+C0002622,Amnesia,APP
+C0002622,Amnesia,AVP
+C0002622,Amnesia,CSF2
+C0002622,Amnesia,GNAI1
+C0002622,Amnesia,GNAI3
+C0002622,Amnesia,GRP
+C0002622,Amnesia,HRH3
+C0002622,Amnesia,IL1A
+C0002622,Amnesia,IL2
+C0002622,Amnesia,IL6
+C0002622,Amnesia,NGF
+C0002622,Amnesia,PDYN
+C0002622,Amnesia,POMC
+C0002622,Amnesia,PREP
+C0002622,Amnesia,SIGMAR1
+C0002622,Amnesia,TAC1
+C0002622,Amnesia,TRH
+C0002726,Amyloidosis,ACHE
+C0002726,Amyloidosis,APOE
+C0002726,Amyloidosis,APP
+C0002726,Amyloidosis,PSEN1
+C0002726,Amyloidosis,TTR
+C0002726,Amyloidosis,ZDHHC13
+C0002902,Anencephaly,THAS
+C0002902,Anencephaly,TRIM36
+C0002940,Aneurysm,IL6
+C0002940,Aneurysm,MMP1
+C0002962,Angina pectoris,AVP
+C0002962,Angina pectoris,PLAU
+C0002965,Angina unstable,CXCL8
+C0002965,Angina unstable,PAPPA
+C0002965,Angina unstable,PLAU
+C0002994,Angioedema,ALB
+C0002994,Angioedema,HLA-DPB1
+C0002994,Angioedema,HLA-DQB1
+C0002994,Angioedema,HLA-DRB1
+C0002994,Angioedema,PLAT
+C0002994,Angioedema,XPNPEP2
+C0003431,Antisocial personality disorder,MAOA
+C0003460,Anuria,AGT
+C0003460,Anuria,ALB
+C0003460,Anuria,PLAU
+C0003486,Aortic aneurysm,AGT
+C0003486,Aortic aneurysm,MMP9
+C0003486,Aortic aneurysm,SKI
+C0003486,Aortic aneurysm,SMAD3
+C0003486,Aortic aneurysm,TGFBR2
+C0003537,Aphasia,L1CAM
+C0003537,Aphasia,PLAT
+C0003615,Appendicitis,IFNG
+C0003615,Appendicitis,IL10
+C0003850,Arteriosclerosis,APOE
+C0003850,Arteriosclerosis,GATA2
+C0003850,Arteriosclerosis,GSTA4
+C0003850,Arteriosclerosis,ICAM1
+C0003850,Arteriosclerosis,KL
+C0003850,Arteriosclerosis,NFKBIA
+C0003850,Arteriosclerosis,NOS3
+C0003850,Arteriosclerosis,SENP1
+C0003850,Arteriosclerosis,SERPINA1
+C0003850,Arteriosclerosis,VCAM1
+C0003860,Arteritis,CYP1A1
+C0003860,Arteritis,PON1
+C0003860,Arteritis,PROC
+C0003862,Arthralgia,CSF3
+C0003862,Arthralgia,MVK
+C0003864,Arthritis,CD69
+C0003864,Arthritis,COL2A1
+C0003864,Arthritis,COPA
+C0003864,Arthritis,HP
+C0003864,Arthritis,SYK
+C0003864,Arthritis,ZFP36
+C0003962,Ascites,CHRM3
+C0004044,Asphyxia,IFT80
+C0004093,Asthenia,IL2
+C0004096,Asthma,ADCY2
+C0004096,Asthma,ADCYAP1R1
+C0004096,Asthma,AGER
+C0004096,Asthma,ALDH2
+C0004096,Asthma,ALOX5
+C0004096,Asthma,AREG
+C0004096,Asthma,ARG1
+C0004096,Asthma,ARG2
+C0004096,Asthma,BCL2
+C0004096,Asthma,BGLAP
+C0004096,Asthma,CAT
+C0004096,Asthma,CCL11
+C0004096,Asthma,CCL2
+C0004096,Asthma,CCL5
+C0004096,Asthma,CD14
+C0004096,Asthma,CDHR3
+C0004096,Asthma,CLDN18
+C0004096,Asthma,CTLA4
+C0004096,Asthma,CTNNA3
+C0004096,Asthma,CXCL14
+C0004096,Asthma,CYP2E1
+C0004096,Asthma,DNAH5
+C0004096,Asthma,DNMT1
+C0004096,Asthma,EDN1
+C0004096,Asthma,FOXP3
+C0004096,Asthma,GSDMB
+C0004096,Asthma,GSTM1
+C0004096,Asthma,GSTP1
+C0004096,Asthma,HLA-DPB1
+C0004096,Asthma,HLA-DQA1
+C0004096,Asthma,HLA-DQB1
+C0004096,Asthma,HLA-DRB1
+C0004096,Asthma,HLA-G
+C0004096,Asthma,HMOX1
+C0004096,Asthma,HNMT
+C0004096,Asthma,HSD11B2
+C0004096,Asthma,HTR2A
+C0004096,Asthma,ICAM1
+C0004096,Asthma,IFNL3
+C0004096,Asthma,IKZF3
+C0004096,Asthma,IL10
+C0004096,Asthma,IL13
+C0004096,Asthma,IL1B
+C0004096,Asthma,IL1RL1
+C0004096,Asthma,IL1RN
+C0004096,Asthma,IL33
+C0004096,Asthma,IL4
+C0004096,Asthma,IL4R
+C0004096,Asthma,IL5
+C0004096,Asthma,IL6
+C0004096,Asthma,IL6R
+C0004096,Asthma,KIF3A
+C0004096,Asthma,KRT19
+C0004096,Asthma,MMP1
+C0004096,Asthma,MMP10
+C0004096,Asthma,MMP9
+C0004096,Asthma,MUC7
+C0004096,Asthma,MYB
+C0004096,Asthma,NAT1
+C0004096,Asthma,NOS2
+C0004096,Asthma,NPSR1
+C0004096,Asthma,NPY
+C0004096,Asthma,NQO1
+C0004096,Asthma,ORMDL3
+C0004096,Asthma,OVAL
+C0004096,Asthma,PARP1
+C0004096,Asthma,PDE4B
+C0004096,Asthma,PDE4D
+C0004096,Asthma,PLA2G7
+C0004096,Asthma,PLAU
+C0004096,Asthma,PPP2CA
+C0004096,Asthma,PTEN
+C0004096,Asthma,PTGDR2
+C0004096,Asthma,PYHIN1
+C0004096,Asthma,RAD50
+C0004096,Asthma,RNASE3
+C0004096,Asthma,SCGB3A2
+C0004096,Asthma,SOD1
+C0004096,Asthma,SPRR2B
+C0004096,Asthma,STAT4
+C0004096,Asthma,TBX21
+C0004096,Asthma,TGFB1
+C0004096,Asthma,TIMP3
+C0004096,Asthma,TNC
+C0004096,Asthma,TNF
+C0004096,Asthma,TNIP1
+C0004096,Asthma,TRPA1
+C0004096,Asthma,TSLP
+C0004096,Asthma,VEGFA
+C0004096,Asthma,WDR36
+C0004114,Astrocytoma,ACVR1
+C0004114,Astrocytoma,AR
+C0004114,Astrocytoma,BRAF
+C0004114,Astrocytoma,DLL3
+C0004114,Astrocytoma,ESR1
+C0004114,Astrocytoma,ESR2
+C0004114,Astrocytoma,FGFR1
+C0004114,Astrocytoma,G3BP1
+C0004114,Astrocytoma,HEY1
+C0004114,Astrocytoma,HEY2
+C0004114,Astrocytoma,HGF
+C0004114,Astrocytoma,HIF1A
+C0004114,Astrocytoma,KIAA1549
+C0004114,Astrocytoma,KRAS
+C0004114,Astrocytoma,LATS1
+C0004114,Astrocytoma,LATS2
+C0004114,Astrocytoma,MET
+C0004114,Astrocytoma,MMP3
+C0004114,Astrocytoma,MMP9
+C0004114,Astrocytoma,NCOA3
+C0004114,Astrocytoma,NDRG1
+C0004114,Astrocytoma,NF1
+C0004114,Astrocytoma,NOTCH1
+C0004114,Astrocytoma,NOTCH2
+C0004114,Astrocytoma,NTRK2
+C0004114,Astrocytoma,PTPN11
+C0004114,Astrocytoma,TIAL1
+C0004114,Astrocytoma,TRP53
+C0004134,Ataxia,ABCB7
+C0004134,Ataxia,ARCN1
+C0004134,Ataxia,ATP7A
+C0004134,Ataxia,CACNA1A
+C0004134,Ataxia,CACNA2D2
+C0004134,Ataxia,CACNB4
+C0004134,Ataxia,CP
+C0004134,Ataxia,DDO
+C0004134,Ataxia,DMD
+C0004134,Ataxia,EGR3
+C0004134,Ataxia,GABRA1
+C0004134,Ataxia,GABRA4
+C0004134,Ataxia,HCN1
+C0004134,Ataxia,MAPT
+C0004134,Ataxia,NLRP3
+C0004134,Ataxia,NPC1
+C0004134,Ataxia,SCN8A
+C0004134,Ataxia,SLC2A1
+C0004134,Ataxia,SNCA
+C0004134,Ataxia,SOX2
+C0004134,Ataxia,UROC1
+C0004238,Atrial fibrillation,ACE
+C0004238,Atrial fibrillation,AGBL4
+C0004238,Atrial fibrillation,AKAP6
+C0004238,Atrial fibrillation,AOPEP
+C0004238,Atrial fibrillation,ARHGAP10
+C0004238,Atrial fibrillation,ARMH3
+C0004238,Atrial fibrillation,ARNT2
+C0004238,Atrial fibrillation,ASAH1
+C0004238,Atrial fibrillation,ATXN1
+C0004238,Atrial fibrillation,BEST3
+C0004238,Atrial fibrillation,C1ORF185
+C0004238,Atrial fibrillation,CALU
+C0004238,Atrial fibrillation,CAMK2D
+C0004238,Atrial fibrillation,CAND2
+C0004238,Atrial fibrillation,CASQ2
+C0004238,Atrial fibrillation,CASZ1
+C0004238,Atrial fibrillation,CAV1
+C0004238,Atrial fibrillation,CAV2
+C0004238,Atrial fibrillation,CDK6
+C0004238,Atrial fibrillation,CDKN1A
+C0004238,Atrial fibrillation,CEP68
+C0004238,Atrial fibrillation,CFL2
+C0004238,Atrial fibrillation,CGA
+C0004238,Atrial fibrillation,COG5
+C0004238,Atrial fibrillation,CREB5
+C0004238,Atrial fibrillation,CUL4A
+C0004238,Atrial fibrillation,CYP2C19
+C0004238,Atrial fibrillation,CYTH1
+C0004238,Atrial fibrillation,DES
+C0004238,Atrial fibrillation,DGKB
+C0004238,Atrial fibrillation,DNAH10
+C0004238,Atrial fibrillation,DPF3
+C0004238,Atrial fibrillation,EDN1
+C0004238,Atrial fibrillation,EPHA3
+C0004238,Atrial fibrillation,ERBB4
+C0004238,Atrial fibrillation,ESR2
+C0004238,Atrial fibrillation,FBRSL1
+C0004238,Atrial fibrillation,FBXO32
+C0004238,Atrial fibrillation,FGF5
+C0004238,Atrial fibrillation,FRMD4B
+C0004238,Atrial fibrillation,GATA4
+C0004238,Atrial fibrillation,GCOM1
+C0004238,Atrial fibrillation,GJA5
+C0004238,Atrial fibrillation,GNB4
+C0004238,Atrial fibrillation,GOPC
+C0004238,Atrial fibrillation,GOSR2
+C0004238,Atrial fibrillation,GTF2I
+C0004238,Atrial fibrillation,GYPC
+C0004238,Atrial fibrillation,HAND2
+C0004238,Atrial fibrillation,HCN4
+C0004238,Atrial fibrillation,HERC1
+C0004238,Atrial fibrillation,HIP1R
+C0004238,Atrial fibrillation,HSF2
+C0004238,Atrial fibrillation,HSPG2
+C0004238,Atrial fibrillation,HTR4
+C0004238,Atrial fibrillation,IGF1R
+C0004238,Atrial fibrillation,IRF2BPL
+C0004238,Atrial fibrillation,KCNA5
+C0004238,Atrial fibrillation,KCND3
+C0004238,Atrial fibrillation,KCNE2
+C0004238,Atrial fibrillation,KCNH2
+C0004238,Atrial fibrillation,KCNJ5
+C0004238,Atrial fibrillation,KCNN2
+C0004238,Atrial fibrillation,KCNN3
+C0004238,Atrial fibrillation,KDM1B
+C0004238,Atrial fibrillation,KIF3C
+C0004238,Atrial fibrillation,LHX3
+C0004238,Atrial fibrillation,LINC00477
+C0004238,Atrial fibrillation,LINC01142
+C0004238,Atrial fibrillation,LINC01426
+C0004238,Atrial fibrillation,LRIG1
+C0004238,Atrial fibrillation,LRMDA
+C0004238,Atrial fibrillation,LRRC10
+C0004238,Atrial fibrillation,MAPT
+C0004238,Atrial fibrillation,MBD5
+C0004238,Atrial fibrillation,MEX3C
+C0004238,Atrial fibrillation,MIR1-1HG
+C0004238,Atrial fibrillation,MIR30B
+C0004238,Atrial fibrillation,MIR6500
+C0004238,Atrial fibrillation,MYH6
+C0004238,Atrial fibrillation,MYH7
+C0004238,Atrial fibrillation,MYO18B
+C0004238,Atrial fibrillation,MYO1C
+C0004238,Atrial fibrillation,MYOCD
+C0004238,Atrial fibrillation,MYOT
+C0004238,Atrial fibrillation,MYOZ1
+C0004238,Atrial fibrillation,MYPN
+C0004238,Atrial fibrillation,NACA
+C0004238,Atrial fibrillation,NAV2
+C0004238,Atrial fibrillation,NEBL
+C0004238,Atrial fibrillation,NEURL1
+C0004238,Atrial fibrillation,NKX2-5
+C0004238,Atrial fibrillation,NOS3
+C0004238,Atrial fibrillation,NPPB
+C0004238,Atrial fibrillation,NR3C1
+C0004238,Atrial fibrillation,NUCKS1
+C0004238,Atrial fibrillation,OPN1SW
+C0004238,Atrial fibrillation,P2RX7
+C0004238,Atrial fibrillation,PAK2
+C0004238,Atrial fibrillation,PHLDA1
+C0004238,Atrial fibrillation,PHLDB2
+C0004238,Atrial fibrillation,PITX2
+C0004238,Atrial fibrillation,PKP2
+C0004238,Atrial fibrillation,PLN
+C0004238,Atrial fibrillation,PPFIA4
+C0004238,Atrial fibrillation,PPP2R3A
+C0004238,Atrial fibrillation,PRRX1
+C0004238,Atrial fibrillation,PSMB7
+C0004238,Atrial fibrillation,PTK2
+C0004238,Atrial fibrillation,RBM20
+C0004238,Atrial fibrillation,REEP1
+C0004238,Atrial fibrillation,REEP3
+C0004238,Atrial fibrillation,RPL3L
+C0004238,Atrial fibrillation,RPS2
+C0004238,Atrial fibrillation,SCMH1
+C0004238,Atrial fibrillation,SCN10A
+C0004238,Atrial fibrillation,SCN5A
+C0004238,Atrial fibrillation,SELE
+C0004238,Atrial fibrillation,SGCA
+C0004238,Atrial fibrillation,SH3PXD2A
+C0004238,Atrial fibrillation,SIRT1
+C0004238,Atrial fibrillation,SLC27A6
+C0004238,Atrial fibrillation,SLC35F1
+C0004238,Atrial fibrillation,SLC9B1
+C0004238,Atrial fibrillation,SLIT3
+C0004238,Atrial fibrillation,SMAD7
+C0004238,Atrial fibrillation,SNRNP27
+C0004238,Atrial fibrillation,SORL1
+C0004238,Atrial fibrillation,SOX15
+C0004238,Atrial fibrillation,SOX5
+C0004238,Atrial fibrillation,SPATS2L
+C0004238,Atrial fibrillation,SSPN
+C0004238,Atrial fibrillation,SUN1
+C0004238,Atrial fibrillation,SYNE2
+C0004238,Atrial fibrillation,SYNPO2L
+C0004238,Atrial fibrillation,TBX5
+C0004238,Atrial fibrillation,TEX41
+C0004238,Atrial fibrillation,THRB
+C0004238,Atrial fibrillation,TNFSF12
+C0004238,Atrial fibrillation,TTN
+C0004238,Atrial fibrillation,TTN-AS1
+C0004238,Atrial fibrillation,TUBA8
+C0004238,Atrial fibrillation,UBE4B
+C0004238,Atrial fibrillation,USP3
+C0004238,Atrial fibrillation,USP34
+C0004238,Atrial fibrillation,UST
+C0004238,Atrial fibrillation,VWF
+C0004238,Atrial fibrillation,WDR1
+C0004238,Atrial fibrillation,WIPF1
+C0004238,Atrial fibrillation,WNT3
+C0004238,Atrial fibrillation,WNT8A
+C0004238,Atrial fibrillation,XPO1
+C0004238,Atrial fibrillation,XPO7
+C0004238,Atrial fibrillation,XXYLT1
+C0004238,Atrial fibrillation,ZFHX3
+C0004238,Atrial fibrillation,ZNF462
+C0004238,Atrial fibrillation,ZPBP2
+C0004245,Atrioventricular block,GNAI2
+C0004245,Atrioventricular block,LMNA
+C0004245,Atrioventricular block,TRPM4
+C0004509,Azoospermia,ALB
+C0004509,Azoospermia,BCL2
+C0004509,Azoospermia,CFTR
+C0004509,Azoospermia,MIR506
+C0004509,Azoospermia,SYCP3
+C0004604,Back pain,PLAT
+C0005586,Bipolar disorder,ADCY2
+C0005586,Bipolar disorder,ADD3
+C0005586,Bipolar disorder,AKAP11
+C0005586,Bipolar disorder,AKR1C4
+C0005586,Bipolar disorder,ANK3
+C0005586,Bipolar disorder,BDNF
+C0005586,Bipolar disorder,BHLHE40
+C0005586,Bipolar disorder,CACNA1C
+C0005586,Bipolar disorder,CACNA1D
+C0005586,Bipolar disorder,CD47
+C0005586,Bipolar disorder,COMT
+C0005586,Bipolar disorder,CPLX1
+C0005586,Bipolar disorder,CPLX2
+C0005586,Bipolar disorder,DIXDC1
+C0005586,Bipolar disorder,DRD1
+C0005586,Bipolar disorder,DRD5
+C0005586,Bipolar disorder,FADS2
+C0005586,Bipolar disorder,FSTL5
+C0005586,Bipolar disorder,GAD1
+C0005586,Bipolar disorder,GAD2
+C0005586,Bipolar disorder,GRIK2
+C0005586,Bipolar disorder,GRIN2A
+C0005586,Bipolar disorder,GRK3
+C0005586,Bipolar disorder,GSK3A
+C0005586,Bipolar disorder,GSK3B
+C0005586,Bipolar disorder,HDAC5
+C0005586,Bipolar disorder,HTR2A
+C0005586,Bipolar disorder,INS
+C0005586,Bipolar disorder,ITIH1
+C0005586,Bipolar disorder,LMAN2L
+C0005586,Bipolar disorder,MRPS33
+C0005586,Bipolar disorder,MTHFR
+C0005586,Bipolar disorder,NCAN
+C0005586,Bipolar disorder,NDUFV2
+C0005586,Bipolar disorder,NR3C1
+C0005586,Bipolar disorder,NTNG1
+C0005586,Bipolar disorder,NTNG2
+C0005586,Bipolar disorder,NTRK1
+C0005586,Bipolar disorder,NTRK2
+C0005586,Bipolar disorder,PACS1
+C0005586,Bipolar disorder,PC
+C0005586,Bipolar disorder,PDE4B
+C0005586,Bipolar disorder,PLEKHO1
+C0005586,Bipolar disorder,POMC
+C0005586,Bipolar disorder,POU3F2
+C0005586,Bipolar disorder,PVALB
+C0005586,Bipolar disorder,RELN
+C0005586,Bipolar disorder,RIMS1
+C0005586,Bipolar disorder,RPS6KA2
+C0005586,Bipolar disorder,S100B
+C0005586,Bipolar disorder,SCN2A
+C0005586,Bipolar disorder,SERPINA1
+C0005586,Bipolar disorder,SHANK2
+C0005586,Bipolar disorder,SLC5A3
+C0005586,Bipolar disorder,SLC6A4
+C0005586,Bipolar disorder,SNAP25
+C0005586,Bipolar disorder,SP4
+C0005586,Bipolar disorder,SRPK2
+C0005586,Bipolar disorder,SSBP2
+C0005586,Bipolar disorder,STARD9
+C0005586,Bipolar disorder,STK4
+C0005586,Bipolar disorder,TAC1
+C0005586,Bipolar disorder,TACR1
+C0005586,Bipolar disorder,TENM4
+C0005586,Bipolar disorder,THSD7A
+C0005586,Bipolar disorder,TRANK1
+C0005586,Bipolar disorder,TRPC3
+C0005586,Bipolar disorder,TRPM2
+C0005586,Bipolar disorder,TSHB
+C0005586,Bipolar disorder,ZCCHC2
+C0005586,Bipolar disorder,ZNF592
+C0005747,Blepharospasm,DRD5
+C0005758,Blister,ADAM17
+C0006079,Bowen's disease,CCND1
+C0006079,Bowen's disease,NRF1
+C0006079,Bowen's disease,PPARGC1A
+C0006079,Bowen's disease,TFAM
+C0006625,Cachexia,CD27
+C0006625,Cachexia,CDH6
+C0006625,Cachexia,CXCL8
+C0006625,Cachexia,GDF15
+C0006625,Cachexia,GHRL
+C0006625,Cachexia,IGF1
+C0006625,Cachexia,IL6
+C0006625,Cachexia,PTGS2
+C0006625,Cachexia,PTHLH
+C0006625,Cachexia,TNF
+C0006625,Cachexia,TNFRSF1A
+C0006625,Cachexia,ZFP36
+C0006663,Calcinosis,AHSG
+C0006663,Calcinosis,ALPL
+C0006663,Calcinosis,BGLAP
+C0006663,Calcinosis,BMP2
+C0006663,Calcinosis,C6
+C0006663,Calcinosis,CASP3
+C0006663,Calcinosis,CCL2
+C0006663,Calcinosis,CCL6
+C0006663,Calcinosis,COL18A1
+C0006663,Calcinosis,COL1A1
+C0006663,Calcinosis,CTC1
+C0006663,Calcinosis,DMD
+C0006663,Calcinosis,EPO
+C0006663,Calcinosis,FCGR1A
+C0006663,Calcinosis,FGF23
+C0006663,Calcinosis,GALNT3
+C0006663,Calcinosis,IL18
+C0006663,Calcinosis,IL1B
+C0006663,Calcinosis,ITGB1
+C0006663,Calcinosis,ITGB2
+C0006663,Calcinosis,JAK2
+C0006663,Calcinosis,KL
+C0006663,Calcinosis,LCN2
+C0006663,Calcinosis,LSP1
+C0006663,Calcinosis,LY86
+C0006663,Calcinosis,MMP2
+C0006663,Calcinosis,MMP9
+C0006663,Calcinosis,NOTCH1
+C0006663,Calcinosis,NR1I2
+C0006663,Calcinosis,PDGFB
+C0006663,Calcinosis,PDGFRB
+C0006663,Calcinosis,POMC
+C0006663,Calcinosis,PTPN6
+C0006663,Calcinosis,PYCARD
+C0006663,Calcinosis,RIPK3
+C0006663,Calcinosis,SLC20A2
+C0006663,Calcinosis,SLC22A6
+C0006663,Calcinosis,SNAI2
+C0006663,Calcinosis,SPN
+C0006663,Calcinosis,SPP1
+C0006663,Calcinosis,TGFB1
+C0006663,Calcinosis,TIMP1
+C0006663,Calcinosis,TIMP2
+C0006663,Calcinosis,TNF
+C0006663,Calcinosis,TP53
+C0006663,Calcinosis,XPR1
+C0007177,Cardiac tamponade,PLAT
+C0007286,Carpal tunnel syndrome,TTR
+C0007398,Catatonia,CHRM4
+C0007642,Cellulitis,GJB2
+C0007758,Cerebellar ataxia,RFC1
+C0007758,Cerebellar ataxia,RPL27A
+C0007758,Cerebellar ataxia,SCN8A
+C0007758,Cerebellar ataxia,SNX14
+C0007766,Intracranial aneurysm,NCF1
+C0007785,Cerebral infarction,ADH1B
+C0007785,Cerebral infarction,HBA1
+C0007785,Cerebral infarction,MMP2
+C0007785,Cerebral infarction,MMP9
+C0007785,Cerebral infarction,NPY
+C0007785,Cerebral infarction,PLAT
+C0007785,Cerebral infarction,PLAU
+C0007785,Cerebral infarction,PROC
+C0008031,Chest pain,CRH
+C0008311,Cholangitis,ABCB4
+C0008311,Cholangitis,CAR2
+C0008311,Cholangitis,COL1A1
+C0008311,Cholangitis,EGR1
+C0008311,Cholangitis,ITGB6
+C0008311,Cholangitis,KRT19
+C0008311,Cholangitis,TGFB2
+C0008311,Cholangitis,TIMP1
+C0008313,Cholangitis sclerosing,ABCB4
+C0008313,Cholangitis sclerosing,BCL2L11
+C0008313,Cholangitis sclerosing,HIF1A
+C0008313,Cholangitis sclerosing,MST1
+C0008313,Cholangitis sclerosing,NOS2
+C0008313,Cholangitis sclerosing,UBASH3A
+C0008350,Cholelithiasis,ASPG
+C0008370,Cholestasis,ABCB11
+C0008370,Cholestasis,ABCC2
+C0008370,Cholestasis,ABCC3
+C0008370,Cholestasis,AGT
+C0008370,Cholestasis,ALDH1B1
+C0008370,Cholestasis,ALDH8A1
+C0008370,Cholestasis,BCAT1
+C0008370,Cholestasis,BEX4
+C0008370,Cholestasis,BLVRA
+C0008370,Cholestasis,BTG3
+C0008370,Cholestasis,CADPS2
+C0008370,Cholestasis,CAT
+C0008370,Cholestasis,CCL7
+C0008370,Cholestasis,CFHR5
+C0008370,Cholestasis,CNR1
+C0008370,Cholestasis,CNR2
+C0008370,Cholestasis,CXCL2
+C0008370,Cholestasis,CXCL8
+C0008370,Cholestasis,CYP1A2
+C0008370,Cholestasis,CYP27A1
+C0008370,Cholestasis,CYP2B10
+C0008370,Cholestasis,CYP3A11
+C0008370,Cholestasis,CYP4A14
+C0008370,Cholestasis,CYP7A1
+C0008370,Cholestasis,CYP7B1
+C0008370,Cholestasis,CYP8B1
+C0008370,Cholestasis,DGAT2
+C0008370,Cholestasis,DNAJB9
+C0008370,Cholestasis,DNAJC12
+C0008370,Cholestasis,EGR1
+C0008370,Cholestasis,ERLEC1
+C0008370,Cholestasis,F2RL3
+C0008370,Cholestasis,FGA
+C0008370,Cholestasis,GTPBP2
+C0008370,Cholestasis,HACL1
+C0008370,Cholestasis,HAO2
+C0008370,Cholestasis,HJV
+C0008370,Cholestasis,HOGA1
+C0008370,Cholestasis,HSD3B7
+C0008370,Cholestasis,ICAM1
+C0008370,Cholestasis,ID4
+C0008370,Cholestasis,IGF1
+C0008370,Cholestasis,IL6
+C0008370,Cholestasis,KANK1
+C0008370,Cholestasis,LY96
+C0008370,Cholestasis,MAPK13
+C0008370,Cholestasis,MAPK14
+C0008370,Cholestasis,MBOAT1
+C0008370,Cholestasis,MIR130B
+C0008370,Cholestasis,MIR143
+C0008370,Cholestasis,MIR185
+C0008370,Cholestasis,MIR190A
+C0008370,Cholestasis,MIR218-1
+C0008370,Cholestasis,MIR24-1
+C0008370,Cholestasis,MIR27B
+C0008370,Cholestasis,MIR337
+C0008370,Cholestasis,MIR351
+C0008370,Cholestasis,MIR361
+C0008370,Cholestasis,MIR377
+C0008370,Cholestasis,MIR411
+C0008370,Cholestasis,MIR704
+C0008370,Cholestasis,MIR743B
+C0008370,Cholestasis,MIR872
+C0008370,Cholestasis,MIR875
+C0008370,Cholestasis,MIR99A
+C0008370,Cholestasis,MIRLET7B
+C0008370,Cholestasis,MIRLET7I
+C0008370,Cholestasis,NFE2L2
+C0008370,Cholestasis,NFXL1
+C0008370,Cholestasis,NIBAN1
+C0008370,Cholestasis,NOS2
+C0008370,Cholestasis,NPL
+C0008370,Cholestasis,NQO1
+C0008370,Cholestasis,NR1H2
+C0008370,Cholestasis,NR1H3
+C0008370,Cholestasis,NR1H4
+C0008370,Cholestasis,PAN2
+C0008370,Cholestasis,PDYN
+C0008370,Cholestasis,PGCKA1
+C0008370,Cholestasis,POMC
+C0008370,Cholestasis,PON1
+C0008370,Cholestasis,RDX
+C0008370,Cholestasis,REEP5
+C0008370,Cholestasis,RELA
+C0008370,Cholestasis,RFLNB
+C0008370,Cholestasis,SERPINA1
+C0008370,Cholestasis,SERPINA5
+C0008370,Cholestasis,SERPINE1
+C0008370,Cholestasis,SLC10A7
+C0008370,Cholestasis,SLC16A2
+C0008370,Cholestasis,SLC23A1
+C0008370,Cholestasis,SLC23A2
+C0008370,Cholestasis,SLC30A10
+C0008370,Cholestasis,SLC51A
+C0008370,Cholestasis,SLC51B
+C0008370,Cholestasis,SLCO1A1
+C0008370,Cholestasis,SLCO1A4
+C0008370,Cholestasis,SNAI1
+C0008370,Cholestasis,SORL1
+C0008370,Cholestasis,SORT1
+C0008370,Cholestasis,SRP72
+C0008370,Cholestasis,SULT2B1
+C0008370,Cholestasis,TLR2
+C0008370,Cholestasis,TMED7
+C0008370,Cholestasis,TMEM117
+C0008370,Cholestasis,TNF
+C0008370,Cholestasis,TRAJ18
+C0008370,Cholestasis,UBA5
+C0008370,Cholestasis,VCAM1
+C0008370,Cholestasis,VIL1
+C0008370,Cholestasis,WIPI1
+C0008489,Chorea,CACNA2D2
+C0008489,Chorea,NKX2-1
+C0008924,Cleft lip,ABCA4
+C0008924,Cleft lip,BHMT2
+C0008924,Cleft lip,FGF10
+C0008924,Cleft lip,FGF2
+C0008924,Cleft lip,FGF3
+C0008924,Cleft lip,FGF7
+C0008924,Cleft lip,FGF8
+C0008924,Cleft lip,FGF9
+C0008924,Cleft lip,FGFR1
+C0008924,Cleft lip,FGFR2
+C0008924,Cleft lip,FGFR3
+C0008924,Cleft lip,IRF6
+C0008924,Cleft lip,MAFB
+C0008924,Cleft lip,MTHFR
+C0008924,Cleft lip,MTHFS
+C0008924,Cleft lip,MTR
+C0008924,Cleft lip,MYC
+C0008924,Cleft lip,NOS3
+C0008924,Cleft lip,PTCH1
+C0008924,Cleft lip,SLC19A1
+C0008924,Cleft lip,SPRY2
+C0008924,Cleft lip,SUMO1
+C0008924,Cleft lip,TCN2
+C0008924,Cleft lip,THAS
+C0008924,Cleft lip,TP63
+C0008924,Cleft lip,TYMS
+C0008925,Cleft palate,BHMT2
+C0008925,Cleft palate,BNC2
+C0008925,Cleft palate,CASK
+C0008925,Cleft palate,CBFB
+C0008925,Cleft palate,CHUK
+C0008925,Cleft palate,COL2A1
+C0008925,Cleft palate,DLG1
+C0008925,Cleft palate,EGF
+C0008925,Cleft palate,FGF10
+C0008925,Cleft palate,FGF2
+C0008925,Cleft palate,FGF3
+C0008925,Cleft palate,FGF7
+C0008925,Cleft palate,FGF8
+C0008925,Cleft palate,FGF9
+C0008925,Cleft palate,FGFR1
+C0008925,Cleft palate,FGFR2
+C0008925,Cleft palate,FGFR3
+C0008925,Cleft palate,FZD4
+C0008925,Cleft palate,IRF6
+C0008925,Cleft palate,KIF7
+C0008925,Cleft palate,MEG3
+C0008925,Cleft palate,MNT
+C0008925,Cleft palate,MSX1
+C0008925,Cleft palate,MTHFS
+C0008925,Cleft palate,MTR
+C0008925,Cleft palate,MYC
+C0008925,Cleft palate,NEDD4L
+C0008925,Cleft palate,NOS3
+C0008925,Cleft palate,PDGFRA
+C0008925,Cleft palate,PTCH1
+C0008925,Cleft palate,RARG
+C0008925,Cleft palate,RYK
+C0008925,Cleft palate,SATB2
+C0008925,Cleft palate,SIM2
+C0008925,Cleft palate,SLC19A1
+C0008925,Cleft palate,SPRY2
+C0008925,Cleft palate,SUMO1
+C0008925,Cleft palate,TGFB1
+C0008925,Cleft palate,TGFB2
+C0008925,Cleft palate,TGFB3
+C0008925,Cleft palate,TP63
+C0008925,Cleft palate,TYMS
+C0009319,Colitis,ADAM17
+C0009319,Colitis,AHR
+C0009319,Colitis,ALOX5
+C0009319,Colitis,FGF15
+C0009319,Colitis,GCG
+C0009319,Colitis,GHRL
+C0009319,Colitis,HMOX1
+C0009319,Colitis,IFNG
+C0009319,Colitis,IGF1
+C0009319,Colitis,IL10
+C0009319,Colitis,IL17A
+C0009319,Colitis,IL1B
+C0009319,Colitis,IL4
+C0009319,Colitis,IL6
+C0009319,Colitis,MADCAM1
+C0009319,Colitis,MIF
+C0009319,Colitis,MIR150
+C0009319,Colitis,MPO
+C0009319,Colitis,NAMPT
+C0009319,Colitis,NOS2
+C0009319,Colitis,PTGS2
+C0009319,Colitis,RELA
+C0009319,Colitis,SIRT1
+C0009319,Colitis,SRC
+C0009319,Colitis,SYK
+C0009319,Colitis,TES
+C0009319,Colitis,TIMP3
+C0009319,Colitis,TNF
+C0009319,Colitis,TST
+C0009324,Colitis ulcerative,ADCY7
+C0009324,Colitis ulcerative,ALB
+C0009324,Colitis ulcerative,APOA4
+C0009324,Colitis ulcerative,ARPC2
+C0009324,Colitis ulcerative,BCL6
+C0009324,Colitis ulcerative,C3
+C0009324,Colitis ulcerative,CARD9
+C0009324,Colitis ulcerative,CASP3
+C0009324,Colitis ulcerative,CCL20
+C0009324,Colitis ulcerative,CCNY
+C0009324,Colitis ulcerative,CCR6
+C0009324,Colitis ulcerative,CDH1
+C0009324,Colitis ulcerative,CDH3
+C0009324,Colitis ulcerative,CFB
+C0009324,Colitis ulcerative,CXCL8
+C0009324,Colitis ulcerative,CXCR1
+C0009324,Colitis ulcerative,CXCR2
+C0009324,Colitis ulcerative,DAP
+C0009324,Colitis ulcerative,DEFA5
+C0009324,Colitis ulcerative,DEFA6
+C0009324,Colitis ulcerative,DPEP1
+C0009324,Colitis ulcerative,ECM1
+C0009324,Colitis ulcerative,FCGR2A
+C0009324,Colitis ulcerative,GHRL
+C0009324,Colitis ulcerative,GNA12
+C0009324,Colitis ulcerative,GPR65
+C0009324,Colitis ulcerative,HERC2
+C0009324,Colitis ulcerative,HLA-DRB1
+C0009324,Colitis ulcerative,HNF4A
+C0009324,Colitis ulcerative,HP
+C0009324,Colitis ulcerative,ICAM1
+C0009324,Colitis ulcerative,ICOSLG
+C0009324,Colitis ulcerative,IKZF1
+C0009324,Colitis ulcerative,IL10
+C0009324,Colitis ulcerative,IL12B
+C0009324,Colitis ulcerative,IL17REL
+C0009324,Colitis ulcerative,IL18RAP
+C0009324,Colitis ulcerative,IL1B
+C0009324,Colitis ulcerative,IL1R2
+C0009324,Colitis ulcerative,IL23R
+C0009324,Colitis ulcerative,IL7R
+C0009324,Colitis ulcerative,IRF4
+C0009324,Colitis ulcerative,IRF5
+C0009324,Colitis ulcerative,IRGM
+C0009324,Colitis ulcerative,JAK2
+C0009324,Colitis ulcerative,KIF21B
+C0009324,Colitis ulcerative,LAMB1
+C0009324,Colitis ulcerative,LSP1
+C0009324,Colitis ulcerative,LTF
+C0009324,Colitis ulcerative,MASP2
+C0009324,Colitis ulcerative,MMP9
+C0009324,Colitis ulcerative,MPO
+C0009324,Colitis ulcerative,MST1
+C0009324,Colitis ulcerative,NKX2-3
+C0009324,Colitis ulcerative,NOD2
+C0009324,Colitis ulcerative,ORMDL3
+C0009324,Colitis ulcerative,PRDM1
+C0009324,Colitis ulcerative,PSMG1
+C0009324,Colitis ulcerative,PTPN2
+C0009324,Colitis ulcerative,RELA
+C0009324,Colitis ulcerative,RETNLG
+C0009324,Colitis ulcerative,RIPK2
+C0009324,Colitis ulcerative,SLC11A1
+C0009324,Colitis ulcerative,SLC26A3
+C0009324,Colitis ulcerative,SPHK1
+C0009324,Colitis ulcerative,STAT3
+C0009324,Colitis ulcerative,TNF
+C0009324,Colitis ulcerative,TNFSF15
+C0009324,Colitis ulcerative,VCAM1
+C0009421,Coma,CPS1
+C0009421,Coma,CYP2D6
+C0009421,Coma,GCG
+C0009421,Coma,OXT
+C0009421,Coma,TSHB
+C0009806,Constipation,GCG
+C0009806,Constipation,GPBAR1
+C0009806,Constipation,OPRM1
+C0009806,Constipation,POMC
+C0009806,Constipation,PON1
+C0010038,Corneal opacity,GLB1
+C0010038,Corneal opacity,JAG1
+C0010038,Corneal opacity,SLC4A4
+C0010200,Cough,ACE
+C0010200,Cough,KNG1
+C0010200,Cough,TRPA1
+C0010200,Cough,TRPV1
+C0010520,Cyanosis,ADRA2B
+C0010520,Cyanosis,CYB5R3
+C0010520,Cyanosis,HBB
+C0010520,Cyanosis,TGFB2
+C0010692,Cystitis,IL11
+C0010692,Cystitis,NGF
+C0010692,Cystitis,POMC
+C0010692,Cystitis,RELA
+C0011053,Deafness,AK2
+C0011053,Deafness,BDNF
+C0011053,Deafness,CACNA1D
+C0011053,Deafness,CDC14A
+C0011053,Deafness,CLDN14
+C0011053,Deafness,ESPN
+C0011053,Deafness,GJB2
+C0011053,Deafness,GJB3
+C0011053,Deafness,JAG1
+C0011053,Deafness,LRRC51
+C0011053,Deafness,MITF
+C0011053,Deafness,OTOF
+C0011053,Deafness,PAX3
+C0011053,Deafness,PCDH15
+C0011053,Deafness,PJVK
+C0011053,Deafness,POLD1
+C0011053,Deafness,RNR1
+C0011053,Deafness,SERAC1
+C0011053,Deafness,SLC26A5
+C0011053,Deafness,SMAD4
+C0011053,Deafness,TMTC2
+C0011175,Dehydration,AVP
+C0011603,Dermatitis,A
+C0011603,Dermatitis,CXCL12
+C0011603,Dermatitis,DSG1
+C0011603,Dermatitis,EGF
+C0011603,Dermatitis,EGFR
+C0011603,Dermatitis,FLG
+C0011603,Dermatitis,HLA-B
+C0011603,Dermatitis,HLA-DQA1
+C0011603,Dermatitis,IL13
+C0011603,Dermatitis,IL4
+C0011603,Dermatitis,ITGB2
+C0011603,Dermatitis,NOD2
+C0011603,Dermatitis,PARP1
+C0011603,Dermatitis,PLA2G4A
+C0011603,Dermatitis,SHARPIN
+C0011603,Dermatitis,SYK
+C0011603,Dermatitis,VCAM1
+C0011603,Dermatitis,ZFP36
+C0011615,Dermatitis atopic,ACTL9
+C0011615,Dermatitis atopic,AHR
+C0011615,Dermatitis atopic,ARTN
+C0011615,Dermatitis atopic,CARD11
+C0011615,Dermatitis atopic,CCDC80
+C0011615,Dermatitis atopic,CCL11
+C0011615,Dermatitis atopic,CCL17
+C0011615,Dermatitis atopic,CCL22
+C0011615,Dermatitis atopic,CCL24
+C0011615,Dermatitis atopic,CCL5
+C0011615,Dermatitis atopic,CCR3
+C0011615,Dermatitis atopic,CCR5
+C0011615,Dermatitis atopic,CXCL10
+C0011615,Dermatitis atopic,CXCR3
+C0011615,Dermatitis atopic,CYP1A1
+C0011615,Dermatitis atopic,EMSY
+C0011615,Dermatitis atopic,FLG
+C0011615,Dermatitis atopic,GLB1
+C0011615,Dermatitis atopic,IFNG
+C0011615,Dermatitis atopic,IFNL3
+C0011615,Dermatitis atopic,IL10
+C0011615,Dermatitis atopic,IL13
+C0011615,Dermatitis atopic,IL1B
+C0011615,Dermatitis atopic,IL23A
+C0011615,Dermatitis atopic,IL31
+C0011615,Dermatitis atopic,IL33
+C0011615,Dermatitis atopic,IL4
+C0011615,Dermatitis atopic,IL5
+C0011615,Dermatitis atopic,IL6
+C0011615,Dermatitis atopic,MAPK8
+C0011615,Dermatitis atopic,OVOL1
+C0011615,Dermatitis atopic,PPARA
+C0011615,Dermatitis atopic,S100A8
+C0011615,Dermatitis atopic,SELE
+C0011615,Dermatitis atopic,SLC11A1
+C0011615,Dermatitis atopic,STAT6
+C0011615,Dermatitis atopic,TSLP
+C0011615,Dermatitis atopic,VNN1
+C0011615,Dermatitis atopic,VNN2
+C0011615,Dermatitis atopic,ZNF365
+C0011616,Dermatitis contact,AHR
+C0011616,Dermatitis contact,AKR1B10
+C0011616,Dermatitis contact,AKR1C2
+C0011616,Dermatitis contact,BCL2
+C0011616,Dermatitis contact,CASP8
+C0011616,Dermatitis contact,CCL27
+C0011616,Dermatitis contact,CCN2
+C0011616,Dermatitis contact,CCR1
+C0011616,Dermatitis contact,CD44
+C0011616,Dermatitis contact,CD86
+C0011616,Dermatitis contact,CLDN1
+C0011616,Dermatitis contact,CRHR1
+C0011616,Dermatitis contact,CTSS
+C0011616,Dermatitis contact,CXCL14
+C0011616,Dermatitis contact,CXCR3
+C0011616,Dermatitis contact,CYP1A1
+C0011616,Dermatitis contact,CYP1B1
+C0011616,Dermatitis contact,DDIT3
+C0011616,Dermatitis contact,DEFB1
+C0011616,Dermatitis contact,DUSP1
+C0011616,Dermatitis contact,FABP4
+C0011616,Dermatitis contact,FLG
+C0011616,Dermatitis contact,FTH1
+C0011616,Dermatitis contact,G6PD
+C0011616,Dermatitis contact,GCLC
+C0011616,Dermatitis contact,GLB1
+C0011616,Dermatitis contact,GSR
+C0011616,Dermatitis contact,GSS
+C0011616,Dermatitis contact,GSTP1
+C0011616,Dermatitis contact,HDAC4
+C0011616,Dermatitis contact,HLA-DMA
+C0011616,Dermatitis contact,HMOX1
+C0011616,Dermatitis contact,HSP90AA1
+C0011616,Dermatitis contact,HSPB1
+C0011616,Dermatitis contact,IGFBP2
+C0011616,Dermatitis contact,IGFBP6
+C0011616,Dermatitis contact,IL18
+C0011616,Dermatitis contact,ING1
+C0011616,Dermatitis contact,KIF2C
+C0011616,Dermatitis contact,KRT10
+C0011616,Dermatitis contact,KRT2
+C0011616,Dermatitis contact,KRT4
+C0011616,Dermatitis contact,LCN2
+C0011616,Dermatitis contact,MLANA
+C0011616,Dermatitis contact,MMP10
+C0011616,Dermatitis contact,MMP8
+C0011616,Dermatitis contact,NQO1
+C0011616,Dermatitis contact,NQO2
+C0011616,Dermatitis contact,NRG1
+C0011616,Dermatitis contact,OSM
+C0011616,Dermatitis contact,PI3
+C0011616,Dermatitis contact,PIR
+C0011616,Dermatitis contact,PRDX6
+C0011616,Dermatitis contact,PSMD12
+C0011616,Dermatitis contact,S100A8
+C0011616,Dermatitis contact,SAA1
+C0011616,Dermatitis contact,SERPINB3
+C0011616,Dermatitis contact,SERPINB4
+C0011616,Dermatitis contact,SLC7A11
+C0011616,Dermatitis contact,SOD1
+C0011616,Dermatitis contact,SOD3
+C0011616,Dermatitis contact,STOML2
+C0011616,Dermatitis contact,TLR4
+C0011616,Dermatitis contact,TLR8
+C0011616,Dermatitis contact,TNFSF9
+C0011616,Dermatitis contact,TPSAB1
+C0011616,Dermatitis contact,TXN
+C0011616,Dermatitis contact,TXNRD1
+C0011616,Dermatitis contact,UGT1A1
+C0011616,Dermatitis contact,UGT1A6
+C0011616,Dermatitis contact,VEGFA
+C0011633,Dermatomyositis,C2
+C0011633,Dermatomyositis,C9
+C0011633,Dermatomyositis,HLA-B
+C0011633,Dermatomyositis,IL1A
+C0011633,Dermatomyositis,IL1B
+C0011633,Dermatomyositis,TNF
+C0011848,Diabetes insipidus,AVP
+C0011848,Diabetes insipidus,POMC
+C0011849,Diabetes mellitus,A
+C0011849,Diabetes mellitus,ADIPOQ
+C0011849,Diabetes mellitus,ADRB1
+C0011849,Diabetes mellitus,ALPK1
+C0011849,Diabetes mellitus,AOC3
+C0011849,Diabetes mellitus,ATP6
+C0011849,Diabetes mellitus,CAT
+C0011849,Diabetes mellitus,CP
+C0011849,Diabetes mellitus,CPT1A
+C0011849,Diabetes mellitus,CYBB
+C0011849,Diabetes mellitus,FN1
+C0011849,Diabetes mellitus,INS
+C0011849,Diabetes mellitus,INS2
+C0011849,Diabetes mellitus,IRS1
+C0011849,Diabetes mellitus,KIF1A
+C0011849,Diabetes mellitus,KIF5B
+C0011849,Diabetes mellitus,LEPR
+C0011849,Diabetes mellitus,MAP3K5
+C0011849,Diabetes mellitus,MT2A
+C0011849,Diabetes mellitus,NCF1
+C0011849,Diabetes mellitus,NR1I2
+C0011849,Diabetes mellitus,NR1I3
+C0011849,Diabetes mellitus,POMC
+C0011849,Diabetes mellitus,PON1
+C0011849,Diabetes mellitus,PPARG
+C0011849,Diabetes mellitus,PTGS2
+C0011849,Diabetes mellitus,RAC1
+C0011849,Diabetes mellitus,SIRT1
+C0011849,Diabetes mellitus,SOD1
+C0011849,Diabetes mellitus,THBS2
+C0011849,Diabetes mellitus,ZFP57
+C0011880,Diabetic ketoacidosis,INS
+C0011884,Diabetic retinopathy,ACE2
+C0011884,Diabetic retinopathy,AGT
+C0011884,Diabetic retinopathy,AGTR1
+C0011884,Diabetic retinopathy,CASP3
+C0011884,Diabetic retinopathy,CRP
+C0011884,Diabetic retinopathy,GAD2
+C0011884,Diabetic retinopathy,ICAM1
+C0011884,Diabetic retinopathy,INS2
+C0011884,Diabetic retinopathy,PON1
+C0011884,Diabetic retinopathy,SERPINA3K
+C0011884,Diabetic retinopathy,SIRT1
+C0011884,Diabetic retinopathy,SOD1
+C0011884,Diabetic retinopathy,THBS1
+C0011884,Diabetic retinopathy,VEGFA
+C0012739,Disseminated intravascular coagulation,F2
+C0012739,Disseminated intravascular coagulation,F3
+C0012739,Disseminated intravascular coagulation,F7
+C0012739,Disseminated intravascular coagulation,OXT
+C0012739,Disseminated intravascular coagulation,PROC
+C0012739,Disseminated intravascular coagulation,SERPINC1
+C0012739,Disseminated intravascular coagulation,THBD
+C0012813,Diverticulitis,NALF1
+C0013182,Drug hypersensitivity,ABCC2
+C0013182,Drug hypersensitivity,ACE
+C0013182,Drug hypersensitivity,ADORA1
+C0013182,Drug hypersensitivity,ADORA2A
+C0013182,Drug hypersensitivity,CCL11
+C0013182,Drug hypersensitivity,CCL24
+C0013182,Drug hypersensitivity,CYP2C9
+C0013182,Drug hypersensitivity,CYSLTR1
+C0013182,Drug hypersensitivity,CYSLTR2
+C0013182,Drug hypersensitivity,FASLG
+C0013182,Drug hypersensitivity,FCER1A
+C0013182,Drug hypersensitivity,FCER1G
+C0013182,Drug hypersensitivity,GSTM1
+C0013182,Drug hypersensitivity,GSTP1
+C0013182,Drug hypersensitivity,GZMB
+C0013182,Drug hypersensitivity,HLA-B
+C0013182,Drug hypersensitivity,HLA-DRB1
+C0013182,Drug hypersensitivity,HNMT
+C0013182,Drug hypersensitivity,HSPA1A
+C0013182,Drug hypersensitivity,HSPA1L
+C0013182,Drug hypersensitivity,IL10
+C0013182,Drug hypersensitivity,IL13
+C0013182,Drug hypersensitivity,IL4
+C0013182,Drug hypersensitivity,IL4RA
+C0013182,Drug hypersensitivity,LTC4S
+C0013182,Drug hypersensitivity,MLN
+C0013182,Drug hypersensitivity,MS4A2
+C0013182,Drug hypersensitivity,NAT2
+C0013182,Drug hypersensitivity,NLRP3
+C0013182,Drug hypersensitivity,POSTN
+C0013182,Drug hypersensitivity,PTGER3
+C0013182,Drug hypersensitivity,PTGS1
+C0013182,Drug hypersensitivity,TAC1
+C0013182,Drug hypersensitivity,TBXAS1
+C0013182,Drug hypersensitivity,TNF
+C0013182,Drug hypersensitivity,TNFRSF10A
+C0013295,Duodenal ulcer,ABO
+C0013295,Duodenal ulcer,NOS2
+C0013295,Duodenal ulcer,PLA2G4A
+C0013295,Duodenal ulcer,PSCA
+C0013295,Duodenal ulcer,PTGS2
+C0013295,Duodenal ulcer,TGFB1
+C0013362,Dysarthria,NPC1
+C0013362,Dysarthria,PDE8B
+C0013595,Eczema,CD14
+C0013595,Eczema,FLG
+C0013595,Eczema,IL4RA
+C0013922,Embolism,PLAT
+C0014038,Encephalitis,FCER2
+C0014173,Endometrial hyperplasia,CDKN1C
+C0014173,Endometrial hyperplasia,CELSR2
+C0014173,Endometrial hyperplasia,CSRP1
+C0014173,Endometrial hyperplasia,DDX1
+C0014173,Endometrial hyperplasia,PTEN
+C0014175,Endometriosis,ABCC4
+C0014175,Endometriosis,ABCC9
+C0014175,Endometriosis,ABI3BP
+C0014175,Endometriosis,ACTA2
+C0014175,Endometriosis,AKR1B1
+C0014175,Endometriosis,AKR1C1
+C0014175,Endometriosis,AKR1C2
+C0014175,Endometriosis,AKR1C3
+C0014175,Endometriosis,ANKH
+C0014175,Endometriosis,ANKRD1
+C0014175,Endometriosis,ANO4
+C0014175,Endometriosis,AREG
+C0014175,Endometriosis,ARHGAP28
+C0014175,Endometriosis,ARNT
+C0014175,Endometriosis,BMP7
+C0014175,Endometriosis,BRD8
+C0014175,Endometriosis,C1R
+C0014175,Endometriosis,CCL1
+C0014175,Endometriosis,CCL11
+C0014175,Endometriosis,CCL22
+C0014175,Endometriosis,CCNE2
+C0014175,Endometriosis,CD226
+C0014175,Endometriosis,CD55
+C0014175,Endometriosis,CDKN2B-AS1
+C0014175,Endometriosis,CFD
+C0014175,Endometriosis,CLDN1
+C0014175,Endometriosis,CNIH3
+C0014175,Endometriosis,CNR1
+C0014175,Endometriosis,COPS2
+C0014175,Endometriosis,CPM
+C0014175,Endometriosis,CXCL13
+C0014175,Endometriosis,CXCL14
+C0014175,Endometriosis,CXCL9
+C0014175,Endometriosis,CYB5A
+C0014175,Endometriosis,CYP19A1
+C0014175,Endometriosis,CYP26A1
+C0014175,Endometriosis,DCSTAMP
+C0014175,Endometriosis,DDX5
+C0014175,Endometriosis,DEPP1
+C0014175,Endometriosis,DICER1
+C0014175,Endometriosis,DIO2
+C0014175,Endometriosis,DKK1
+C0014175,Endometriosis,DUSP1
+C0014175,Endometriosis,EGFR
+C0014175,Endometriosis,ELAVL1
+C0014175,Endometriosis,ENPP1
+C0014175,Endometriosis,ERRFI1
+C0014175,Endometriosis,ESR2
+C0014175,Endometriosis,FAM180A
+C0014175,Endometriosis,FBLN1
+C0014175,Endometriosis,FBN1
+C0014175,Endometriosis,FKBP5
+C0014175,Endometriosis,FMO2
+C0014175,Endometriosis,FOS
+C0014175,Endometriosis,FOXO1A
+C0014175,Endometriosis,GPX3
+C0014175,Endometriosis,GREB1
+C0014175,Endometriosis,HBEGF
+C0014175,Endometriosis,HDAC1
+C0014175,Endometriosis,HDAC2
+C0014175,Endometriosis,HERC5
+C0014175,Endometriosis,HLA-DPB1
+C0014175,Endometriosis,HS3ST3B1
+C0014175,Endometriosis,HSD17B1
+C0014175,Endometriosis,HSD17B2
+C0014175,Endometriosis,IDO1
+C0014175,Endometriosis,IFIT1
+C0014175,Endometriosis,IFNGR1
+C0014175,Endometriosis,IGF1
+C0014175,Endometriosis,IGFBP1
+C0014175,Endometriosis,IGFBP6
+C0014175,Endometriosis,IHH
+C0014175,Endometriosis,IL10
+C0014175,Endometriosis,IL15
+C0014175,Endometriosis,IL1R1
+C0014175,Endometriosis,IL7R
+C0014175,Endometriosis,IMPA2
+C0014175,Endometriosis,ITGA2
+C0014175,Endometriosis,ITGB1
+C0014175,Endometriosis,ITGB3BP
+C0014175,Endometriosis,ITGB8
+C0014175,Endometriosis,KLF13
+C0014175,Endometriosis,KLF9
+C0014175,Endometriosis,KRAS
+C0014175,Endometriosis,LAMB1
+C0014175,Endometriosis,LMOD1
+C0014175,Endometriosis,LRRK2
+C0014175,Endometriosis,LTF
+C0014175,Endometriosis,MAOA
+C0014175,Endometriosis,MAOB
+C0014175,Endometriosis,MED1
+C0014175,Endometriosis,MED14
+C0014175,Endometriosis,MED16
+C0014175,Endometriosis,MED17
+C0014175,Endometriosis,MED4
+C0014175,Endometriosis,MIR21
+C0014175,Endometriosis,MTA1
+C0014175,Endometriosis,MTA2
+C0014175,Endometriosis,MYLIP
+C0014175,Endometriosis,NCOA1
+C0014175,Endometriosis,NCOA6
+C0014175,Endometriosis,NCOR1
+C0014175,Endometriosis,NDNF
+C0014175,Endometriosis,NEDD4L
+C0014175,Endometriosis,NEFM
+C0014175,Endometriosis,NR1D2
+C0014175,Endometriosis,NR2C1
+C0014175,Endometriosis,NR2C2
+C0014175,Endometriosis,NR2F2
+C0014175,Endometriosis,NR2F6
+C0014175,Endometriosis,NR3C1
+C0014175,Endometriosis,NR3C2
+C0014175,Endometriosis,NR4A1
+C0014175,Endometriosis,NR5A1
+C0014175,Endometriosis,NRP1
+C0014175,Endometriosis,NTRK3
+C0014175,Endometriosis,OLFM4
+C0014175,Endometriosis,OSR2
+C0014175,Endometriosis,PAPPA
+C0014175,Endometriosis,PAX2
+C0014175,Endometriosis,PGR
+C0014175,Endometriosis,PLA2G2A
+C0014175,Endometriosis,PLXNC1
+C0014175,Endometriosis,PRL
+C0014175,Endometriosis,PRLR
+C0014175,Endometriosis,PTGER2
+C0014175,Endometriosis,PTGER4
+C0014175,Endometriosis,PTGFR
+C0014175,Endometriosis,PTGS2
+C0014175,Endometriosis,RARB
+C0014175,Endometriosis,RASGRP1
+C0014175,Endometriosis,RASL11A
+C0014175,Endometriosis,RBPJ
+C0014175,Endometriosis,RGS4
+C0014175,Endometriosis,RORB
+C0014175,Endometriosis,RXFP1
+C0014175,Endometriosis,SCGB3A1
+C0014175,Endometriosis,SELENOP
+C0014175,Endometriosis,SLC16A6
+C0014175,Endometriosis,SLC1A1
+C0014175,Endometriosis,SLC20A1
+C0014175,Endometriosis,SLC40A1
+C0014175,Endometriosis,SLC7A8
+C0014175,Endometriosis,SMPDL3A
+C0014175,Endometriosis,SPARCL1
+C0014175,Endometriosis,SRD5A1
+C0014175,Endometriosis,SRD5A2
+C0014175,Endometriosis,SST
+C0014175,Endometriosis,STC2
+C0014175,Endometriosis,SUCLG2
+C0014175,Endometriosis,SULF2
+C0014175,Endometriosis,TACSTD2
+C0014175,Endometriosis,TAGLN
+C0014175,Endometriosis,TGFB2
+C0014175,Endometriosis,THRA
+C0014175,Endometriosis,TMT1A
+C0014175,Endometriosis,TNC
+C0014175,Endometriosis,TOB1
+C0014175,Endometriosis,TRH
+C0014175,Endometriosis,TXNIP
+C0014175,Endometriosis,UST
+C0014175,Endometriosis,VCAN
+C0014335,Enteritis,TNFSF15
+C0014356,Enterocolitis,IL10
+C0014356,Enterocolitis,NLRC4
+C0014457,Eosinophilia,GATA3
+C0014457,Eosinophilia,IL5
+C0014457,Eosinophilia,MYD88
+C0014457,Eosinophilia,RAG2
+C0014457,Eosinophilia,SHARPIN
+C0014457,Eosinophilia,TLR2
+C0014457,Eosinophilia,TLR4
+C0014527,Epidermolysis bullosa,EXPH5
+C0014527,Epidermolysis bullosa,ITGB4
+C0014544,Epilepsy,ABCB1
+C0014544,Epilepsy,ADRA2A
+C0014544,Epilepsy,AKT1
+C0014544,Epilepsy,ALB
+C0014544,Epilepsy,ALG13
+C0014544,Epilepsy,ANKRD11
+C0014544,Epilepsy,ARID1B
+C0014544,Epilepsy,ASXL3
+C0014544,Epilepsy,AUTS2
+C0014544,Epilepsy,BDNF
+C0014544,Epilepsy,CDKL5
+C0014544,Epilepsy,CERT1
+C0014544,Epilepsy,CHD2
+C0014544,Epilepsy,CHRM1
+C0014544,Epilepsy,CHRM2
+C0014544,Epilepsy,CNTNAP2
+C0014544,Epilepsy,DDX3X
+C0014544,Epilepsy,DNM1
+C0014544,Epilepsy,DYRK1A
+C0014544,Epilepsy,EEF1A2
+C0014544,Epilepsy,ERN1
+C0014544,Epilepsy,FLNA
+C0014544,Epilepsy,FOLR1
+C0014544,Epilepsy,FOS
+C0014544,Epilepsy,FOSB
+C0014544,Epilepsy,FOXG1
+C0014544,Epilepsy,GABRB2
+C0014544,Epilepsy,GABRB3
+C0014544,Epilepsy,GFAP
+C0014544,Epilepsy,GNAO1
+C0014544,Epilepsy,GPX1
+C0014544,Epilepsy,GRIN2A
+C0014544,Epilepsy,GRIN2B
+C0014544,Epilepsy,GRM1
+C0014544,Epilepsy,HCN1
+C0014544,Epilepsy,HNRNPU
+C0014544,Epilepsy,ILK
+C0014544,Epilepsy,IQSEC2
+C0014544,Epilepsy,KCNAB2
+C0014544,Epilepsy,KCNH1
+C0014544,Epilepsy,KCNQ2
+C0014544,Epilepsy,L2HGDH
+C0014544,Epilepsy,MECP2
+C0014544,Epilepsy,MEF2C
+C0014544,Epilepsy,NEXMIF
+C0014544,Epilepsy,NPY
+C0014544,Epilepsy,NPY2R
+C0014544,Epilepsy,OPRD1
+C0014544,Epilepsy,OPRM1
+C0014544,Epilepsy,P2RX2
+C0014544,Epilepsy,P2RX4
+C0014544,Epilepsy,PCDH19
+C0014544,Epilepsy,POLG
+C0014544,Epilepsy,POMC
+C0014544,Epilepsy,PURA
+C0014544,Epilepsy,RAB39B
+C0014544,Epilepsy,SCN1A
+C0014544,Epilepsy,SCN2A
+C0014544,Epilepsy,SCN8A
+C0014544,Epilepsy,SELENOW
+C0014544,Epilepsy,SLC12A2
+C0014544,Epilepsy,SLC12A5
+C0014544,Epilepsy,SLC1A1
+C0014544,Epilepsy,SLC1A2
+C0014544,Epilepsy,SLC1A3
+C0014544,Epilepsy,SLC4A10
+C0014544,Epilepsy,SLC6A1
+C0014544,Epilepsy,SLCO1A5
+C0014544,Epilepsy,SMC1A
+C0014544,Epilepsy,SNAP25
+C0014544,Epilepsy,SPARCL1
+C0014544,Epilepsy,STAMBP
+C0014544,Epilepsy,STX1B
+C0014544,Epilepsy,STXBP1
+C0014544,Epilepsy,SYNGAP1
+C0014544,Epilepsy,TGFB1
+C0014544,Epilepsy,TSC1
+C0014544,Epilepsy,TSC2
+C0014544,Epilepsy,TXNRD1
+C0014544,Epilepsy,UBE3A
+C0014544,Epilepsy,VDAC1
+C0014544,Epilepsy,VDAC2
+C0014544,Epilepsy,WDR45
+C0014742,Erythema multiforme,MASP2
+C0014804,Erythromelalgia,SCN9A
+C0015523,Factor XI deficiency,F11
+C0015544,Failure to thrive,A
+C0015544,Failure to thrive,ABL1
+C0015624,Fanconi syndrome,EHHADH
+C0015624,Fanconi syndrome,GATM
+C0015624,Fanconi syndrome,GPX3
+C0015624,Fanconi syndrome,SLC2A2
+C0015624,Fanconi syndrome,SLC34A1
+C0015672,Fatigue,EPO
+C0015672,Fatigue,IFNA2
+C0015672,Fatigue,SOD1
+C0015672,Fatigue,TGFBR2
+C0015672,Fatigue,TNFRSF10A
+C0016059,Fibrosis,A
+C0016059,Fibrosis,ACTA2
+C0016059,Fibrosis,ADAM10
+C0016059,Fibrosis,ADCY5
+C0016059,Fibrosis,ADRA2A
+C0016059,Fibrosis,ADRA2C
+C0016059,Fibrosis,ADRB2
+C0016059,Fibrosis,AGT
+C0016059,Fibrosis,AGTR1A
+C0016059,Fibrosis,AKT1
+C0016059,Fibrosis,ALB
+C0016059,Fibrosis,ANGPT1
+C0016059,Fibrosis,APLN
+C0016059,Fibrosis,APOE
+C0016059,Fibrosis,ATM
+C0016059,Fibrosis,ATP6AP2
+C0016059,Fibrosis,BACH1
+C0016059,Fibrosis,BMP10
+C0016059,Fibrosis,CCND2
+C0016059,Fibrosis,CDH1
+C0016059,Fibrosis,CEBPB
+C0016059,Fibrosis,CHRNA1
+C0016059,Fibrosis,COL1A1
+C0016059,Fibrosis,COL1A2
+C0016059,Fibrosis,COL3A1
+C0016059,Fibrosis,CSF3
+C0016059,Fibrosis,CTNNB1
+C0016059,Fibrosis,CYP19A1
+C0016059,Fibrosis,DCN
+C0016059,Fibrosis,FECH
+C0016059,Fibrosis,GPX4
+C0016059,Fibrosis,HMOX1
+C0016059,Fibrosis,IL1B
+C0016059,Fibrosis,IL1RN
+C0016059,Fibrosis,IL4
+C0016059,Fibrosis,KLK1
+C0016059,Fibrosis,LEPR
+C0016059,Fibrosis,LGALS3
+C0016059,Fibrosis,LIPA
+C0016059,Fibrosis,MAP2K7
+C0016059,Fibrosis,MIR133A1
+C0016059,Fibrosis,MIR21
+C0016059,Fibrosis,MIR217
+C0016059,Fibrosis,MIR30D
+C0016059,Fibrosis,MIR30E
+C0016059,Fibrosis,MIRLET7F-2
+C0016059,Fibrosis,NOTCH2
+C0016059,Fibrosis,NPR1
+C0016059,Fibrosis,PDGFB
+C0016059,Fibrosis,PDGFD
+C0016059,Fibrosis,PIK3CG
+C0016059,Fibrosis,PTGS2
+C0016059,Fibrosis,REN
+C0016059,Fibrosis,S1PR2
+C0016059,Fibrosis,SFRP1
+C0016059,Fibrosis,SIRT1
+C0016059,Fibrosis,SIRT6
+C0016059,Fibrosis,SLC27A2
+C0016059,Fibrosis,SOD2
+C0016059,Fibrosis,SPHK1
+C0016059,Fibrosis,STAT3
+C0016059,Fibrosis,TAC1
+C0016059,Fibrosis,TGFB1
+C0016059,Fibrosis,THBS1
+C0016059,Fibrosis,THG1L
+C0016059,Fibrosis,TLR4
+C0016059,Fibrosis,TNF
+C0016059,Fibrosis,TRPC6
+C0016059,Fibrosis,VIM
+C0016382,Flushing,ALDH2
+C0016382,Flushing,HCAR2
+C0016382,Flushing,OXT
+C0016382,Flushing,PTGS1
+C0016382,Flushing,TPSAB1
+C0016382,Flushing,VIP
+C0016751,Fructose intolerance,ALDOB
+C0017160,Gastroenteritis,F2RL1
+C0017566,Gingival hyperplasia,FGF7
+C0017566,Gingival hyperplasia,PDGFB
+C0017567,Gingival hypertrophy,ANTXR2
+C0017574,Gingivitis,TNFRSF8
+C0017601,Glaucoma,CDKN2A
+C0017601,Glaucoma,CDKN2B
+C0017601,Glaucoma,LTBP2
+C0017601,Glaucoma,MYLK
+C0017601,Glaucoma,MYOC
+C0017601,Glaucoma,SLC4A4
+C0017601,Glaucoma,TDRD7
+C0017601,Glaucoma,TGFB2
+C0017636,Glioblastoma,APC
+C0017636,Glioblastoma,BCHE
+C0017636,Glioblastoma,BHLHE40
+C0017636,Glioblastoma,BMI1
+C0017636,Glioblastoma,BRD2
+C0017636,Glioblastoma,BRD4
+C0017636,Glioblastoma,CCNH
+C0017636,Glioblastoma,CD9
+C0017636,Glioblastoma,CDK6
+C0017636,Glioblastoma,CHI3L1
+C0017636,Glioblastoma,CSTA
+C0017636,Glioblastoma,CSTB
+C0017636,Glioblastoma,CTNND2
+C0017636,Glioblastoma,CTSB
+C0017636,Glioblastoma,CTSK
+C0017636,Glioblastoma,CXCL8
+C0017636,Glioblastoma,DEUP1
+C0017636,Glioblastoma,DUSP6
+C0017636,Glioblastoma,EGF
+C0017636,Glioblastoma,EGFR
+C0017636,Glioblastoma,FAM83D
+C0017636,Glioblastoma,FAT1
+C0017636,Glioblastoma,FN1
+C0017636,Glioblastoma,FOSL2
+C0017636,Glioblastoma,GDNF
+C0017636,Glioblastoma,GRIK2
+C0017636,Glioblastoma,GSTT1
+C0017636,Glioblastoma,H2AX
+C0017636,Glioblastoma,H3-3A
+C0017636,Glioblastoma,H3C2
+C0017636,Glioblastoma,HES1
+C0017636,Glioblastoma,HEY1
+C0017636,Glioblastoma,HIF1A
+C0017636,Glioblastoma,HNF1B
+C0017636,Glioblastoma,HOXD10
+C0017636,Glioblastoma,IFNA2
+C0017636,Glioblastoma,IL1B
+C0017636,Glioblastoma,IL2
+C0017636,Glioblastoma,JAG1
+C0017636,Glioblastoma,JAG2
+C0017636,Glioblastoma,LRRC59
+C0017636,Glioblastoma,LTBP4
+C0017636,Glioblastoma,LZTR1
+C0017636,Glioblastoma,MACIR
+C0017636,Glioblastoma,MDM4
+C0017636,Glioblastoma,MET
+C0017636,Glioblastoma,MGMT
+C0017636,Glioblastoma,MMP2
+C0017636,Glioblastoma,MMP9
+C0017636,Glioblastoma,MTOR
+C0017636,Glioblastoma,MYC
+C0017636,Glioblastoma,NCOR1
+C0017636,Glioblastoma,NDRG1
+C0017636,Glioblastoma,NF1
+C0017636,Glioblastoma,NOTCH1
+C0017636,Glioblastoma,NOTCH2
+C0017636,Glioblastoma,NOTCH3
+C0017636,Glioblastoma,PIM1
+C0017636,Glioblastoma,PML
+C0017636,Glioblastoma,POLK
+C0017636,Glioblastoma,PRKN
+C0017636,Glioblastoma,PROM1
+C0017636,Glioblastoma,PTK2
+C0017636,Glioblastoma,RECK
+C0017636,Glioblastoma,RUNX1
+C0017636,Glioblastoma,RUNX3
+C0017636,Glioblastoma,SEPTIN14
+C0017636,Glioblastoma,SLC22A10
+C0017636,Glioblastoma,SRRT
+C0017636,Glioblastoma,SUZ12
+C0017636,Glioblastoma,TES
+C0017636,Glioblastoma,TGM2
+C0017636,Glioblastoma,TMEM135
+C0017636,Glioblastoma,TNFSF10
+C0017636,Glioblastoma,TP53BP1
+C0017636,Glioblastoma,TRMT11
+C0017636,Glioblastoma,VEGFA
+C0017636,Glioblastoma,WT1
+C0017636,Glioblastoma,ZBTB7A
+C0017658,Glomerulonephritis,ADM
+C0017658,Glomerulonephritis,AGT
+C0017658,Glomerulonephritis,ALB
+C0017658,Glomerulonephritis,CCL1
+C0017658,Glomerulonephritis,CCL2
+C0017658,Glomerulonephritis,CCL3
+C0017658,Glomerulonephritis,CCL4
+C0017658,Glomerulonephritis,CCL5
+C0017658,Glomerulonephritis,CCL7
+C0017658,Glomerulonephritis,CFD
+C0017658,Glomerulonephritis,CXCL8
+C0017658,Glomerulonephritis,CXCR3
+C0017658,Glomerulonephritis,DES
+C0017658,Glomerulonephritis,ESR1
+C0017658,Glomerulonephritis,FAS
+C0017658,Glomerulonephritis,IFNG
+C0017658,Glomerulonephritis,IL10
+C0017658,Glomerulonephritis,IL18
+C0017658,Glomerulonephritis,IL1B
+C0017658,Glomerulonephritis,IL2
+C0017658,Glomerulonephritis,IL2RA
+C0017658,Glomerulonephritis,IL6
+C0017658,Glomerulonephritis,JUND
+C0017658,Glomerulonephritis,MIR100
+C0017658,Glomerulonephritis,MIR10B
+C0017658,Glomerulonephritis,NGF
+C0017658,Glomerulonephritis,NPHS1
+C0017658,Glomerulonephritis,POMC
+C0017658,Glomerulonephritis,PPARG
+C0017658,Glomerulonephritis,TNF
+C0017658,Glomerulonephritis,WT1
+C0017665,Glomerulonephritis membranous,ALB
+C0017665,Glomerulonephritis membranous,APOA1
+C0017665,Glomerulonephritis membranous,C3
+C0017665,Glomerulonephritis membranous,GAA
+C0017665,Glomerulonephritis membranous,HLA-DQA1
+C0017665,Glomerulonephritis membranous,HLA-DRB1
+C0018099,Gout,ABCG2
+C0018099,Gout,ALDH16A1
+C0018099,Gout,ALPK1
+C0018099,Gout,CARD8
+C0018099,Gout,CD14
+C0018099,Gout,IL1B
+C0018099,Gout,IL1RN
+C0018099,Gout,SLC2A9
+C0018099,Gout,TGFB1
+C0018099,Gout,XDH
+C0018378,Guillain-Barre syndrome,PMP22
+C0018552,Hamartoma,CYP1A1
+C0018552,Hamartoma,FLCN
+C0018681,Headache,CSF3
+C0018681,Headache,GNRH1
+C0018681,Headache,IFNA2
+C0018681,Headache,IL6
+C0018681,Headache,OXT
+C0018800,Cardiomegaly,ADRA1B
+C0018800,Cardiomegaly,ADRA2A
+C0018800,Cardiomegaly,ADRA2C
+C0018800,Cardiomegaly,AGT
+C0018800,Cardiomegaly,AGTR1A
+C0018800,Cardiomegaly,AHR
+C0018800,Cardiomegaly,AKAP5
+C0018800,Cardiomegaly,AKT1
+C0018800,Cardiomegaly,AOC1
+C0018800,Cardiomegaly,APLN
+C0018800,Cardiomegaly,ATP2A2
+C0018800,Cardiomegaly,BAMBI
+C0018800,Cardiomegaly,CABIN1
+C0018800,Cardiomegaly,CAV1
+C0018800,Cardiomegaly,CAV3
+C0018800,Cardiomegaly,CCND2
+C0018800,Cardiomegaly,CEBPB
+C0018800,Cardiomegaly,CPT1B
+C0018800,Cardiomegaly,CTF1
+C0018800,Cardiomegaly,CYP1A1
+C0018800,Cardiomegaly,CYP1B1
+C0018800,Cardiomegaly,CYP2C11
+C0018800,Cardiomegaly,CYP2E1
+C0018800,Cardiomegaly,CYP4A3
+C0018800,Cardiomegaly,DMD
+C0018800,Cardiomegaly,EDN1
+C0018800,Cardiomegaly,FGF2
+C0018800,Cardiomegaly,FHL2
+C0018800,Cardiomegaly,FNDC5
+C0018800,Cardiomegaly,GAS6
+C0018800,Cardiomegaly,GATA4
+C0018800,Cardiomegaly,GLRX3
+C0018800,Cardiomegaly,GRK2
+C0018800,Cardiomegaly,GSK3B
+C0018800,Cardiomegaly,GSN
+C0018800,Cardiomegaly,HAND2
+C0018800,Cardiomegaly,HDAC2
+C0018800,Cardiomegaly,HIF1A
+C0018800,Cardiomegaly,HMOX1
+C0018800,Cardiomegaly,HRC
+C0018800,Cardiomegaly,HTR2B
+C0018800,Cardiomegaly,IDH2
+C0018800,Cardiomegaly,IGF1
+C0018800,Cardiomegaly,IL18
+C0018800,Cardiomegaly,IL1B
+C0018800,Cardiomegaly,ITPR2
+C0018800,Cardiomegaly,LEP
+C0018800,Cardiomegaly,LIF
+C0018800,Cardiomegaly,MFN2
+C0018800,Cardiomegaly,MIR125B2
+C0018800,Cardiomegaly,MIR21
+C0018800,Cardiomegaly,MIR384
+C0018800,Cardiomegaly,MT2A
+C0018800,Cardiomegaly,MYBPC3
+C0018800,Cardiomegaly,MYH6
+C0018800,Cardiomegaly,MYOCD
+C0018800,Cardiomegaly,NKX2-5
+C0018800,Cardiomegaly,NOS3
+C0018800,Cardiomegaly,NPPA
+C0018800,Cardiomegaly,NPPB
+C0018800,Cardiomegaly,NPR1
+C0018800,Cardiomegaly,PIK3CG
+C0018800,Cardiomegaly,PLD1
+C0018800,Cardiomegaly,PLD2
+C0018800,Cardiomegaly,PLPP3
+C0018800,Cardiomegaly,POMC
+C0018800,Cardiomegaly,PPARA
+C0018800,Cardiomegaly,PPARD
+C0018800,Cardiomegaly,PRKAA2
+C0018800,Cardiomegaly,PRKCA
+C0018800,Cardiomegaly,PRKCB
+C0018800,Cardiomegaly,PRKCZ
+C0018800,Cardiomegaly,RBCK1
+C0018800,Cardiomegaly,REN
+C0018800,Cardiomegaly,REN2
+C0018800,Cardiomegaly,ROCK2
+C0018800,Cardiomegaly,RRAD
+C0018800,Cardiomegaly,SHC1
+C0018800,Cardiomegaly,SIRT4
+C0018800,Cardiomegaly,SIRT6
+C0018800,Cardiomegaly,SLC2A4
+C0018800,Cardiomegaly,SOD2
+C0018800,Cardiomegaly,SOX4
+C0018800,Cardiomegaly,SRC
+C0018800,Cardiomegaly,STAT3
+C0018800,Cardiomegaly,TBX20
+C0018800,Cardiomegaly,TNF
+C0018800,Cardiomegaly,TNNT2
+C0018800,Cardiomegaly,TRIM63
+C0018800,Cardiomegaly,TRPC1
+C0018800,Cardiomegaly,UCP2
+C0018843,Heat stroke,ALPL
+C0018843,Heat stroke,FOS
+C0018843,Heat stroke,IL10
+C0018843,Heat stroke,IL11RA1
+C0018843,Heat stroke,IL1A
+C0018843,Heat stroke,IL1B
+C0018843,Heat stroke,IL6
+C0018843,Heat stroke,IL6RA
+C0018843,Heat stroke,JUN
+C0018843,Heat stroke,NFKB1
+C0018843,Heat stroke,NFKB2
+C0018843,Heat stroke,REL
+C0018843,Heat stroke,RELA
+C0018843,Heat stroke,RELB
+C0018843,Heat stroke,TNF
+C0018991,Hemiplegia,CGA
+C0019151,Hepatic encephalopathy,GABRA1
+C0019151,Hepatic encephalopathy,GABRB1
+C0019151,Hepatic encephalopathy,GABRG2
+C0019151,Hepatic encephalopathy,GC
+C0019151,Hepatic encephalopathy,GLUL
+C0019151,Hepatic encephalopathy,LTA
+C0019151,Hepatic encephalopathy,MAOA
+C0019151,Hepatic encephalopathy,MAOB
+C0019151,Hepatic encephalopathy,NOS1
+C0019151,Hepatic encephalopathy,OPRM1
+C0019151,Hepatic encephalopathy,PRKDC
+C0019151,Hepatic encephalopathy,S100B
+C0019151,Hepatic encephalopathy,TNF
+C0019151,Hepatic encephalopathy,TSPO
+C0019158,Hepatitis,ALB
+C0019158,Hepatitis,ATP7B
+C0019158,Hepatitis,CAT
+C0019158,Hepatitis,ENPP2
+C0019158,Hepatitis,F2R
+C0019158,Hepatitis,FASLG
+C0019158,Hepatitis,GNMT
+C0019158,Hepatitis,GZMB
+C0019158,Hepatitis,HMOX1
+C0019158,Hepatitis,IFNG
+C0019158,Hepatitis,INS
+C0019158,Hepatitis,KEAP1
+C0019158,Hepatitis,PARP1
+C0019158,Hepatitis,SPARC
+C0019158,Hepatitis,TF
+C0019158,Hepatitis,TNF
+C0019163,Hepatitis B,CYP2A6
+C0019163,Hepatitis B,HP
+C0019163,Hepatitis B,IFNA1
+C0019163,Hepatitis B,IFNA2
+C0019163,Hepatitis B,IFNAR2
+C0019163,Hepatitis B,IFNB1
+C0019163,Hepatitis B,IFNG
+C0019163,Hepatitis B,IFNGR1
+C0019163,Hepatitis B,IL10RB
+C0019163,Hepatitis B,LOX
+C0019163,Hepatitis B,LOXL2
+C0019163,Hepatitis B,MIR100
+C0019163,Hepatitis B,MIR122
+C0019163,Hepatitis B,MIR125B2
+C0019163,Hepatitis B,MIR1468
+C0019163,Hepatitis B,MIR148A
+C0019163,Hepatitis B,MIR190A
+C0019163,Hepatitis B,MIR192
+C0019163,Hepatitis B,MIR193B
+C0019163,Hepatitis B,MIR194-2
+C0019163,Hepatitis B,MIR204
+C0019163,Hepatitis B,MIR28
+C0019163,Hepatitis B,MIR365A
+C0019163,Hepatitis B,MIR365B
+C0019163,Hepatitis B,MIR378A
+C0019163,Hepatitis B,MIR378I
+C0019163,Hepatitis B,MIR455
+C0019163,Hepatitis B,MIR6881
+C0019163,Hepatitis B,MIR885
+C0019163,Hepatitis B,MIR99A
+C0019163,Hepatitis B,MIRLET7C
+C0019163,Hepatitis B,SLC10A1
+C0019163,Hepatitis B,STAT4
+C0019187,Hepatitis alcoholic,CCL5
+C0019187,Hepatitis alcoholic,CXCL8
+C0019187,Hepatitis alcoholic,STS
+C0019187,Hepatitis alcoholic,SULT1E1
+C0019187,Hepatitis alcoholic,TNF
+C0019196,Hepatitis C,C1QC
+C0019196,Hepatitis C,CCR5
+C0019196,Hepatitis C,CD209
+C0019196,Hepatitis C,CD81
+C0019196,Hepatitis C,CYP2A6
+C0019196,Hepatitis C,CYP2B1
+C0019196,Hepatitis C,CYP3A4
+C0019196,Hepatitis C,HFE
+C0019196,Hepatitis C,IFNA2
+C0019196,Hepatitis C,IFNG
+C0019196,Hepatitis C,IFNL3
+C0019196,Hepatitis C,LOX
+C0019196,Hepatitis C,LOXL2
+C0019196,Hepatitis C,LPL
+C0019196,Hepatitis C,OPRM1
+C0019196,Hepatitis C,RIGI
+C0019196,Hepatitis C,SCARB1
+C0019196,Hepatitis C,TLR7
+C0019196,Hepatitis C,TLR8
+C0019209,Hepatomegaly,A1BG
+C0019209,Hepatomegaly,ABCC3
+C0019209,Hepatomegaly,ACOT1
+C0019209,Hepatomegaly,ADAM3A
+C0019209,Hepatomegaly,ADAMTS5
+C0019209,Hepatomegaly,ADAMTSL2
+C0019209,Hepatomegaly,AHR
+C0019209,Hepatomegaly,AKR7A3
+C0019209,Hepatomegaly,AKT1
+C0019209,Hepatomegaly,ALB
+C0019209,Hepatomegaly,ALDH1B1
+C0019209,Hepatomegaly,ATG5
+C0019209,Hepatomegaly,ATG7
+C0019209,Hepatomegaly,CABCOCO1
+C0019209,Hepatomegaly,CAMK2A
+C0019209,Hepatomegaly,COPS3
+C0019209,Hepatomegaly,CRYGD
+C0019209,Hepatomegaly,CYBA
+C0019209,Hepatomegaly,CYGB
+C0019209,Hepatomegaly,CYP1A1
+C0019209,Hepatomegaly,CYP1A2
+C0019209,Hepatomegaly,CYP1B1
+C0019209,Hepatomegaly,CYP2B1
+C0019209,Hepatomegaly,DAPK2
+C0019209,Hepatomegaly,DSCAM
+C0019209,Hepatomegaly,FGF12
+C0019209,Hepatomegaly,GALNT13
+C0019209,Hepatomegaly,GPER1
+C0019209,Hepatomegaly,GPR155
+C0019209,Hepatomegaly,HDC
+C0019209,Hepatomegaly,IFNA2
+C0019209,Hepatomegaly,IGG-2A
+C0019209,Hepatomegaly,IGH-6
+C0019209,Hepatomegaly,IGKC
+C0019209,Hepatomegaly,KEAP1
+C0019209,Hepatomegaly,KLF11
+C0019209,Hepatomegaly,KRT90
+C0019209,Hepatomegaly,LDLR
+C0019209,Hepatomegaly,LEP
+C0019209,Hepatomegaly,LEPR
+C0019209,Hepatomegaly,MAPK14
+C0019209,Hepatomegaly,MBOAT2
+C0019209,Hepatomegaly,MET
+C0019209,Hepatomegaly,MIR192
+C0019209,Hepatomegaly,MLC1
+C0019209,Hepatomegaly,MTOR
+C0019209,Hepatomegaly,MYO1B
+C0019209,Hepatomegaly,NFE2L2
+C0019209,Hepatomegaly,NOS2
+C0019209,Hepatomegaly,NOS3
+C0019209,Hepatomegaly,NR1H2
+C0019209,Hepatomegaly,NR1H4
+C0019209,Hepatomegaly,NR1I2
+C0019209,Hepatomegaly,NR1I3
+C0019209,Hepatomegaly,NR5A2
+C0019209,Hepatomegaly,PEPD
+C0019209,Hepatomegaly,PPARA
+C0019209,Hepatomegaly,PRSS35
+C0019209,Hepatomegaly,RELA
+C0019209,Hepatomegaly,RGD1565959
+C0019209,Hepatomegaly,SBSPON
+C0019209,Hepatomegaly,SESN2
+C0019209,Hepatomegaly,SLC29A3
+C0019209,Hepatomegaly,STAC3
+C0019209,Hepatomegaly,TGFB1
+C0019209,Hepatomegaly,TRIM37
+C0019212,Hepatorenal syndrome,EDN1
+C0019212,Hepatorenal syndrome,HMOX1
+C0019348,Herpes simplex,NECTIN1
+C0019348,Herpes simplex,NECTIN2
+C0019572,Hirsutism,POMC
+C0019618,Histiocytosis,SLC29A3
+C0020224,Polyhydramnios,IGF2
+C0020255,Hydrocephalus,CCDC88C
+C0020255,Hydrocephalus,CCND2
+C0020255,Hydrocephalus,CRPPA
+C0020255,Hydrocephalus,HYDIN
+C0020255,Hydrocephalus,IFT122
+C0020255,Hydrocephalus,SIN3A
+C0020255,Hydrocephalus,THAS
+C0020255,Hydrocephalus,TXN
+C0020295,Hydronephrosis,EGR1
+C0020295,Hydronephrosis,IDH2
+C0020295,Hydronephrosis,PTGER1
+C0020295,Hydronephrosis,PTGES
+C0020295,Hydronephrosis,PTGS2
+C0020438,Hypercalciuria,CYP24A1
+C0020438,Hypercalciuria,POMC
+C0020438,Hypercalciuria,PTH
+C0020438,Hypercalciuria,SLC34A1
+C0020440,Hypercapnia,NPPA
+C0020440,Hypercapnia,PDYN
+C0020459,Hyperinsulinism,CCL2
+C0020459,Hyperinsulinism,CD163
+C0020459,Hyperinsulinism,CD40
+C0020459,Hyperinsulinism,CD68
+C0020459,Hyperinsulinism,COL3A1
+C0020459,Hyperinsulinism,FANCA
+C0020459,Hyperinsulinism,FANCC
+C0020459,Hyperinsulinism,FBN1
+C0020459,Hyperinsulinism,FCGR3B
+C0020459,Hyperinsulinism,GCG
+C0020459,Hyperinsulinism,GLUD1
+C0020459,Hyperinsulinism,GPX1
+C0020459,Hyperinsulinism,HMOX1
+C0020459,Hyperinsulinism,INS
+C0020459,Hyperinsulinism,INSR
+C0020459,Hyperinsulinism,IRS1
+C0020459,Hyperinsulinism,ITGAM
+C0020459,Hyperinsulinism,LEP
+C0020459,Hyperinsulinism,LEPR
+C0020459,Hyperinsulinism,MC4R
+C0020459,Hyperinsulinism,MRC1
+C0020459,Hyperinsulinism,NEIL1
+C0020459,Hyperinsulinism,NOS3
+C0020459,Hyperinsulinism,PTPN1
+C0020459,Hyperinsulinism,TNF
+C0020459,Hyperinsulinism,TSC22D3
+C0020502,Hyperparathyroidism,CASR
+C0020502,Hyperparathyroidism,CCND1
+C0020502,Hyperparathyroidism,PTH1R
+C0020503,Hyperparathyroidism secondary,ACP5
+C0020503,Hyperparathyroidism secondary,ALPL
+C0020503,Hyperparathyroidism secondary,CRP
+C0020503,Hyperparathyroidism secondary,IL6
+C0020503,Hyperparathyroidism secondary,PTH
+C0020505,Hyperphagia,HCRT
+C0020505,Hyperphagia,LEP
+C0020505,Hyperphagia,LEPR
+C0020505,Hyperphagia,MC4R
+C0020505,Hyperphagia,NTRK2
+C0020505,Hyperphagia,VGF
+C0020507,Hyperplasia,A
+C0020507,Hyperplasia,AKT1
+C0020507,Hyperplasia,BRD4
+C0020507,Hyperplasia,CCND1
+C0020507,Hyperplasia,COL2A1
+C0020507,Hyperplasia,GLP1R
+C0020507,Hyperplasia,HIF1A
+C0020507,Hyperplasia,HMOX1
+C0020507,Hyperplasia,HSPB1
+C0020507,Hyperplasia,IL13
+C0020507,Hyperplasia,IL9
+C0020507,Hyperplasia,KCNK1
+C0020507,Hyperplasia,KDM1A
+C0020507,Hyperplasia,LDLR
+C0020507,Hyperplasia,LEP
+C0020507,Hyperplasia,MAPK6
+C0020507,Hyperplasia,MAT1A
+C0020507,Hyperplasia,MIR340
+C0020507,Hyperplasia,MMP9
+C0020507,Hyperplasia,MYCN
+C0020507,Hyperplasia,NFE2L2
+C0020507,Hyperplasia,OGG1
+C0020507,Hyperplasia,OVAL
+C0020507,Hyperplasia,PIK3CA
+C0020507,Hyperplasia,PRG4
+C0020507,Hyperplasia,PTGS2
+C0020507,Hyperplasia,RLN3
+C0020507,Hyperplasia,TCF7L2
+C0020507,Hyperplasia,TGFB1
+C0020507,Hyperplasia,TRPV3
+C0020507,Hyperplasia,ZFP36
+C0020517,Hypersensitivity,ABCF1
+C0020517,Hypersensitivity,ALB
+C0020517,Hypersensitivity,CASP1
+C0020517,Hypersensitivity,CCL11
+C0020517,Hypersensitivity,CCL12
+C0020517,Hypersensitivity,CCL17
+C0020517,Hypersensitivity,CCL19
+C0020517,Hypersensitivity,CCL2
+C0020517,Hypersensitivity,CCL20
+C0020517,Hypersensitivity,CCL24
+C0020517,Hypersensitivity,CCL3
+C0020517,Hypersensitivity,CCL4
+C0020517,Hypersensitivity,CCL7
+C0020517,Hypersensitivity,CCL8
+C0020517,Hypersensitivity,CCL9
+C0020517,Hypersensitivity,CCR1
+C0020517,Hypersensitivity,CCR2
+C0020517,Hypersensitivity,CCR6
+C0020517,Hypersensitivity,CCR9
+C0020517,Hypersensitivity,CD274
+C0020517,Hypersensitivity,CD40LG
+C0020517,Hypersensitivity,CLEC4A
+C0020517,Hypersensitivity,COMMD1
+C0020517,Hypersensitivity,CX3CL1
+C0020517,Hypersensitivity,CXCL1
+C0020517,Hypersensitivity,CXCL15
+C0020517,Hypersensitivity,CXCL5
+C0020517,Hypersensitivity,CXCL9
+C0020517,Hypersensitivity,CXCR2
+C0020517,Hypersensitivity,CXCR3
+C0020517,Hypersensitivity,CYP1A1
+C0020517,Hypersensitivity,DSG1
+C0020517,Hypersensitivity,FOXP3
+C0020517,Hypersensitivity,HLA-B
+C0020517,Hypersensitivity,HLA-DQA1
+C0020517,Hypersensitivity,HLA-DQB1
+C0020517,Hypersensitivity,HLA-DRB1
+C0020517,Hypersensitivity,HLA-DRB4
+C0020517,Hypersensitivity,HLA-DRB5
+C0020517,Hypersensitivity,HP
+C0020517,Hypersensitivity,IFNG
+C0020517,Hypersensitivity,IL13
+C0020517,Hypersensitivity,IL16
+C0020517,Hypersensitivity,IL17A
+C0020517,Hypersensitivity,IL18
+C0020517,Hypersensitivity,IL1B
+C0020517,Hypersensitivity,IL1R1
+C0020517,Hypersensitivity,IL1R2
+C0020517,Hypersensitivity,IL2RB
+C0020517,Hypersensitivity,IL4
+C0020517,Hypersensitivity,IL5RA
+C0020517,Hypersensitivity,IL6
+C0020517,Hypersensitivity,IL6ST
+C0020517,Hypersensitivity,ITGB2
+C0020517,Hypersensitivity,KNG1
+C0020517,Hypersensitivity,MAP2K6
+C0020517,Hypersensitivity,MTHFR
+C0020517,Hypersensitivity,MYLK
+C0020517,Hypersensitivity,OVAL
+C0020517,Hypersensitivity,PF4
+C0020517,Hypersensitivity,PPBP
+C0020517,Hypersensitivity,SELP
+C0020517,Hypersensitivity,SPP1
+C0020517,Hypersensitivity,TAC1
+C0020517,Hypersensitivity,TGFB1
+C0020517,Hypersensitivity,TNF
+C0020517,Hypersensitivity,TNFRSF1A
+C0020517,Hypersensitivity,TNFRSF1B
+C0020517,Hypersensitivity,TSLP
+C0020532,Hypersplenism,FAS
+C0020538,Hypertension,ABCC1
+C0020538,Hypertension,ACE
+C0020538,Hypertension,ACE2
+C0020538,Hypertension,ADCY5
+C0020538,Hypertension,ADD1
+C0020538,Hypertension,ADIPOQ
+C0020538,Hypertension,ADRA2A
+C0020538,Hypertension,ADRB1
+C0020538,Hypertension,AGER
+C0020538,Hypertension,AGT
+C0020538,Hypertension,AGTR1
+C0020538,Hypertension,AGTR1B
+C0020538,Hypertension,AGTR2
+C0020538,Hypertension,AHR
+C0020538,Hypertension,AIF1
+C0020538,Hypertension,ALAD
+C0020538,Hypertension,ALB
+C0020538,Hypertension,ALOX15
+C0020538,Hypertension,ANXA1
+C0020538,Hypertension,AOC1
+C0020538,Hypertension,AOC3
+C0020538,Hypertension,APOA1
+C0020538,Hypertension,APOE
+C0020538,Hypertension,AQP1
+C0020538,Hypertension,AR
+C0020538,Hypertension,ATOX1
+C0020538,Hypertension,ATP1A1
+C0020538,Hypertension,ATP1A2
+C0020538,Hypertension,ATP2B1
+C0020538,Hypertension,ATP2B3
+C0020538,Hypertension,AVP
+C0020538,Hypertension,BCL2
+C0020538,Hypertension,BDKRB2
+C0020538,Hypertension,CACNA1C
+C0020538,Hypertension,CACNA2D1
+C0020538,Hypertension,CALCA
+C0020538,Hypertension,CAT
+C0020538,Hypertension,CAV1
+C0020538,Hypertension,CBS
+C0020538,Hypertension,CCL2
+C0020538,Hypertension,CCN2
+C0020538,Hypertension,CD36
+C0020538,Hypertension,CELA2A
+C0020538,Hypertension,CETP
+C0020538,Hypertension,CLCNKA
+C0020538,Hypertension,CMA1
+C0020538,Hypertension,COL1A1
+C0020538,Hypertension,COL3A1
+C0020538,Hypertension,CRHR2
+C0020538,Hypertension,CRP
+C0020538,Hypertension,CXCL2
+C0020538,Hypertension,CXCR2
+C0020538,Hypertension,CYBA
+C0020538,Hypertension,CYBB
+C0020538,Hypertension,CYP1A1
+C0020538,Hypertension,CYP4A10
+C0020538,Hypertension,CYP4F2
+C0020538,Hypertension,DRD2
+C0020538,Hypertension,DUSP5
+C0020538,Hypertension,ECE1
+C0020538,Hypertension,EDN1
+C0020538,Hypertension,EDN3
+C0020538,Hypertension,EDNRA
+C0020538,Hypertension,ELN
+C0020538,Hypertension,EPO
+C0020538,Hypertension,ERAP1
+C0020538,Hypertension,F11
+C0020538,Hypertension,F12
+C0020538,Hypertension,FGF21
+C0020538,Hypertension,FN1
+C0020538,Hypertension,FNDC5
+C0020538,Hypertension,FOS
+C0020538,Hypertension,FXYD2
+C0020538,Hypertension,GAD1
+C0020538,Hypertension,GAL
+C0020538,Hypertension,GCG
+C0020538,Hypertension,GCH1
+C0020538,Hypertension,GCLC
+C0020538,Hypertension,GJA1
+C0020538,Hypertension,GJA4
+C0020538,Hypertension,GJA5
+C0020538,Hypertension,GJC1
+C0020538,Hypertension,GLP1R
+C0020538,Hypertension,GNAS
+C0020538,Hypertension,GNB3
+C0020538,Hypertension,GNRH1
+C0020538,Hypertension,GP1BA
+C0020538,Hypertension,GPX1
+C0020538,Hypertension,GRK2
+C0020538,Hypertension,GSK3B
+C0020538,Hypertension,GSTA5
+C0020538,Hypertension,GSTP1
+C0020538,Hypertension,GSTT1
+C0020538,Hypertension,GSTT2
+C0020538,Hypertension,GUCY1A1
+C0020538,Hypertension,HIF1A
+C0020538,Hypertension,HMGB1
+C0020538,Hypertension,HMOX1
+C0020538,Hypertension,HP
+C0020538,Hypertension,HRH2
+C0020538,Hypertension,HRH3
+C0020538,Hypertension,HSD11B1
+C0020538,Hypertension,HSD11B2
+C0020538,Hypertension,HTR2B
+C0020538,Hypertension,ICAM1
+C0020538,Hypertension,IER3
+C0020538,Hypertension,IGF1
+C0020538,Hypertension,IKBKB
+C0020538,Hypertension,IL1B
+C0020538,Hypertension,IL6
+C0020538,Hypertension,INPPL1
+C0020538,Hypertension,INS
+C0020538,Hypertension,INS2
+C0020538,Hypertension,ITM2B
+C0020538,Hypertension,JUN
+C0020538,Hypertension,KCNJ1
+C0020538,Hypertension,KCNMB1
+C0020538,Hypertension,KLK1
+C0020538,Hypertension,KNG1
+C0020538,Hypertension,LEP
+C0020538,Hypertension,LEPR
+C0020538,Hypertension,LHB
+C0020538,Hypertension,LPL
+C0020538,Hypertension,LTF
+C0020538,Hypertension,MC2R
+C0020538,Hypertension,MCPT1
+C0020538,Hypertension,MDH1
+C0020538,Hypertension,MMP2
+C0020538,Hypertension,MMP9
+C0020538,Hypertension,MOXD2
+C0020538,Hypertension,MTOR
+C0020538,Hypertension,MYD88
+C0020538,Hypertension,MYH7
+C0020538,Hypertension,NCF1
+C0020538,Hypertension,NEDD4L
+C0020538,Hypertension,NFE2L2
+C0020538,Hypertension,NHERF2
+C0020538,Hypertension,NOS2
+C0020538,Hypertension,NOS3
+C0020538,Hypertension,NOX4
+C0020538,Hypertension,NPPA
+C0020538,Hypertension,NPPB
+C0020538,Hypertension,NPR1
+C0020538,Hypertension,NPTN
+C0020538,Hypertension,NR3C1
+C0020538,Hypertension,OLR1
+C0020538,Hypertension,ORAI1
+C0020538,Hypertension,OXSR1
+C0020538,Hypertension,OXT
+C0020538,Hypertension,PLAT
+C0020538,Hypertension,PLG
+C0020538,Hypertension,POMC
+C0020538,Hypertension,PPARA
+C0020538,Hypertension,PPARG
+C0020538,Hypertension,PPBP
+C0020538,Hypertension,PRKCD
+C0020538,Hypertension,PROC
+C0020538,Hypertension,PTEN
+C0020538,Hypertension,PTGS2
+C0020538,Hypertension,PTH
+C0020538,Hypertension,PTPN1
+C0020538,Hypertension,RALBP1
+C0020538,Hypertension,REG3G
+C0020538,Hypertension,RELA
+C0020538,Hypertension,REN
+C0020538,Hypertension,REN2
+C0020538,Hypertension,RGS2
+C0020538,Hypertension,RGS5
+C0020538,Hypertension,RPS6KB1
+C0020538,Hypertension,SCNN1A
+C0020538,Hypertension,SCNN1B
+C0020538,Hypertension,SCNN1G
+C0020538,Hypertension,SELP
+C0020538,Hypertension,SERPINE1
+C0020538,Hypertension,SLC12A2
+C0020538,Hypertension,SLC12A3
+C0020538,Hypertension,SLC6A18
+C0020538,Hypertension,SLC6A2
+C0020538,Hypertension,SOD1
+C0020538,Hypertension,SOD2
+C0020538,Hypertension,SOD3
+C0020538,Hypertension,STIM1
+C0020538,Hypertension,STK11
+C0020538,Hypertension,STK39
+C0020538,Hypertension,TACR1
+C0020538,Hypertension,TGFB1
+C0020538,Hypertension,TGM2
+C0020538,Hypertension,TH
+C0020538,Hypertension,TIMP1
+C0020538,Hypertension,TLR3
+C0020538,Hypertension,TLR4
+C0020538,Hypertension,TNF
+C0020538,Hypertension,TP53
+C0020538,Hypertension,TPM1
+C0020538,Hypertension,TRH
+C0020538,Hypertension,TRPC3
+C0020538,Hypertension,TRPC5
+C0020538,Hypertension,UCN
+C0020538,Hypertension,UCP2
+C0020538,Hypertension,UMOD
+C0020538,Hypertension,UTS2
+C0020538,Hypertension,VAV3
+C0020538,Hypertension,VCAM1
+C0020538,Hypertension,VDR
+C0020538,Hypertension,VWF
+C0020538,Hypertension,WNK1
+C0020538,Hypertension,WNK4
+C0020550,Hyperthyroidism,AQP1
+C0020550,Hyperthyroidism,CARTPT
+C0020550,Hyperthyroidism,CAT
+C0020550,Hyperthyroidism,GPX1
+C0020550,Hyperthyroidism,GSR
+C0020550,Hyperthyroidism,PON1
+C0020550,Hyperthyroidism,SOD1
+C0020550,Hyperthyroidism,SOD2
+C0020550,Hyperthyroidism,TSHR
+C0020555,Hypertrichosis,SLC29A3
+C0020564,Hypertrophy,AGER
+C0020564,Hypertrophy,AGT
+C0020564,Hypertrophy,AHR
+C0020564,Hypertrophy,ANGPT1
+C0020564,Hypertrophy,ATP6
+C0020564,Hypertrophy,CDKN1A
+C0020564,Hypertrophy,COX1
+C0020564,Hypertrophy,CREM
+C0020564,Hypertrophy,CSF3
+C0020564,Hypertrophy,EDN1
+C0020564,Hypertrophy,F2
+C0020564,Hypertrophy,IGF2R
+C0020564,Hypertrophy,MAPK1
+C0020564,Hypertrophy,MAPK3
+C0020564,Hypertrophy,NPY
+C0020564,Hypertrophy,PTEN
+C0020564,Hypertrophy,RLN1
+C0020564,Hypertrophy,SIRT1
+C0020564,Hypertrophy,TRPC6
+C0020578,Hyperventilation,AHR
+C0020578,Hyperventilation,VAV3
+C0020619,Hypogonadism,CGB3
+C0020619,Hypogonadism,CYP17A1
+C0020619,Hypogonadism,CYP19A1
+C0020619,Hypogonadism,FSHB
+C0020619,Hypogonadism,GNRH1
+C0020619,Hypogonadism,GNRHR
+C0020619,Hypogonadism,LEP
+C0020619,Hypogonadism,LEPR
+C0020619,Hypogonadism,LHB
+C0020619,Hypogonadism,NR0B1
+C0020619,Hypogonadism,POLD1
+C0020619,Hypogonadism,PRL
+C0020619,Hypogonadism,SLC29A3
+C0020619,Hypogonadism,TAC3
+C0020619,Hypogonadism,TACR3
+C0020626,Hypoparathyroidism,CASR
+C0020635,Hypopituitarism,CYP17A1
+C0020635,Hypopituitarism,CYP19A1
+C0020635,Hypopituitarism,PRL
+C0020649,Hypotension,ACE
+C0020649,Hypotension,ADORA1
+C0020649,Hypotension,ADORA2A
+C0020649,Hypotension,ADRA1B
+C0020649,Hypotension,ADRA2A
+C0020649,Hypotension,AGT
+C0020649,Hypotension,ALB
+C0020649,Hypotension,APLN
+C0020649,Hypotension,AVP
+C0020649,Hypotension,BDKRB2
+C0020649,Hypotension,CAT
+C0020649,Hypotension,CNR1
+C0020649,Hypotension,CRH
+C0020649,Hypotension,CTF1
+C0020649,Hypotension,DRD1
+C0020649,Hypotension,DRD2
+C0020649,Hypotension,EDN1
+C0020649,Hypotension,EDN2
+C0020649,Hypotension,EDN3
+C0020649,Hypotension,FGF1
+C0020649,Hypotension,GCG
+C0020649,Hypotension,GRIA1
+C0020649,Hypotension,GRIN2B
+C0020649,Hypotension,HRH1
+C0020649,Hypotension,HTR1B
+C0020649,Hypotension,HTR1D
+C0020649,Hypotension,IFNG
+C0020649,Hypotension,IL1A
+C0020649,Hypotension,IL1B
+C0020649,Hypotension,IL2
+C0020649,Hypotension,IL6
+C0020649,Hypotension,INS
+C0020649,Hypotension,KNG1
+C0020649,Hypotension,LTF
+C0020649,Hypotension,MAOA
+C0020649,Hypotension,MAOB
+C0020649,Hypotension,NISCH
+C0020649,Hypotension,NPPA
+C0020649,Hypotension,NPPB
+C0020649,Hypotension,OXT
+C0020649,Hypotension,PDYN
+C0020649,Hypotension,PLAT
+C0020649,Hypotension,PLAU
+C0020649,Hypotension,PNOC
+C0020649,Hypotension,POMC
+C0020649,Hypotension,PRL
+C0020649,Hypotension,REN
+C0020649,Hypotension,SCNN1G
+C0020649,Hypotension,SLC9A3
+C0020649,Hypotension,SOD1
+C0020649,Hypotension,TAC1
+C0020649,Hypotension,TNF
+C0020649,Hypotension,UCN
+C0020649,Hypotension,VIP
+C0020676,Hypothyroidism,SLC16A2
+C0020676,Hypothyroidism,SLC30A10
+C0020676,Hypothyroidism,TRHR
+C0020676,Hypothyroidism,TSHB
+C0020678,Hypotrichosis,KRT71
+C0020678,Hypotrichosis,KRT74
+C0020678,Hypotrichosis,LIPH
+C0020678,Hypotrichosis,LPAR6
+C0020678,Hypotrichosis,RPL21
+C0020678,Hypotrichosis,SNRPE
+C0020757,Ichthyosis,GJB2
+C0020757,Ichthyosis,PNPLA1
+C0020757,Ichthyosis,SUPV3L1
+C0021308,Infarction,CSF3
+C0021308,Infarction,PRL
+C0021359,Infertility,ADR-1
+C0021359,Infertility,AVR-15
+C0021359,Infertility,C02B4.3
+C0021359,Infertility,C17G10.7
+C0021359,Infertility,C35E7.9
+C0021359,Infertility,CHC-1
+C0021359,Infertility,CIDS-2
+C0021359,Infertility,CLEC-137
+C0021359,Infertility,CNC-8
+C0021359,Infertility,CTL-1
+C0021359,Infertility,CTL-2
+C0021359,Infertility,CYN-8
+C0021359,Infertility,EHMT2
+C0021359,Infertility,F02C9.2
+C0021359,Infertility,F08F1.4
+C0021359,Infertility,F13H8.2
+C0021359,Infertility,F32D8.8
+C0021359,Infertility,F38H4.3
+C0021359,Infertility,F44D12.6
+C0021359,Infertility,F47B10.4
+C0021359,Infertility,F49C5.7
+C0021359,Infertility,F53E10.1
+C0021359,Infertility,F54D10.7
+C0021359,Infertility,F56C9.10
+C0021359,Infertility,FBXA-206
+C0021359,Infertility,FBXA-78
+C0021359,Infertility,FKH-3
+C0021359,Infertility,GLY-1
+C0021359,Infertility,GPX-7
+C0021359,Infertility,GST-18
+C0021359,Infertility,HDA-6
+C0021359,Infertility,HEN-1
+C0021359,Infertility,HXK-1
+C0021359,Infertility,KL
+C0021359,Infertility,LEC-10
+C0021359,Infertility,LEPR
+C0021359,Infertility,MKS-6
+C0021359,Infertility,NCX-10
+C0021359,Infertility,NHR-166
+C0021359,Infertility,NHR-185
+C0021359,Infertility,NSSP-78
+C0021359,Infertility,ODR-4
+C0021359,Infertility,PALS-27
+C0021359,Infertility,PIGW-1
+C0021359,Infertility,PRDX-2
+C0021359,Infertility,PRDX-3
+C0021359,Infertility,PTGER2
+C0021359,Infertility,R06C7.6
+C0021359,Infertility,SMD-1
+C0021359,Infertility,SPP-20
+C0021359,Infertility,SRE-25
+C0021359,Infertility,SRH-250
+C0021359,Infertility,SUL-3
+C0021359,Infertility,T07E3.4
+C0021359,Infertility,T20F7.3
+C0021359,Infertility,TBC-18
+C0021359,Infertility,TTC19
+C0021359,Infertility,UEV-2
+C0021359,Infertility,VMAT
+C0021359,Infertility,W04G3.5
+C0021359,Infertility,Y17G7B.19
+C0021359,Infertility,Y57G11A.2
+C0021359,Infertility,Y62H9A.3
+C0021361,Infertility female,ADIPOR1
+C0021361,Infertility female,ADIPOR2
+C0021361,Infertility female,AHR
+C0021361,Infertility female,AR
+C0021361,Infertility female,BMAL1
+C0021361,Infertility female,CACNA2D2
+C0021361,Infertility female,CCN2
+C0021361,Infertility female,CEBPA
+C0021361,Infertility female,CEBPB
+C0021361,Infertility female,CYP17A1
+C0021361,Infertility female,CYP19A1
+C0021361,Infertility female,DHFR
+C0021361,Infertility female,DNMT3B
+C0021361,Infertility female,ESR1
+C0021361,Infertility female,ESR2
+C0021361,Infertility female,FSHB
+C0021361,Infertility female,LEP
+C0021361,Infertility female,LEPR
+C0021361,Infertility female,LHB
+C0021361,Infertility female,LIF
+C0021361,Infertility female,MAPK1
+C0021361,Infertility female,MAPK3
+C0021361,Infertility female,MTHFR
+C0021361,Infertility female,NR1I2
+C0021361,Infertility female,NR2F2
+C0021361,Infertility female,NR5A2
+C0021361,Infertility female,PAPPA
+C0021361,Infertility female,PRL
+C0021361,Infertility female,SMO
+C0021361,Infertility female,TP53
+C0021364,Infertility male,ACE
+C0021364,Infertility male,AHR
+C0021364,Infertility male,ALDH2
+C0021364,Infertility male,AR
+C0021364,Infertility male,AURKC
+C0021364,Infertility male,BAX
+C0021364,Infertility male,BCL2
+C0021364,Infertility male,CBL
+C0021364,Infertility male,CDC14A
+C0021364,Infertility male,CFTR
+C0021364,Infertility male,CST8
+C0021364,Infertility male,CYP17A1
+C0021364,Infertility male,CYP1A1
+C0021364,Infertility male,DNAAF4
+C0021364,Infertility male,DROSHA
+C0021364,Infertility male,ELOVL2
+C0021364,Infertility male,ENO1
+C0021364,Infertility male,ENO4
+C0021364,Infertility male,ESR1
+C0021364,Infertility male,FOXK2
+C0021364,Infertility male,FSHB
+C0021364,Infertility male,GNAT3
+C0021364,Infertility male,GNRH1
+C0021364,Infertility male,GPX4
+C0021364,Infertility male,HOXD11
+C0021364,Infertility male,KMT2D
+C0021364,Infertility male,LDHC
+C0021364,Infertility male,LHB
+C0021364,Infertility male,LHCGR
+C0021364,Infertility male,MDM2
+C0021364,Infertility male,MTHFR
+C0021364,Infertility male,MTR
+C0021364,Infertility male,MTRR
+C0021364,Infertility male,NANOS2
+C0021364,Infertility male,NOS3
+C0021364,Infertility male,NR1H4
+C0021364,Infertility male,NR5A1
+C0021364,Infertility male,NSUN7
+C0021364,Infertility male,OGG1
+C0021364,Infertility male,POLG
+C0021364,Infertility male,PON1
+C0021364,Infertility male,RAD23B
+C0021364,Infertility male,SELENOP
+C0021364,Infertility male,SOD2
+C0021364,Infertility male,STX2
+C0021364,Infertility male,TAS1R3
+C0021364,Infertility male,TDRD7
+C0021364,Infertility male,TP53
+C0021364,Infertility male,TSC22D3
+C0021364,Infertility male,XRCC1
+C0021368,Inflammation,ABCB4
+C0021368,Inflammation,ACE2
+C0021368,Inflammation,ADIPOQ
+C0021368,Inflammation,AGER
+C0021368,Inflammation,AGT
+C0021368,Inflammation,AHR
+C0021368,Inflammation,AKT1
+C0021368,Inflammation,ANGPT1
+C0021368,Inflammation,APOA1
+C0021368,Inflammation,ASIC1
+C0021368,Inflammation,ASIC2
+C0021368,Inflammation,ASIC3
+C0021368,Inflammation,ATP7B
+C0021368,Inflammation,BDKRB1
+C0021368,Inflammation,BDKRB2
+C0021368,Inflammation,BDNF
+C0021368,Inflammation,CALCA
+C0021368,Inflammation,CASP1
+C0021368,Inflammation,CCK
+C0021368,Inflammation,CCL11
+C0021368,Inflammation,CCL2
+C0021368,Inflammation,CCL3
+C0021368,Inflammation,CCL4
+C0021368,Inflammation,CD3E
+C0021368,Inflammation,CHRNA4
+C0021368,Inflammation,CHRNB2
+C0021368,Inflammation,CLN6
+C0021368,Inflammation,COL2A1
+C0021368,Inflammation,CRHR2
+C0021368,Inflammation,CRP
+C0021368,Inflammation,CSF2
+C0021368,Inflammation,CXCL2
+C0021368,Inflammation,CXCL8
+C0021368,Inflammation,CXCR3
+C0021368,Inflammation,CYP2B1
+C0021368,Inflammation,CYP2B2
+C0021368,Inflammation,CYP3A2
+C0021368,Inflammation,CYP3A23-3A1
+C0021368,Inflammation,DUSP10
+C0021368,Inflammation,EDN1
+C0021368,Inflammation,EFNB1
+C0021368,Inflammation,EGR1
+C0021368,Inflammation,EIF4EBP1
+C0021368,Inflammation,EPO
+C0021368,Inflammation,F2R
+C0021368,Inflammation,F2RL1
+C0021368,Inflammation,FGF2
+C0021368,Inflammation,FNDC5
+C0021368,Inflammation,GAL
+C0021368,Inflammation,GALNS
+C0021368,Inflammation,GATA3
+C0021368,Inflammation,HMGB1
+C0021368,Inflammation,HMOX1
+C0021368,Inflammation,ICAM1
+C0021368,Inflammation,IDO1
+C0021368,Inflammation,IFNG
+C0021368,Inflammation,IFNL3
+C0021368,Inflammation,IKBKB
+C0021368,Inflammation,IL10
+C0021368,Inflammation,IL13
+C0021368,Inflammation,IL17A
+C0021368,Inflammation,IL17RA
+C0021368,Inflammation,IL1A
+C0021368,Inflammation,IL1B
+C0021368,Inflammation,IL1RN
+C0021368,Inflammation,IL4I1
+C0021368,Inflammation,IL6
+C0021368,Inflammation,IRF7
+C0021368,Inflammation,JAK2
+C0021368,Inflammation,KYNU
+C0021368,Inflammation,LCN2
+C0021368,Inflammation,LEP
+C0021368,Inflammation,LTB4R
+C0021368,Inflammation,LTF
+C0021368,Inflammation,MASP2
+C0021368,Inflammation,MBP
+C0021368,Inflammation,MIF
+C0021368,Inflammation,MIR21
+C0021368,Inflammation,MIR217
+C0021368,Inflammation,MIR22
+C0021368,Inflammation,MIR30C1
+C0021368,Inflammation,MIR34A
+C0021368,Inflammation,MMP2
+C0021368,Inflammation,MMP9
+C0021368,Inflammation,MPO
+C0021368,Inflammation,MVK
+C0021368,Inflammation,MYD88
+C0021368,Inflammation,NGF
+C0021368,Inflammation,NLRP3
+C0021368,Inflammation,NOS2
+C0021368,Inflammation,NPPB
+C0021368,Inflammation,NR1H4
+C0021368,Inflammation,OVAL
+C0021368,Inflammation,OXT
+C0021368,Inflammation,PARP1
+C0021368,Inflammation,PLAA
+C0021368,Inflammation,PLAUR
+C0021368,Inflammation,PPARA
+C0021368,Inflammation,PPARG
+C0021368,Inflammation,PROCR
+C0021368,Inflammation,PTGER4
+C0021368,Inflammation,PTGES
+C0021368,Inflammation,PTGS2
+C0021368,Inflammation,PTPN1
+C0021368,Inflammation,REN2
+C0021368,Inflammation,RORC
+C0021368,Inflammation,SCGB1A1
+C0021368,Inflammation,SELENOS
+C0021368,Inflammation,SERPINA3K
+C0021368,Inflammation,SH2B3
+C0021368,Inflammation,SLC11A1
+C0021368,Inflammation,SLC22A5
+C0021368,Inflammation,SOD1
+C0021368,Inflammation,STAT3
+C0021368,Inflammation,STS
+C0021368,Inflammation,SULT2B1
+C0021368,Inflammation,TAC1
+C0021368,Inflammation,TBX21
+C0021368,Inflammation,TES
+C0021368,Inflammation,TF
+C0021368,Inflammation,TFRC
+C0021368,Inflammation,TGFA
+C0021368,Inflammation,TGFB1
+C0021368,Inflammation,TIMP1
+C0021368,Inflammation,TLR2
+C0021368,Inflammation,TLR4
+C0021368,Inflammation,TLR9
+C0021368,Inflammation,TNF
+C0021368,Inflammation,TNFAIP3
+C0021368,Inflammation,TNFRSF11B
+C0021368,Inflammation,TNFSF15
+C0021368,Inflammation,TP73
+C0021368,Inflammation,TREX1
+C0021368,Inflammation,TRPA1
+C0021368,Inflammation,TRPC1
+C0021368,Inflammation,TRPV1
+C0021368,Inflammation,TSC2
+C0021368,Inflammation,TSLP
+C0021368,Inflammation,UCN
+C0021368,Inflammation,UCN3
+C0021368,Inflammation,VEGFA
+C0021368,Inflammation,WDR1
+C0021368,Inflammation,ZFP36
+C0021655,Insulin resistance,ACACB
+C0021655,Insulin resistance,ADIPOQ
+C0021655,Insulin resistance,ADM
+C0021655,Insulin resistance,ADRB2
+C0021655,Insulin resistance,AHR
+C0021655,Insulin resistance,AR
+C0021655,Insulin resistance,AS3MT
+C0021655,Insulin resistance,C3
+C0021655,Insulin resistance,CASP1
+C0021655,Insulin resistance,CCL2
+C0021655,Insulin resistance,CD163
+C0021655,Insulin resistance,CD36
+C0021655,Insulin resistance,CD40
+C0021655,Insulin resistance,CD68
+C0021655,Insulin resistance,CPE
+C0021655,Insulin resistance,CTF1
+C0021655,Insulin resistance,EGFR
+C0021655,Insulin resistance,ESR1
+C0021655,Insulin resistance,ESR2
+C0021655,Insulin resistance,FGF15
+C0021655,Insulin resistance,GH1
+C0021655,Insulin resistance,GNAS
+C0021655,Insulin resistance,GPR17
+C0021655,Insulin resistance,GPX3
+C0021655,Insulin resistance,HMGA1
+C0021655,Insulin resistance,HMOX1
+C0021655,Insulin resistance,HSD11B1
+C0021655,Insulin resistance,IGF2BP2
+C0021655,Insulin resistance,IGFALS
+C0021655,Insulin resistance,IGFBP2
+C0021655,Insulin resistance,IKBKB
+C0021655,Insulin resistance,IL7
+C0021655,Insulin resistance,INS
+C0021655,Insulin resistance,INS1
+C0021655,Insulin resistance,INSR
+C0021655,Insulin resistance,IRS1
+C0021655,Insulin resistance,IRS2
+C0021655,Insulin resistance,ITGAM
+C0021655,Insulin resistance,KCNJ11
+C0021655,Insulin resistance,KLF14
+C0021655,Insulin resistance,LEP
+C0021655,Insulin resistance,LEPR
+C0021655,Insulin resistance,LIPC
+C0021655,Insulin resistance,MC4R
+C0021655,Insulin resistance,METRNL
+C0021655,Insulin resistance,METTL14
+C0021655,Insulin resistance,MRC1
+C0021655,Insulin resistance,N-TUTCA2
+C0021655,Insulin resistance,NEIL1
+C0021655,Insulin resistance,NFE2L2
+C0021655,Insulin resistance,NLRP3
+C0021655,Insulin resistance,NOS3
+C0021655,Insulin resistance,NR4A1
+C0021655,Insulin resistance,NR4A3
+C0021655,Insulin resistance,NUS1
+C0021655,Insulin resistance,PIK3R1
+C0021655,Insulin resistance,PLTP
+C0021655,Insulin resistance,PPARA
+C0021655,Insulin resistance,PPARG
+C0021655,Insulin resistance,PRKAA1
+C0021655,Insulin resistance,PRKAA2
+C0021655,Insulin resistance,PRKAR1A
+C0021655,Insulin resistance,PTEN
+C0021655,Insulin resistance,PTPN1
+C0021655,Insulin resistance,RETN
+C0021655,Insulin resistance,SCD1
+C0021655,Insulin resistance,SELENOP
+C0021655,Insulin resistance,SIRT1
+C0021655,Insulin resistance,SLC2A4
+C0021655,Insulin resistance,SOD2
+C0021655,Insulin resistance,SQSTM1
+C0021655,Insulin resistance,SREBF1
+C0021655,Insulin resistance,SREBF2
+C0021655,Insulin resistance,STS
+C0021655,Insulin resistance,TNF
+C0021655,Insulin resistance,TRIB3
+C0021655,Insulin resistance,XBP1
+C0021655,Insulin resistance,ZC3H10
+C0021670,Insulinoma,MEN1
+C0021843,Intestinal obstruction,SLC26A9
+C0021843,Intestinal obstruction,SLC6A14
+C0021843,Intestinal obstruction,SLC9A3
+C0021845,Intestinal perforation,IFNA2
+C0021845,Intestinal perforation,NOS1
+C0021845,Intestinal perforation,NOS3
+C0022104,Irritable bowel syndrome,IL10
+C0022104,Irritable bowel syndrome,TPSAB1
+C0022353,Jaundice neonatal,NR1I2
+C0022410,Joint instability,CHST14
+C0022410,Joint instability,COMP
+C0022410,Joint instability,ZNF469
+C0022541,Kearns-Sayre syndrome,IL1A
+C0022541,Kearns-Sayre syndrome,IL1B
+C0022568,Keratitis,CXCL8
+C0022568,Keratitis,GJB2
+C0022568,Keratitis,TLR2
+C0022638,Ketosis,INS1
+C0022821,Kyphosis,LTBP3
+C0022821,Kyphosis,PARP1
+C0022821,Kyphosis,PLOD1
+C0022821,Kyphosis,SLC26A2
+C0022821,Kyphosis,SLC39A13
+C0023380,Lethargy,ABAT
+C0023380,Lethargy,ATG5
+C0023380,Lethargy,ATG7
+C0023380,Lethargy,IL1B
+C0023518,Leukocytosis,APC
+C0023518,Leukocytosis,CSF3R
+C0023518,Leukocytosis,FLT3
+C0023518,Leukocytosis,IL1B
+C0023518,Leukocytosis,KRAS
+C0023518,Leukocytosis,NRAS
+C0023530,Leukopenia,ASPG
+C0023530,Leukopenia,CSF3
+C0023530,Leukopenia,IFNA2
+C0023530,Leukopenia,IL2
+C0023530,Leukopenia,IL3
+C0023530,Leukopenia,MTHFR
+C0023530,Leukopenia,NAT2
+C0023530,Leukopenia,TPMT
+C0023531,Leukoplakia,CTTN
+C0023532,Leukoplakia oral,PTGS2
+C0023798,Lipoma,BAP1
+C0023798,Lipoma,PTEN
+C0023801,Lipomatosis,PTEN
+C0023860,Listeriosis,CYLD
+C0023860,Listeriosis,MT1
+C0023860,Listeriosis,MT2
+C0023860,Listeriosis,TNF
+C0023860,Listeriosis,TNFSF8
+C0023976,Long QT syndrome,CYP1A1
+C0023976,Long QT syndrome,KCNE1
+C0023976,Long QT syndrome,KCNE2
+C0023976,Long QT syndrome,KCNH2
+C0023976,Long QT syndrome,KCNQ1
+C0023976,Long QT syndrome,POMC
+C0023976,Long QT syndrome,PTEN
+C0023976,Long QT syndrome,SCN5A
+C0024299,Lymphoma,BCL11B
+C0024299,Lymphoma,CD274
+C0024299,Lymphoma,CDKN2A
+C0024299,Lymphoma,CDKN2B
+C0024299,Lymphoma,EPHX1
+C0024299,Lymphoma,IKZF1
+C0024299,Lymphoma,KRAS
+C0024299,Lymphoma,MIR143
+C0024299,Lymphoma,MLH1
+C0024299,Lymphoma,MTHFR
+C0024299,Lymphoma,MTR
+C0024299,Lymphoma,NOTCH1
+C0024299,Lymphoma,NRAS
+C0024299,Lymphoma,OGG1
+C0024299,Lymphoma,PON1
+C0024299,Lymphoma,PTEN
+C0024299,Lymphoma,PTGER4
+C0024299,Lymphoma,RAC2
+C0024299,Lymphoma,TRP53
+C0024299,Lymphoma,TWF1
+C0024312,Lymphopenia,ATG5
+C0024312,Lymphopenia,ATG7
+C0024312,Lymphopenia,HOXD13
+C0024312,Lymphopenia,IL1B
+C0024312,Lymphopenia,IL7
+C0024312,Lymphopenia,NUP98
+C0024437,Macular degeneration,ABCA4
+C0024437,Macular degeneration,APOE
+C0024437,Macular degeneration,ARMS2
+C0024437,Macular degeneration,C1QTNF5
+C0024437,Macular degeneration,C2
+C0024437,Macular degeneration,C3
+C0024437,Macular degeneration,C9
+C0024437,Macular degeneration,CFB
+C0024437,Macular degeneration,CFH
+C0024437,Macular degeneration,CFI
+C0024437,Macular degeneration,ERCC6
+C0024437,Macular degeneration,HIC1
+C0024437,Macular degeneration,MIR184
+C0024437,Macular degeneration,NMNAT1
+C0024437,Macular degeneration,PARP12
+C0024437,Macular degeneration,RLBP1
+C0024437,Macular degeneration,RPGR
+C0024437,Macular degeneration,SLC16A8
+C0024437,Macular degeneration,SQSTM1
+C0024437,Macular degeneration,TIMP3
+C0024437,Macular degeneration,TLR4
+C0024437,Macular degeneration,TNFRSF10A
+C0024437,Macular degeneration,VEGFA
+C0024894,Mastitis,CXCR2
+C0024899,Mastocytosis,FOXF1
+C0024899,Mastocytosis,KIT
+C0025007,Measles,CD46
+C0025160,Megacolon,SLC8A1
+C0025209,Melanosis,ALDH2
+C0025286,Meningioma,AKT1
+C0025286,Meningioma,ALAD
+C0025286,Meningioma,BAP1
+C0025286,Meningioma,CST3
+C0025286,Meningioma,CSTB
+C0025286,Meningioma,CTSL
+C0025286,Meningioma,HES1
+C0025286,Meningioma,MLLT10
+C0025286,Meningioma,NF2
+C0025286,Meningioma,PGR
+C0025286,Meningioma,PTEN
+C0025286,Meningioma,SMARCE1
+C0025286,Meningioma,SMO
+C0025287,Meningism,IFNA2
+C0025289,Meningitis,C8A
+C0025289,Meningitis,C8B
+C0025289,Meningitis,CRP
+C0025290,Meningitis aseptic,ALB
+C0025290,Meningitis aseptic,IL6
+C0025500,Mesothelioma,APC
+C0025500,Mesothelioma,BAP1
+C0025500,Mesothelioma,CAT
+C0025500,Mesothelioma,CDH1
+C0025500,Mesothelioma,CDKN1B
+C0025500,Mesothelioma,CDKN2A
+C0025500,Mesothelioma,DIO2
+C0025500,Mesothelioma,EGFR
+C0025500,Mesothelioma,EGR1
+C0025500,Mesothelioma,EID1
+C0025500,Mesothelioma,ESR1
+C0025500,Mesothelioma,FGF1
+C0025500,Mesothelioma,FGF2
+C0025500,Mesothelioma,FHIT
+C0025500,Mesothelioma,GDF10
+C0025500,Mesothelioma,GPC3
+C0025500,Mesothelioma,GSN
+C0025500,Mesothelioma,GSTM1
+C0025500,Mesothelioma,IFNG
+C0025500,Mesothelioma,ITLN1
+C0025500,Mesothelioma,JMJD6
+C0025500,Mesothelioma,MSLN
+C0025500,Mesothelioma,MTOR
+C0025500,Mesothelioma,MUC1
+C0025500,Mesothelioma,MYO18B
+C0025500,Mesothelioma,NF2
+C0025500,Mesothelioma,NME2
+C0025500,Mesothelioma,PDGFA
+C0025500,Mesothelioma,PDGFC
+C0025500,Mesothelioma,PGR
+C0025500,Mesothelioma,PPP1R14A
+C0025500,Mesothelioma,PUF60
+C0025500,Mesothelioma,RASSF1
+C0025500,Mesothelioma,SLC6A20
+C0025500,Mesothelioma,SOD2
+C0025500,Mesothelioma,SPP1
+C0025500,Mesothelioma,SYK
+C0025500,Mesothelioma,TRP53
+C0025500,Mesothelioma,TXNRD1
+C0025500,Mesothelioma,XRCC1
+C0025500,Mesothelioma,XRCC3
+C0025500,Mesothelioma,ZNF667-AS1
+C0025958,Microcephaly,BUB1B
+C0025958,Microcephaly,CASK
+C0025958,Microcephaly,CEP63
+C0025958,Microcephaly,DNM1L
+C0025958,Microcephaly,DNMT3A
+C0025958,Microcephaly,DONSON
+C0025958,Microcephaly,DYNC1H1
+C0025958,Microcephaly,ERCC6
+C0025958,Microcephaly,FOXG1
+C0025958,Microcephaly,H4C3
+C0025958,Microcephaly,KIF2A
+C0025958,Microcephaly,KIF5C
+C0025958,Microcephaly,KIFBP
+C0025958,Microcephaly,MFSD2A
+C0025958,Microcephaly,MIR17HG
+C0025958,Microcephaly,ORC1
+C0025958,Microcephaly,PLK4
+C0025958,Microcephaly,PNKP
+C0025958,Microcephaly,PQBP1
+C0025958,Microcephaly,SIN3A
+C0025958,Microcephaly,SLC2A1
+C0025958,Microcephaly,STAMBP
+C0025958,Microcephaly,TBCD
+C0025958,Microcephaly,TCF4
+C0025958,Microcephaly,TRAIP
+C0025958,Microcephaly,TSEN2
+C0025958,Microcephaly,TSEN34
+C0025958,Microcephaly,TSEN54
+C0025958,Microcephaly,TUBG1
+C0025958,Microcephaly,WDR62
+C0025958,Microcephaly,ZC4H2
+C0026205,Miosis,ADCYAP1
+C0026769,Multiple sclerosis,AIM2
+C0026769,Multiple sclerosis,APOE
+C0026769,Multiple sclerosis,BCHE
+C0026769,Multiple sclerosis,CASP1
+C0026769,Multiple sclerosis,CBLB
+C0026769,Multiple sclerosis,CCL20
+C0026769,Multiple sclerosis,CD40
+C0026769,Multiple sclerosis,CD44
+C0026769,Multiple sclerosis,CD58
+C0026769,Multiple sclerosis,CD6
+C0026769,Multiple sclerosis,CD96
+C0026769,Multiple sclerosis,CDK17
+C0026769,Multiple sclerosis,CLDN11
+C0026769,Multiple sclerosis,CLEC16A
+C0026769,Multiple sclerosis,CMAHP
+C0026769,Multiple sclerosis,CNR1
+C0026769,Multiple sclerosis,DUSP28
+C0026769,Multiple sclerosis,ERN1
+C0026769,Multiple sclerosis,FASLG
+C0026769,Multiple sclerosis,GC
+C0026769,Multiple sclerosis,HLA-DPB1
+C0026769,Multiple sclerosis,HLA-DQB1
+C0026769,Multiple sclerosis,HLA-DRA
+C0026769,Multiple sclerosis,HLA-DRB1
+C0026769,Multiple sclerosis,ICAM1
+C0026769,Multiple sclerosis,IFNB1
+C0026769,Multiple sclerosis,IFNG
+C0026769,Multiple sclerosis,IL10
+C0026769,Multiple sclerosis,IL12A
+C0026769,Multiple sclerosis,IL17A
+C0026769,Multiple sclerosis,IL1B
+C0026769,Multiple sclerosis,IL1RN
+C0026769,Multiple sclerosis,IL2RA
+C0026769,Multiple sclerosis,IL7
+C0026769,Multiple sclerosis,IL7R
+C0026769,Multiple sclerosis,IRF8
+C0026769,Multiple sclerosis,JARID2
+C0026769,Multiple sclerosis,KCNJ10
+C0026769,Multiple sclerosis,KIF1B
+C0026769,Multiple sclerosis,KLHL6
+C0026769,Multiple sclerosis,LRRC8C
+C0026769,Multiple sclerosis,MCAM
+C0026769,Multiple sclerosis,NABP1
+C0026769,Multiple sclerosis,NECTIN2
+C0026769,Multiple sclerosis,NEDD9
+C0026769,Multiple sclerosis,NLRP3
+C0026769,Multiple sclerosis,P2RX7
+C0026769,Multiple sclerosis,POMC
+C0026769,Multiple sclerosis,PRNP
+C0026769,Multiple sclerosis,RBPJ
+C0026769,Multiple sclerosis,RNF19A
+C0026769,Multiple sclerosis,SELE
+C0026769,Multiple sclerosis,SLC11A1
+C0026769,Multiple sclerosis,STAT4
+C0026769,Multiple sclerosis,SYS1
+C0026769,Multiple sclerosis,TNFAIP3
+C0026769,Multiple sclerosis,TNFRSF1A
+C0026769,Multiple sclerosis,TNFSF14
+C0026769,Multiple sclerosis,TRAF1
+C0026769,Multiple sclerosis,TYK2
+C0026769,Multiple sclerosis,VCAM1
+C0026769,Multiple sclerosis,VDR
+C0026769,Multiple sclerosis,VHL
+C0026769,Multiple sclerosis,XBP1
+C0026769,Multiple sclerosis,ZNF267
+C0026837,Muscle rigidity,CYP2D6
+C0026837,Muscle rigidity,GCH1
+C0026837,Muscle rigidity,NPY
+C0026837,Muscle rigidity,NTS
+C0026837,Muscle rigidity,PDE8B
+C0026838,Muscle spasticity,CNR1
+C0026858,Musculoskeletal pain,COMT
+C0026858,Musculoskeletal pain,ESR1
+C0026858,Musculoskeletal pain,GCH1
+C0026896,Myasthenia gravis,CFB
+C0026896,Myasthenia gravis,FAS
+C0026896,Myasthenia gravis,HLA-B
+C0026896,Myasthenia gravis,HLA-DPB1
+C0026896,Myasthenia gravis,MUSK
+C0026896,Myasthenia gravis,POMC
+C0026948,Mycosis fungoides,TNFRSF1B
+C0027051,Myocardial infarction,ACE
+C0027051,Myocardial infarction,ACTA2
+C0027051,Myocardial infarction,ADORA1
+C0027051,Myocardial infarction,ADORA3
+C0027051,Myocardial infarction,AGT
+C0027051,Myocardial infarction,APOE
+C0027051,Myocardial infarction,ATM
+C0027051,Myocardial infarction,ATP1A1
+C0027051,Myocardial infarction,BAK1
+C0027051,Myocardial infarction,BAX
+C0027051,Myocardial infarction,BCL2
+C0027051,Myocardial infarction,BCL2L1
+C0027051,Myocardial infarction,BECN1
+C0027051,Myocardial infarction,BRAP
+C0027051,Myocardial infarction,CASP3
+C0027051,Myocardial infarction,CAT
+C0027051,Myocardial infarction,CKB
+C0027051,Myocardial infarction,CKM
+C0027051,Myocardial infarction,CREB1
+C0027051,Myocardial infarction,CREM
+C0027051,Myocardial infarction,DAB2IP
+C0027051,Myocardial infarction,DDIT3
+C0027051,Myocardial infarction,DGKZ
+C0027051,Myocardial infarction,EPO
+C0027051,Myocardial infarction,ESR1
+C0027051,Myocardial infarction,F13A1
+C0027051,Myocardial infarction,F2
+C0027051,Myocardial infarction,F5
+C0027051,Myocardial infarction,F7
+C0027051,Myocardial infarction,GATA4
+C0027051,Myocardial infarction,GCLC
+C0027051,Myocardial infarction,GCLM
+C0027051,Myocardial infarction,GGT1
+C0027051,Myocardial infarction,GSK3B
+C0027051,Myocardial infarction,HMGB1
+C0027051,Myocardial infarction,HP
+C0027051,Myocardial infarction,HSD11B2
+C0027051,Myocardial infarction,HSP27
+C0027051,Myocardial infarction,HSPA5
+C0027051,Myocardial infarction,ICAM1
+C0027051,Myocardial infarction,IFNA2
+C0027051,Myocardial infarction,IL10
+C0027051,Myocardial infarction,IL1B
+C0027051,Myocardial infarction,IL1RN
+C0027051,Myocardial infarction,IL6
+C0027051,Myocardial infarction,ITGB3
+C0027051,Myocardial infarction,KIF6
+C0027051,Myocardial infarction,KLF13
+C0027051,Myocardial infarction,KLK1
+C0027051,Myocardial infarction,LDHA
+C0027051,Myocardial infarction,LGALS2
+C0027051,Myocardial infarction,LGALS3
+C0027051,Myocardial infarction,LINC01588
+C0027051,Myocardial infarction,LRP8
+C0027051,Myocardial infarction,LTA
+C0027051,Myocardial infarction,MFF
+C0027051,Myocardial infarction,MIA3
+C0027051,Myocardial infarction,MIAT
+C0027051,Myocardial infarction,MIR125B2
+C0027051,Myocardial infarction,MIR145
+C0027051,Myocardial infarction,MIR30C1
+C0027051,Myocardial infarction,MIR423
+C0027051,Myocardial infarction,MIR761
+C0027051,Myocardial infarction,MMP2
+C0027051,Myocardial infarction,MMP9
+C0027051,Myocardial infarction,MYH7
+C0027051,Myocardial infarction,NOS2
+C0027051,Myocardial infarction,NOS3
+C0027051,Myocardial infarction,NPPA
+C0027051,Myocardial infarction,NR3C2
+C0027051,Myocardial infarction,NRIP1
+C0027051,Myocardial infarction,OLR1
+C0027051,Myocardial infarction,P2RY12
+C0027051,Myocardial infarction,PAPPA
+C0027051,Myocardial infarction,PDE3A
+C0027051,Myocardial infarction,PHACTR1
+C0027051,Myocardial infarction,PHLDA3
+C0027051,Myocardial infarction,PLAT
+C0027051,Myocardial infarction,PLAU
+C0027051,Myocardial infarction,PLN
+C0027051,Myocardial infarction,PPARGC1A
+C0027051,Myocardial infarction,PRKCE
+C0027051,Myocardial infarction,PSMA6
+C0027051,Myocardial infarction,REN
+C0027051,Myocardial infarction,S100B
+C0027051,Myocardial infarction,SELL
+C0027051,Myocardial infarction,SH2B3
+C0027051,Myocardial infarction,SOD1
+C0027051,Myocardial infarction,SOD2
+C0027051,Myocardial infarction,TGFB1
+C0027051,Myocardial infarction,THBD
+C0027051,Myocardial infarction,TIMP2
+C0027051,Myocardial infarction,TM6SF2
+C0027051,Myocardial infarction,TNF
+C0027051,Myocardial infarction,TNFRSF12A
+C0027051,Myocardial infarction,TNFSF4
+C0027051,Myocardial infarction,TNNI3
+C0027051,Myocardial infarction,TRP53
+C0027051,Myocardial infarction,VDAC1
+C0027051,Myocardial infarction,WDR12
+C0027059,Myocarditis,CAST
+C0027059,Myocarditis,CD27
+C0027059,Myocarditis,CD70
+C0027059,Myocarditis,CRP
+C0027059,Myocarditis,DNM1L
+C0027059,Myocarditis,IL6
+C0027059,Myocarditis,MYH6
+C0027059,Myocarditis,N-TUTCA2
+C0027059,Myocarditis,SLC22A3
+C0027059,Myocarditis,SLC22A4
+C0027059,Myocarditis,SLC22A5
+C0027059,Myocarditis,TNF
+C0027059,Myocarditis,TNFRSF4
+C0027059,Myocarditis,TNFRSF8
+C0027059,Myocarditis,TNFRSF9
+C0027059,Myocarditis,TNFSF4
+C0027059,Myocarditis,TNFSF8
+C0027059,Myocarditis,TNFSF9
+C0027066,Myoclonus,MECP2
+C0027080,Myoglobinuria,LDHA
+C0027092,Myopia,BMP2
+C0027092,Myopia,COL2A1
+C0027092,Myopia,COL9A1
+C0027092,Myopia,GJD2
+C0027092,Myopia,GRIA4
+C0027092,Myopia,IRX5
+C0027092,Myopia,KCNQ5
+C0027092,Myopia,LAMA2
+C0027092,Myopia,PRSS56
+C0027092,Myopia,RASGRF1
+C0027092,Myopia,RDH5
+C0027092,Myopia,SIX6
+C0027121,Myositis,IGHG1
+C0027121,Myositis,IGHG2
+C0027121,Myositis,IGKC
+C0027121,Myositis,IL1RN
+C0027121,Myositis,TARS1
+C0027125,Myotonia,DMPK
+C0027125,Myotonia,MBNL1
+C0027125,Myotonia,SCN4A
+C0027404,Narcolepsy,CHKB
+C0027404,Narcolepsy,CPT1B
+C0027404,Narcolepsy,HCRTR2
+C0027404,Narcolepsy,HLA-DQB1
+C0027404,Narcolepsy,HLA-DRB1
+C0027404,Narcolepsy,MOG
+C0027404,Narcolepsy,P2RY11
+C0027404,Narcolepsy,PENK
+C0027404,Narcolepsy,SOCS2
+C0027404,Narcolepsy,TAC1
+C0027404,Narcolepsy,TRA
+C0027404,Narcolepsy,TRH
+C0027429,Nasal obstruction,NPY
+C0027430,Nasal polyps,ALOX15
+C0027430,Nasal polyps,KITLG
+C0027497,Nausea,ABCB1
+C0027497,Nausea,IFNA2
+C0027497,Nausea,IFNG
+C0027497,Nausea,OPRM1
+C0027497,Nausea,POMC
+C0027497,Nausea,TNF
+C0027497,Nausea,TNFRSF10A
+C0027540,Necrosis,AGT
+C0027540,Necrosis,AHR
+C0027540,Necrosis,AIFM1
+C0027540,Necrosis,APP
+C0027540,Necrosis,ARG2
+C0027540,Necrosis,ATF4
+C0027540,Necrosis,ATG5
+C0027540,Necrosis,ATG7
+C0027540,Necrosis,BCL2
+C0027540,Necrosis,BCR
+C0027540,Necrosis,CAST
+C0027540,Necrosis,CAT
+C0027540,Necrosis,CD40LG
+C0027540,Necrosis,CDC42
+C0027540,Necrosis,CTF1
+C0027540,Necrosis,CTSB
+C0027540,Necrosis,CYP2B1
+C0027540,Necrosis,CYP2E1
+C0027540,Necrosis,DMD
+C0027540,Necrosis,DPP7
+C0027540,Necrosis,FABP3
+C0027540,Necrosis,FAS
+C0027540,Necrosis,FASL
+C0027540,Necrosis,FGF15
+C0027540,Necrosis,GAPDH
+C0027540,Necrosis,GATM
+C0027540,Necrosis,GSTP1
+C0027540,Necrosis,HAVCR1
+C0027540,Necrosis,HMGB1
+C0027540,Necrosis,IFNG
+C0027540,Necrosis,IL17A
+C0027540,Necrosis,IL1B
+C0027540,Necrosis,IL1RN
+C0027540,Necrosis,IL6
+C0027540,Necrosis,INS1
+C0027540,Necrosis,KRT18
+C0027540,Necrosis,LGALS3
+C0027540,Necrosis,LPL
+C0027540,Necrosis,METTL14
+C0027540,Necrosis,MGMT
+C0027540,Necrosis,MIR192
+C0027540,Necrosis,MTHFR
+C0027540,Necrosis,MYCN
+C0027540,Necrosis,NFE2L2
+C0027540,Necrosis,NOS2
+C0027540,Necrosis,NR1H4
+C0027540,Necrosis,POMC
+C0027540,Necrosis,PRNP
+C0027540,Necrosis,PUF60
+C0027540,Necrosis,RBP4
+C0027540,Necrosis,RDH13
+C0027540,Necrosis,SAO
+C0027540,Necrosis,SET
+C0027540,Necrosis,SLC31A1
+C0027540,Necrosis,SOD1
+C0027540,Necrosis,SOD2
+C0027540,Necrosis,SOD3
+C0027540,Necrosis,SPARC
+C0027540,Necrosis,TBXA2R
+C0027540,Necrosis,TNF
+C0027540,Necrosis,TNNT2
+C0027697,Nephritis,ALB
+C0027697,Nephritis,CCR5
+C0027697,Nephritis,FAS
+C0027697,Nephritis,HLA-B
+C0027697,Nephritis,LEPR
+C0027697,Nephritis,LGALS1
+C0027697,Nephritis,LGALS3
+C0027697,Nephritis,LGALS9
+C0027697,Nephritis,LY6
+C0027697,Nephritis,PLAU
+C0027709,Nephrocalcinosis,PHEX
+C0027709,Nephrocalcinosis,POMC
+C0027709,Nephrocalcinosis,SLC26A1
+C0027719,Nephrosclerosis,ACTA2
+C0027719,Nephrosclerosis,ALOX5
+C0027719,Nephrosclerosis,ALPK1
+C0027719,Nephrosclerosis,COL1A1
+C0027719,Nephrosclerosis,COL3A1
+C0027719,Nephrosclerosis,CXCL12
+C0027719,Nephrosclerosis,CXCR4
+C0027719,Nephrosclerosis,FGF2
+C0027719,Nephrosclerosis,HIPK2
+C0027719,Nephrosclerosis,LTB4R1
+C0027719,Nephrosclerosis,S100A4
+C0027719,Nephrosclerosis,TGFB1
+C0027726,Nephrotic syndrome,A2M
+C0027726,Nephrotic syndrome,ALB
+C0027726,Nephrotic syndrome,CD2
+C0027726,Nephrotic syndrome,COL1A1
+C0027726,Nephrotic syndrome,COL4A1
+C0027726,Nephrotic syndrome,COL4A2
+C0027726,Nephrotic syndrome,EDN1
+C0027726,Nephrotic syndrome,F3
+C0027726,Nephrotic syndrome,FGF2
+C0027726,Nephrotic syndrome,GPC5
+C0027726,Nephrotic syndrome,GUCA2B
+C0027726,Nephrotic syndrome,HLA-DRB1
+C0027726,Nephrotic syndrome,HSD11B2
+C0027726,Nephrotic syndrome,IL2
+C0027726,Nephrotic syndrome,MMP1A
+C0027726,Nephrotic syndrome,NCK1
+C0027726,Nephrotic syndrome,NCK2
+C0027726,Nephrotic syndrome,NPHS2
+C0027726,Nephrotic syndrome,SERPINC1
+C0027726,Nephrotic syndrome,SERPINE1
+C0027726,Nephrotic syndrome,SOD2
+C0027726,Nephrotic syndrome,TF
+C0027726,Nephrotic syndrome,TGFB1
+C0027796,Neuralgia,AGER
+C0027796,Neuralgia,CACNA2D1
+C0027796,Neuralgia,CXCR2
+C0027796,Neuralgia,CXCR4
+C0027796,Neuralgia,CYP17A1
+C0027796,Neuralgia,GAL
+C0027796,Neuralgia,GFRA1
+C0027796,Neuralgia,GRK1
+C0027796,Neuralgia,GRM5
+C0027796,Neuralgia,HMGB1
+C0027796,Neuralgia,HTR2C
+C0027796,Neuralgia,IL12B
+C0027796,Neuralgia,MIR135A-2
+C0027796,Neuralgia,MIR135B
+C0027796,Neuralgia,MIR208A
+C0027796,Neuralgia,MIR344F
+C0027796,Neuralgia,MIR7688
+C0027796,Neuralgia,NTRK1
+C0027796,Neuralgia,OPRM1
+C0027796,Neuralgia,PRKG1
+C0027796,Neuralgia,SCN10A
+C0027796,Neuralgia,SCN9A
+C0027796,Neuralgia,TAC1
+C0027796,Neuralgia,TNF
+C0027796,Neuralgia,TNFSF8
+C0027830,Neurofibroma,NF1
+C0027830,Neurofibroma,SUZ12
+C0027947,Neutropenia,ABCB1
+C0027947,Neutropenia,CSF2
+C0027947,Neutropenia,CSF3
+C0027947,Neutropenia,DPYD
+C0027947,Neutropenia,ELANE
+C0027947,Neutropenia,FCGR2B
+C0027947,Neutropenia,HOXD13
+C0027947,Neutropenia,IFNA2
+C0027947,Neutropenia,IL1B
+C0027947,Neutropenia,JAGN1
+C0027947,Neutropenia,MTHFR
+C0027947,Neutropenia,NUP98
+C0027947,Neutropenia,RPS14
+C0027947,Neutropenia,SMARCD2
+C0027947,Neutropenia,TNFRSF10A
+C0027947,Neutropenia,TPMT
+C0027947,Neutropenia,UGT1A1
+C0028077,Night blindness,NRL
+C0028754,Obesity,A
+C0028754,Obesity,ACACB
+C0028754,Obesity,ACADM
+C0028754,Obesity,ACHE
+C0028754,Obesity,ACLY
+C0028754,Obesity,ACP5
+C0028754,Obesity,ACSL1
+C0028754,Obesity,ADCY3
+C0028754,Obesity,ADH1B
+C0028754,Obesity,ADIPOQ
+C0028754,Obesity,ADRB1
+C0028754,Obesity,ADRB2
+C0028754,Obesity,ADRB3
+C0028754,Obesity,AFF4
+C0028754,Obesity,AGRP
+C0028754,Obesity,AHR
+C0028754,Obesity,AKAP1
+C0028754,Obesity,AKR1C3
+C0028754,Obesity,AKT1
+C0028754,Obesity,ALDH1L1
+C0028754,Obesity,ALDH6A1
+C0028754,Obesity,ANGPTL4
+C0028754,Obesity,APCDD1
+C0028754,Obesity,APOE
+C0028754,Obesity,AQP7
+C0028754,Obesity,ATPAF1
+C0028754,Obesity,BCHE
+C0028754,Obesity,CA3
+C0028754,Obesity,CARTPT
+C0028754,Obesity,CASP1
+C0028754,Obesity,CCL2
+C0028754,Obesity,CD163
+C0028754,Obesity,CD40
+C0028754,Obesity,CD68
+C0028754,Obesity,CEBPA
+C0028754,Obesity,CES1
+C0028754,Obesity,CES1G
+C0028754,Obesity,CIDEA
+C0028754,Obesity,CNR1
+C0028754,Obesity,COX7C
+C0028754,Obesity,CPB2
+C0028754,Obesity,CPE
+C0028754,Obesity,CRP
+C0028754,Obesity,CS
+C0028754,Obesity,CTF1
+C0028754,Obesity,CTSS
+C0028754,Obesity,CYB5A
+C0028754,Obesity,CYCS
+C0028754,Obesity,CYP1B1
+C0028754,Obesity,CYP26B1
+C0028754,Obesity,CYP2E1
+C0028754,Obesity,DCXR
+C0028754,Obesity,DDIT3
+C0028754,Obesity,DPYD
+C0028754,Obesity,ECHS1
+C0028754,Obesity,EFNB1
+C0028754,Obesity,ENPP1
+C0028754,Obesity,ENTPD6
+C0028754,Obesity,EP300
+C0028754,Obesity,ESR1
+C0028754,Obesity,ETFDH
+C0028754,Obesity,F2
+C0028754,Obesity,FAAH
+C0028754,Obesity,FASN
+C0028754,Obesity,FCGR3B
+C0028754,Obesity,FGF21
+C0028754,Obesity,FGGY
+C0028754,Obesity,FOS
+C0028754,Obesity,FOXO3
+C0028754,Obesity,FTL
+C0028754,Obesity,FTO
+C0028754,Obesity,GAS7
+C0028754,Obesity,GCG
+C0028754,Obesity,GFPT1
+C0028754,Obesity,GH1
+C0028754,Obesity,GHRL
+C0028754,Obesity,GLUL
+C0028754,Obesity,GNAS
+C0028754,Obesity,GNB3
+C0028754,Obesity,GNPDA2
+C0028754,Obesity,GPR17
+C0028754,Obesity,GPX1
+C0028754,Obesity,GPX3
+C0028754,Obesity,HADH
+C0028754,Obesity,HCRT
+C0028754,Obesity,HK2
+C0028754,Obesity,HMGB2
+C0028754,Obesity,HMOX1
+C0028754,Obesity,HOXB5
+C0028754,Obesity,HSD11B1
+C0028754,Obesity,HSPA5
+C0028754,Obesity,HTR2A
+C0028754,Obesity,HTR2C
+C0028754,Obesity,ICAM1
+C0028754,Obesity,IDO1
+C0028754,Obesity,IGF2
+C0028754,Obesity,IGFBP2
+C0028754,Obesity,IL6
+C0028754,Obesity,IL7
+C0028754,Obesity,INPP5E
+C0028754,Obesity,INS
+C0028754,Obesity,IRS1
+C0028754,Obesity,ITGAM
+C0028754,Obesity,KCNMA1
+C0028754,Obesity,KCTD15
+C0028754,Obesity,KITL
+C0028754,Obesity,LACTB
+C0028754,Obesity,LBP
+C0028754,Obesity,LDLR
+C0028754,Obesity,LEP
+C0028754,Obesity,LEPR
+C0028754,Obesity,LPL
+C0028754,Obesity,MC4R
+C0028754,Obesity,ME1
+C0028754,Obesity,MIR130A
+C0028754,Obesity,MIR130B
+C0028754,Obesity,MIR184
+C0028754,Obesity,MIR21
+C0028754,Obesity,MIR34A
+C0028754,Obesity,MMP9
+C0028754,Obesity,MMUT
+C0028754,Obesity,MRC1
+C0028754,Obesity,MTCH2
+C0028754,Obesity,NAMPT
+C0028754,Obesity,NEGR1
+C0028754,Obesity,NEIL1
+C0028754,Obesity,NHLH2
+C0028754,Obesity,NPC1
+C0028754,Obesity,NPY1R
+C0028754,Obesity,NPY5R
+C0028754,Obesity,NQO1
+C0028754,Obesity,NR0B2
+C0028754,Obesity,NR1I2
+C0028754,Obesity,NR1I3
+C0028754,Obesity,NTRK2
+C0028754,Obesity,OGG1
+C0028754,Obesity,PACS1
+C0028754,Obesity,PARP1
+C0028754,Obesity,PCK1
+C0028754,Obesity,PCSK1
+C0028754,Obesity,PEX11A
+C0028754,Obesity,PFKFB3
+C0028754,Obesity,PLIN1
+C0028754,Obesity,PMCH
+C0028754,Obesity,POMC
+C0028754,Obesity,PPARA
+C0028754,Obesity,PPARD
+C0028754,Obesity,PPARG
+C0028754,Obesity,PPARGC1B
+C0028754,Obesity,PPM1L
+C0028754,Obesity,PRKAR1A
+C0028754,Obesity,PRKAR2B
+C0028754,Obesity,PRKCH
+C0028754,Obesity,PTGS2
+C0028754,Obesity,PTPN1
+C0028754,Obesity,PYY
+C0028754,Obesity,RAB21
+C0028754,Obesity,RAI1
+C0028754,Obesity,RAPGEF3
+C0028754,Obesity,RMST
+C0028754,Obesity,SAT1
+C0028754,Obesity,SCD1
+C0028754,Obesity,SDC3
+C0028754,Obesity,SERPINE1
+C0028754,Obesity,SH2B1
+C0028754,Obesity,SIRT1
+C0028754,Obesity,SIRT3
+C0028754,Obesity,SLC16A7
+C0028754,Obesity,SLC22A1
+C0028754,Obesity,SLC22A2
+C0028754,Obesity,SLC22A3
+C0028754,Obesity,SOD1
+C0028754,Obesity,SOD2
+C0028754,Obesity,SREBF1
+C0028754,Obesity,STS
+C0028754,Obesity,SUCLA2
+C0028754,Obesity,SUCLG2
+C0028754,Obesity,TBC1D1
+C0028754,Obesity,TF
+C0028754,Obesity,TFRC
+C0028754,Obesity,TMEM18
+C0028754,Obesity,TNF
+C0028754,Obesity,TNFRSF1B
+C0028754,Obesity,TRPV1
+C0028754,Obesity,UCP1
+C0028754,Obesity,UCP2
+C0028754,Obesity,UCP3
+C0028754,Obesity,UQCRC2
+C0028754,Obesity,VGF
+C0028754,Obesity,VLDLR
+C0028754,Obesity,WNT3A
+C0028754,Obesity,ZBTB7B
+C0028754,Obesity,ZC3H10
+C0028754,Obesity,ZFHX3
+C0028754,Obesity,ZFR2
+C0028754,Obesity,ZNF169
+C0028768,Obsessive-compulsive disorder,CCKBR
+C0028768,Obsessive-compulsive disorder,HOXB8
+C0028768,Obsessive-compulsive disorder,HTR1D
+C0028768,Obsessive-compulsive disorder,HTR2A
+C0028768,Obsessive-compulsive disorder,SLC6A4
+C0028768,Obsessive-compulsive disorder,SLITRK5
+C0028840,Ocular hypertension,DDIT3
+C0028840,Ocular hypertension,MMP1
+C0028840,Ocular hypertension,NR3C1
+C0028840,Ocular hypertension,SH3PXD2B
+C0028961,Oliguria,AVPR2
+C0028961,Oliguria,HBG2
+C0028961,Oliguria,POMC
+C0028961,Oliguria,UOX
+C0029089,Ophthalmoplegia,MGME1
+C0029089,Ophthalmoplegia,NPC1
+C0029124,Optic atrophy,DNM1L
+C0029124,Optic atrophy,NDUFS3
+C0029124,Optic atrophy,NMNAT1
+C0029124,Optic atrophy,SLBP
+C0029124,Optic atrophy,SLC25A46
+C0029124,Optic atrophy,TBCD
+C0029134,Optic neuritis,CAPN1
+C0029408,Osteoarthritis,ACAA2
+C0029408,Osteoarthritis,ACO1
+C0029408,Osteoarthritis,ACTB
+C0029408,Osteoarthritis,ADGRG2
+C0029408,Osteoarthritis,AGER
+C0029408,Osteoarthritis,AK4
+C0029408,Osteoarthritis,AKR1C1
+C0029408,Osteoarthritis,AKR1C2
+C0029408,Osteoarthritis,ALDH1A2
+C0029408,Osteoarthritis,ASPN
+C0029408,Osteoarthritis,ATP1A3
+C0029408,Osteoarthritis,ATP6V1B2
+C0029408,Osteoarthritis,BMP4
+C0029408,Osteoarthritis,BMP6
+C0029408,Osteoarthritis,CALCA
+C0029408,Osteoarthritis,CHI3L1
+C0029408,Osteoarthritis,CLIC1
+C0029408,Osteoarthritis,CLIC4
+C0029408,Osteoarthritis,CLU
+C0029408,Osteoarthritis,COL1A2
+C0029408,Osteoarthritis,COL2A1
+C0029408,Osteoarthritis,COL6A2
+C0029408,Osteoarthritis,COMP
+C0029408,Osteoarthritis,CTSD
+C0029408,Osteoarthritis,CTSK
+C0029408,Osteoarthritis,CXCL2
+C0029408,Osteoarthritis,CXCL6
+C0029408,Osteoarthritis,DAPP1
+C0029408,Osteoarthritis,DDX3X
+C0029408,Osteoarthritis,DPEP1
+C0029408,Osteoarthritis,DPYSL2
+C0029408,Osteoarthritis,EDIL3
+C0029408,Osteoarthritis,EEF2
+C0029408,Osteoarthritis,ENO1
+C0029408,Osteoarthritis,ESD
+C0029408,Osteoarthritis,ETFA
+C0029408,Osteoarthritis,EZR
+C0029408,Osteoarthritis,FGF18
+C0029408,Osteoarthritis,FRZB
+C0029408,Osteoarthritis,FTL
+C0029408,Osteoarthritis,GAPDH
+C0029408,Osteoarthritis,GDF5
+C0029408,Osteoarthritis,GLS
+C0029408,Osteoarthritis,GSTK1
+C0029408,Osteoarthritis,HADHA
+C0029408,Osteoarthritis,HIBCH
+C0029408,Osteoarthritis,IDH2
+C0029408,Osteoarthritis,IDH3A
+C0029408,Osteoarthritis,IL1B
+C0029408,Osteoarthritis,IMMT
+C0029408,Osteoarthritis,ISOC2
+C0029408,Osteoarthritis,LGALS3
+C0029408,Osteoarthritis,LTBP3
+C0029408,Osteoarthritis,MATN3
+C0029408,Osteoarthritis,MSN
+C0029408,Osteoarthritis,MVP
+C0029408,Osteoarthritis,MYH13
+C0029408,Osteoarthritis,NDUFS8
+C0029408,Osteoarthritis,NDUFV1
+C0029408,Osteoarthritis,NME2
+C0029408,Osteoarthritis,OPA1
+C0029408,Osteoarthritis,P3H3
+C0029408,Osteoarthritis,PDCD6IP
+C0029408,Osteoarthritis,PDHA1
+C0029408,Osteoarthritis,PLCD1
+C0029408,Osteoarthritis,PLOD2
+C0029408,Osteoarthritis,PLS3
+C0029408,Osteoarthritis,POU3F3
+C0029408,Osteoarthritis,PPARG
+C0029408,Osteoarthritis,PPP2R1A
+C0029408,Osteoarthritis,PSMB1
+C0029408,Osteoarthritis,PTGS2
+C0029408,Osteoarthritis,RAN
+C0029408,Osteoarthritis,RCN3
+C0029408,Osteoarthritis,RUNX2
+C0029408,Osteoarthritis,S100A4
+C0029408,Osteoarthritis,SCRN1
+C0029408,Osteoarthritis,SDCBP
+C0029408,Osteoarthritis,SDHA
+C0029408,Osteoarthritis,SEC23A
+C0029408,Osteoarthritis,SGCG
+C0029408,Osteoarthritis,SLC2A1
+C0029408,Osteoarthritis,SMAD3
+C0029408,Osteoarthritis,SOD2
+C0029408,Osteoarthritis,TFPI2
+C0029408,Osteoarthritis,TGFB1
+C0029408,Osteoarthritis,TGM2
+C0029408,Osteoarthritis,TNFSF15
+C0029408,Osteoarthritis,TRAP1
+C0029408,Osteoarthritis,TRIM2
+C0029408,Osteoarthritis,TRPV4
+C0029408,Osteoarthritis,TXNRD1
+C0029408,Osteoarthritis,VDAC2
+C0029408,Osteoarthritis,VIM
+C0029408,Osteoarthritis,YWHAQ
+C0029434,Osteogenesis imperfecta,COL1A1
+C0029434,Osteogenesis imperfecta,CRTAP
+C0029434,Osteogenesis imperfecta,P3H1
+C0029434,Osteogenesis imperfecta,SPARC
+C0029442,Osteomalacia,MEPE
+C0029445,Osteonecrosis,MMP2
+C0029456,Osteoporosis,ACTG1
+C0029456,Osteoporosis,ADCY5
+C0029456,Osteoporosis,ANTXR2
+C0029456,Osteoporosis,ANXA2
+C0029456,Osteoporosis,ATIC
+C0029456,Osteoporosis,BMP4
+C0029456,Osteoporosis,CA2
+C0029456,Osteoporosis,CALCR
+C0029456,Osteoporosis,CAP1
+C0029456,Osteoporosis,CCT2
+C0029456,Osteoporosis,CLEC11A
+C0029456,Osteoporosis,COL1A1
+C0029456,Osteoporosis,COL1A2
+C0029456,Osteoporosis,CYP19A1
+C0029456,Osteoporosis,CYP24A1
+C0029456,Osteoporosis,DAAM2
+C0029456,Osteoporosis,ENO1
+C0029456,Osteoporosis,FGA
+C0029456,Osteoporosis,FGB
+C0029456,Osteoporosis,GAPDH
+C0029456,Osteoporosis,GORAB
+C0029456,Osteoporosis,GPC6
+C0029456,Osteoporosis,GPD2
+C0029456,Osteoporosis,GPX1
+C0029456,Osteoporosis,GSN
+C0029456,Osteoporosis,IDH2
+C0029456,Osteoporosis,IL6
+C0029456,Osteoporosis,IL6R
+C0029456,Osteoporosis,KL
+C0029456,Osteoporosis,LRP5
+C0029456,Osteoporosis,LTF
+C0029456,Osteoporosis,MGLL
+C0029456,Osteoporosis,OXCT1
+C0029456,Osteoporosis,P4HB
+C0029456,Osteoporosis,PARK7
+C0029456,Osteoporosis,PDLIM4
+C0029456,Osteoporosis,PGLS
+C0029456,Osteoporosis,PKM
+C0029456,Osteoporosis,PLEK
+C0029456,Osteoporosis,PNP
+C0029456,Osteoporosis,POMC
+C0029456,Osteoporosis,PRDX3
+C0029456,Osteoporosis,PSMA2
+C0029456,Osteoporosis,PSMA5
+C0029456,Osteoporosis,PTH
+C0029456,Osteoporosis,RAB7B
+C0029456,Osteoporosis,REN
+C0029456,Osteoporosis,RSU1
+C0029456,Osteoporosis,SOD2
+C0029456,Osteoporosis,TGFB1
+C0029456,Osteoporosis,TLN1
+C0029456,Osteoporosis,TNFRSF11B
+C0029456,Osteoporosis,TNFSF11
+C0029456,Osteoporosis,TPI1
+C0029456,Osteoporosis,TPM4
+C0029456,Osteoporosis,TUBA1B
+C0029456,Osteoporosis,TUBA1C
+C0029456,Osteoporosis,U2AF1
+C0029456,Osteoporosis,VCL
+C0029456,Osteoporosis,WDR1
+C0029456,Osteoporosis,WNT1
+C0029456,Osteoporosis,ZDHHC13
+C0029882,Otitis media,A2ML1
+C0030193,Pain,ABCB1A
+C0030193,Pain,ADM
+C0030193,Pain,AKT1
+C0030193,Pain,ALB
+C0030193,Pain,AQP1
+C0030193,Pain,AVP
+C0030193,Pain,BDKRB1
+C0030193,Pain,BDKRB2
+C0030193,Pain,CACNA2D1
+C0030193,Pain,CNR1
+C0030193,Pain,COMT
+C0030193,Pain,CRH
+C0030193,Pain,CSF2
+C0030193,Pain,CSF3
+C0030193,Pain,DISC1
+C0030193,Pain,DRD2
+C0030193,Pain,EDN1
+C0030193,Pain,GCH1
+C0030193,Pain,GRIN1
+C0030193,Pain,HCRT
+C0030193,Pain,HGF
+C0030193,Pain,HOXD1
+C0030193,Pain,HRH1
+C0030193,Pain,HTR1A
+C0030193,Pain,HTR3B
+C0030193,Pain,HTR7
+C0030193,Pain,IFNA2
+C0030193,Pain,IL1RN
+C0030193,Pain,IL2
+C0030193,Pain,KNG1
+C0030193,Pain,NPPA
+C0030193,Pain,NPPB
+C0030193,Pain,NPR1
+C0030193,Pain,NRG1
+C0030193,Pain,NTSR1
+C0030193,Pain,OPRK1
+C0030193,Pain,OXT
+C0030193,Pain,PDYN
+C0030193,Pain,PENK
+C0030193,Pain,PLCB1
+C0030193,Pain,PNOC
+C0030193,Pain,POMC
+C0030193,Pain,PROKR1
+C0030193,Pain,SLC9A1
+C0030193,Pain,TAC1
+C0030193,Pain,TNF
+C0030193,Pain,TRH
+C0030193,Pain,TRPA1
+C0030193,Pain,TRPV1
+C0030193,Pain,VIP
+C0030305,Pancreatitis,ALB
+C0030305,Pancreatitis,CCK
+C0030305,Pancreatitis,CFTR
+C0030305,Pancreatitis,CLDN2
+C0030305,Pancreatitis,CNR1
+C0030305,Pancreatitis,CNR2
+C0030305,Pancreatitis,HGF
+C0030305,Pancreatitis,HLA-DQA1
+C0030305,Pancreatitis,HLA-DRB1
+C0030305,Pancreatitis,INS
+C0030305,Pancreatitis,LPL
+C0030305,Pancreatitis,MIR100
+C0030305,Pancreatitis,MIR130A
+C0030305,Pancreatitis,MIR130B
+C0030305,Pancreatitis,MIR141
+C0030305,Pancreatitis,MIR148A
+C0030305,Pancreatitis,MIR150
+C0030305,Pancreatitis,MIR155
+C0030305,Pancreatitis,MIR15A
+C0030305,Pancreatitis,MIR181C
+C0030305,Pancreatitis,MIR181D
+C0030305,Pancreatitis,MIR182
+C0030305,Pancreatitis,MIR183
+C0030305,Pancreatitis,MIR192
+C0030305,Pancreatitis,MIR200A
+C0030305,Pancreatitis,MIR200B
+C0030305,Pancreatitis,MIR200C
+C0030305,Pancreatitis,MIR20B
+C0030305,Pancreatitis,MIR214
+C0030305,Pancreatitis,MIR215
+C0030305,Pancreatitis,MIR216A
+C0030305,Pancreatitis,MIR216B
+C0030305,Pancreatitis,MIR217
+C0030305,Pancreatitis,MIR22
+C0030305,Pancreatitis,MIR27A
+C0030305,Pancreatitis,MIR27B
+C0030305,Pancreatitis,MIR29A
+C0030305,Pancreatitis,MIR29C
+C0030305,Pancreatitis,MIR30A
+C0030305,Pancreatitis,MIR30B
+C0030305,Pancreatitis,MIR31
+C0030305,Pancreatitis,MIR335
+C0030305,Pancreatitis,MIR361
+C0030305,Pancreatitis,MIR375
+C0030305,Pancreatitis,MIR376C
+C0030305,Pancreatitis,MIR379
+C0030305,Pancreatitis,MIR429
+C0030305,Pancreatitis,MIR532
+C0030305,Pancreatitis,MIR548B
+C0030305,Pancreatitis,MIR609
+C0030305,Pancreatitis,MPO
+C0030305,Pancreatitis,NUPR1
+C0030305,Pancreatitis,PARP1
+C0030305,Pancreatitis,PPP3CA
+C0030305,Pancreatitis,PRSS1
+C0030305,Pancreatitis,PTGS2
+C0030305,Pancreatitis,SPINK1
+C0030305,Pancreatitis,SST
+C0030305,Pancreatitis,TRPV1
+C0030312,Pancytopenia,CSF3
+C0030312,Pancytopenia,DHFR
+C0030312,Pancytopenia,EPO
+C0030312,Pancytopenia,MECOM
+C0030312,Pancytopenia,MOCOS
+C0030312,Pancytopenia,RPL27A
+C0030312,Pancytopenia,SLC46A1
+C0030319,Panic disorder,ADORA2A
+C0030319,Panic disorder,ADRA2A
+C0030319,Panic disorder,CCKBR
+C0030319,Panic disorder,INS
+C0030354,Papilloma,CCND1
+C0030354,Papilloma,CDKN1A
+C0030354,Papilloma,EGFR
+C0030354,Papilloma,ERBB2
+C0030354,Papilloma,HRAS
+C0030354,Papilloma,NQO1
+C0030354,Papilloma,ODC1
+C0030354,Papilloma,PTGS2
+C0030354,Papilloma,SOD2
+C0030354,Papilloma,SPRR1A
+C0030354,Papilloma,TGFA
+C0030354,Papilloma,TGFB1
+C0030486,Paraplegia,SPG7
+C0030552,Paresis,BCHE
+C0030552,Paresis,PLAT
+C0030781,Peliosis hepatis,F2RL3
+C0030807,Pemphigus,C3
+C0030920,Peptic ulcer,EDN1
+C0030920,Peptic ulcer,GAST
+C0030920,Peptic ulcer,IL1B
+C0031039,Pericardial effusion,PLAT
+C0031039,Pericardial effusion,PTGS2
+C0031046,Pericarditis,PRG4
+C0031099,Periodontitis,CRP
+C0031099,Periodontitis,GGT1
+C0031099,Periodontitis,MMP9
+C0031154,Peritonitis,C5
+C0031154,Peritonitis,GSK3B
+C0031154,Peritonitis,IFNG
+C0031542,Phlebitis,ADM2
+C0032227,Pleural effusion,CDKN2A
+C0032227,Pleural effusion,NF2
+C0032227,Pleural effusion,TNF
+C0032227,Pleural effusion,TRP53
+C0032231,Pleurisy,ICAM1
+C0032231,Pleurisy,IL10
+C0032231,Pleurisy,IL1B
+C0032231,Pleurisy,IL6
+C0032231,Pleurisy,SELP
+C0032231,Pleurisy,TNF
+C0032285,Pneumonia,ABCF1
+C0032285,Pneumonia,AGT
+C0032285,Pneumonia,AHR
+C0032285,Pneumonia,CASP1
+C0032285,Pneumonia,CCL11
+C0032285,Pneumonia,CCL12
+C0032285,Pneumonia,CCL17
+C0032285,Pneumonia,CCL19
+C0032285,Pneumonia,CCL2
+C0032285,Pneumonia,CCL20
+C0032285,Pneumonia,CCL24
+C0032285,Pneumonia,CCL4
+C0032285,Pneumonia,CCL7
+C0032285,Pneumonia,CCL8
+C0032285,Pneumonia,CCL9
+C0032285,Pneumonia,CCR1
+C0032285,Pneumonia,CCR2
+C0032285,Pneumonia,CCR6
+C0032285,Pneumonia,CCR9
+C0032285,Pneumonia,CD40LG
+C0032285,Pneumonia,CSF2
+C0032285,Pneumonia,CX3CL1
+C0032285,Pneumonia,CXCL1
+C0032285,Pneumonia,CXCL15
+C0032285,Pneumonia,CXCL5
+C0032285,Pneumonia,CXCL9
+C0032285,Pneumonia,CXCR2
+C0032285,Pneumonia,CXCR3
+C0032285,Pneumonia,EGR1
+C0032285,Pneumonia,HMOX1
+C0032285,Pneumonia,IFNG
+C0032285,Pneumonia,IKBKB
+C0032285,Pneumonia,IL13
+C0032285,Pneumonia,IL17A
+C0032285,Pneumonia,IL18
+C0032285,Pneumonia,IL1B
+C0032285,Pneumonia,IL1R1
+C0032285,Pneumonia,IL1R2
+C0032285,Pneumonia,IL2RB
+C0032285,Pneumonia,IL33
+C0032285,Pneumonia,IL4
+C0032285,Pneumonia,IL5RA
+C0032285,Pneumonia,IL6
+C0032285,Pneumonia,IL6ST
+C0032285,Pneumonia,ITGB2
+C0032285,Pneumonia,LIAS
+C0032285,Pneumonia,MIR150
+C0032285,Pneumonia,MYD88
+C0032285,Pneumonia,MYLK
+C0032285,Pneumonia,OVAL
+C0032285,Pneumonia,PARP1
+C0032285,Pneumonia,PF4
+C0032285,Pneumonia,POMC
+C0032285,Pneumonia,SIRT1
+C0032285,Pneumonia,SPP1
+C0032285,Pneumonia,TGFB1
+C0032285,Pneumonia,TLR4
+C0032285,Pneumonia,TNF
+C0032285,Pneumonia,TNFRSF1A
+C0032285,Pneumonia,TNFRSF1B
+C0032290,Pneumonia aspiration,NOS2
+C0032326,Pneumothorax,FLCN
+C0032343,Poisoning,ABCB1
+C0032343,Poisoning,ACHE
+C0032343,Poisoning,ALB
+C0032343,Poisoning,BCHE
+C0032343,Poisoning,CDKN2A
+C0032343,Poisoning,CDKN2B
+C0032343,Poisoning,CSF3
+C0032343,Poisoning,CST3
+C0032343,Poisoning,CYP4F3
+C0032343,Poisoning,EPO
+C0032343,Poisoning,GCG
+C0032343,Poisoning,GSK3B
+C0032343,Poisoning,HAND1
+C0032343,Poisoning,PRKDC
+C0032343,Poisoning,SLC22A2
+C0032343,Poisoning,XIRP1
+C0032371,Poliomyelitis,PVR
+C0032617,Polyuria,AVP
+C0032617,Polyuria,LEP
+C0032617,Polyuria,OXT
+C0032617,Polyuria,PRKCA
+C0032617,Polyuria,PTGES
+C0033581,Prostatitis,IL10
+C0033687,Proteinuria,AGT
+C0033687,Proteinuria,AGTR1
+C0033687,Proteinuria,ALB
+C0033687,Proteinuria,ALOX5AP
+C0033687,Proteinuria,APOE
+C0033687,Proteinuria,B2M
+C0033687,Proteinuria,CLCN5
+C0033687,Proteinuria,CTSB
+C0033687,Proteinuria,CTSL
+C0033687,Proteinuria,CYBB
+C0033687,Proteinuria,DNASE1
+C0033687,Proteinuria,DPP4
+C0033687,Proteinuria,FAS
+C0033687,Proteinuria,GUSB
+C0033687,Proteinuria,HAVCR1
+C0033687,Proteinuria,HLA-B
+C0033687,Proteinuria,HLA-DQA1
+C0033687,Proteinuria,HLA-DRB1
+C0033687,Proteinuria,IFNG
+C0033687,Proteinuria,IL1RN
+C0033687,Proteinuria,LEP
+C0033687,Proteinuria,LEPR
+C0033687,Proteinuria,LMX1B
+C0033687,Proteinuria,MPV17
+C0033687,Proteinuria,MUC16
+C0033687,Proteinuria,NCK1
+C0033687,Proteinuria,NCK2
+C0033687,Proteinuria,NPHS1
+C0033687,Proteinuria,NR4A1
+C0033687,Proteinuria,PAK1
+C0033687,Proteinuria,PAK2
+C0033687,Proteinuria,POMC
+C0033687,Proteinuria,PPARA
+C0033687,Proteinuria,PTGS2
+C0033687,Proteinuria,REN
+C0033687,Proteinuria,RHOA
+C0033687,Proteinuria,SCNN1A
+C0033687,Proteinuria,SOD1
+C0033687,Proteinuria,SPP1
+C0033687,Proteinuria,TGFB1
+C0033687,Proteinuria,VEGFA
+C0033774,Pruritus,ABCB11
+C0033774,Pruritus,AHR
+C0033774,Pruritus,ARTN
+C0033774,Pruritus,F2RL1
+C0033774,Pruritus,GRP
+C0033774,Pruritus,HRH1
+C0033774,Pruritus,HRH4
+C0033774,Pruritus,NMB
+C0033774,Pruritus,OPRM1
+C0033774,Pruritus,PDYN
+C0033774,Pruritus,SCN9A
+C0033774,Pruritus,TAC1
+C0033774,Pruritus,TPSAB1
+C0033860,Psoriasis,AP1S3
+C0033860,Psoriasis,APOE
+C0033860,Psoriasis,CARD14
+C0033860,Psoriasis,CARM1
+C0033860,Psoriasis,CAT
+C0033860,Psoriasis,CP
+C0033860,Psoriasis,CRP
+C0033860,Psoriasis,CSF2
+C0033860,Psoriasis,CSMD1
+C0033860,Psoriasis,CYP2S1
+C0033860,Psoriasis,ERAP1
+C0033860,Psoriasis,FBXL19
+C0033860,Psoriasis,GJB2
+C0033860,Psoriasis,HCAR2
+C0033860,Psoriasis,HLA-C
+C0033860,Psoriasis,IFIH1
+C0033860,Psoriasis,IFNLR1
+C0033860,Psoriasis,IL12B
+C0033860,Psoriasis,IL13
+C0033860,Psoriasis,IL1B
+C0033860,Psoriasis,IL23A
+C0033860,Psoriasis,IL23R
+C0033860,Psoriasis,IL36RN
+C0033860,Psoriasis,IL4
+C0033860,Psoriasis,IL6
+C0033860,Psoriasis,LCE3B
+C0033860,Psoriasis,LCE3C
+C0033860,Psoriasis,LCE3D
+C0033860,Psoriasis,MKI67
+C0033860,Psoriasis,NFKBIA
+C0033860,Psoriasis,NOS2
+C0033860,Psoriasis,PCNA
+C0033860,Psoriasis,PPARG
+C0033860,Psoriasis,PTTG1
+C0033860,Psoriasis,REL
+C0033860,Psoriasis,REN
+C0033860,Psoriasis,RIGI
+C0033860,Psoriasis,RNF114
+C0033860,Psoriasis,RUNX3
+C0033860,Psoriasis,S100A7
+C0033860,Psoriasis,SERPINB8
+C0033860,Psoriasis,SOD2
+C0033860,Psoriasis,STAT3
+C0033860,Psoriasis,TAGAP
+C0033860,Psoriasis,TGFA
+C0033860,Psoriasis,TNF
+C0033860,Psoriasis,TNFAIP3
+C0033860,Psoriasis,TNIP1
+C0033860,Psoriasis,TP53
+C0033860,Psoriasis,TRAF3IP2
+C0033860,Psoriasis,TYK2
+C0033860,Psoriasis,VEGFA
+C0033860,Psoriasis,VNN1
+C0033860,Psoriasis,VNN2
+C0033860,Psoriasis,VNN3P
+C0033860,Psoriasis,ZC3H12C
+C0033860,Psoriasis,ZNF816
+C0033999,Pterygium,IFNA2
+C0034065,Pulmonary embolism,CAT
+C0034065,Pulmonary embolism,DAB2IP
+C0034065,Pulmonary embolism,EPO
+C0034065,Pulmonary embolism,FGA
+C0034065,Pulmonary embolism,KLKB1
+C0034065,Pulmonary embolism,MERTK
+C0034065,Pulmonary embolism,MTHFR
+C0034065,Pulmonary embolism,PLAT
+C0034065,Pulmonary embolism,PLAU
+C0034065,Pulmonary embolism,TBXA2R
+C0034065,Pulmonary embolism,THBD
+C0034065,Pulmonary embolism,XDH
+C0034067,Emphysema,ABCA3
+C0034067,Emphysema,APOE
+C0034067,Emphysema,CEBPA
+C0034067,Emphysema,FBLN5
+C0034067,Emphysema,HDAC2
+C0034067,Emphysema,IL17A
+C0034067,Emphysema,KL
+C0034067,Emphysema,METTL3
+C0034067,Emphysema,NFE2L2
+C0034067,Emphysema,NOS2
+C0034067,Emphysema,PPP2R2A
+C0034067,Emphysema,PPP2R2C
+C0034067,Emphysema,PPP2R5A
+C0034067,Emphysema,SERPINA1
+C0034067,Emphysema,TNFRSF8
+C0034067,Emphysema,TP53
+C0034068,Pulmonary eosinophilia,MYD88
+C0034069,Pulmonary fibrosis,ABCA3
+C0034069,Pulmonary fibrosis,ACE
+C0034069,Pulmonary fibrosis,ACE2
+C0034069,Pulmonary fibrosis,ACTA2
+C0034069,Pulmonary fibrosis,ADIPOQ
+C0034069,Pulmonary fibrosis,AGT
+C0034069,Pulmonary fibrosis,AREG
+C0034069,Pulmonary fibrosis,BMP7
+C0034069,Pulmonary fibrosis,CALCA
+C0034069,Pulmonary fibrosis,CAT
+C0034069,Pulmonary fibrosis,CAV1
+C0034069,Pulmonary fibrosis,CCL11
+C0034069,Pulmonary fibrosis,CCL2
+C0034069,Pulmonary fibrosis,CCL3
+C0034069,Pulmonary fibrosis,CCL4
+C0034069,Pulmonary fibrosis,CCL5
+C0034069,Pulmonary fibrosis,CCN2
+C0034069,Pulmonary fibrosis,CCR2
+C0034069,Pulmonary fibrosis,CCR3
+C0034069,Pulmonary fibrosis,CEBPA
+C0034069,Pulmonary fibrosis,CEBPB
+C0034069,Pulmonary fibrosis,CFD
+C0034069,Pulmonary fibrosis,CMA1
+C0034069,Pulmonary fibrosis,COL3A1
+C0034069,Pulmonary fibrosis,CSF2
+C0034069,Pulmonary fibrosis,CSF3
+C0034069,Pulmonary fibrosis,CXCL2
+C0034069,Pulmonary fibrosis,CXCL8
+C0034069,Pulmonary fibrosis,CYSLTR2
+C0034069,Pulmonary fibrosis,DSP
+C0034069,Pulmonary fibrosis,EDN1
+C0034069,Pulmonary fibrosis,EGF
+C0034069,Pulmonary fibrosis,ELN
+C0034069,Pulmonary fibrosis,FAM13A
+C0034069,Pulmonary fibrosis,FGF1
+C0034069,Pulmonary fibrosis,FGF2
+C0034069,Pulmonary fibrosis,FGF7
+C0034069,Pulmonary fibrosis,FN1
+C0034069,Pulmonary fibrosis,FYN
+C0034069,Pulmonary fibrosis,GREM1
+C0034069,Pulmonary fibrosis,HGF
+C0034069,Pulmonary fibrosis,HMGB1
+C0034069,Pulmonary fibrosis,HMOX1
+C0034069,Pulmonary fibrosis,HSPA1A
+C0034069,Pulmonary fibrosis,HSPA1B
+C0034069,Pulmonary fibrosis,IGF1
+C0034069,Pulmonary fibrosis,IL12B
+C0034069,Pulmonary fibrosis,IL13
+C0034069,Pulmonary fibrosis,IL1B
+C0034069,Pulmonary fibrosis,IL1RN
+C0034069,Pulmonary fibrosis,IL4
+C0034069,Pulmonary fibrosis,IL5
+C0034069,Pulmonary fibrosis,IL6
+C0034069,Pulmonary fibrosis,LAMB1
+C0034069,Pulmonary fibrosis,LIAS
+C0034069,Pulmonary fibrosis,MECP2
+C0034069,Pulmonary fibrosis,MIR100HG
+C0034069,Pulmonary fibrosis,MIR101-1
+C0034069,Pulmonary fibrosis,MIR10A
+C0034069,Pulmonary fibrosis,MIR122
+C0034069,Pulmonary fibrosis,MIR125A
+C0034069,Pulmonary fibrosis,MIR140
+C0034069,Pulmonary fibrosis,MIR145A
+C0034069,Pulmonary fibrosis,MIR193A
+C0034069,Pulmonary fibrosis,MIR200C
+C0034069,Pulmonary fibrosis,MIR23C
+C0034069,Pulmonary fibrosis,MIR26B
+C0034069,Pulmonary fibrosis,MIR29C
+C0034069,Pulmonary fibrosis,MIR30A
+C0034069,Pulmonary fibrosis,MIR326
+C0034069,Pulmonary fibrosis,MIR345
+C0034069,Pulmonary fibrosis,MIR378A
+C0034069,Pulmonary fibrosis,MIR425
+C0034069,Pulmonary fibrosis,MIR451A
+C0034069,Pulmonary fibrosis,MIR490
+C0034069,Pulmonary fibrosis,MIR6240
+C0034069,Pulmonary fibrosis,MIR702
+C0034069,Pulmonary fibrosis,MKLN1
+C0034069,Pulmonary fibrosis,MMP2
+C0034069,Pulmonary fibrosis,MMP9
+C0034069,Pulmonary fibrosis,MT2
+C0034069,Pulmonary fibrosis,MTOR
+C0034069,Pulmonary fibrosis,NFE2L2
+C0034069,Pulmonary fibrosis,OGG1
+C0034069,Pulmonary fibrosis,OVAL
+C0034069,Pulmonary fibrosis,PARP1
+C0034069,Pulmonary fibrosis,PDGFA
+C0034069,Pulmonary fibrosis,PDGFB
+C0034069,Pulmonary fibrosis,PTX3
+C0034069,Pulmonary fibrosis,RHOX3H
+C0034069,Pulmonary fibrosis,SERPINA1
+C0034069,Pulmonary fibrosis,SKIL
+C0034069,Pulmonary fibrosis,SMAD7
+C0034069,Pulmonary fibrosis,SNHG6
+C0034069,Pulmonary fibrosis,SOD1
+C0034069,Pulmonary fibrosis,SOD3
+C0034069,Pulmonary fibrosis,SPP1
+C0034069,Pulmonary fibrosis,STAT3
+C0034069,Pulmonary fibrosis,STAT6
+C0034069,Pulmonary fibrosis,TGFA
+C0034069,Pulmonary fibrosis,TGFB1
+C0034069,Pulmonary fibrosis,TIMP1
+C0034069,Pulmonary fibrosis,TNF
+C0034186,Pyelonephritis,PIM1
+C0034372,Quadriplegia,PMP22
+C0034372,Quadriplegia,TBCD
+C0035258,Restless legs syndrome,BTBD9
+C0035258,Restless legs syndrome,MEIS1
+C0035258,Restless legs syndrome,POMC
+C0035258,Restless legs syndrome,PTPRD
+C0035258,Restless legs syndrome,TF
+C0035304,Retinal degeneration,AHI1
+C0035304,Retinal degeneration,ARG2
+C0035304,Retinal degeneration,BCL2
+C0035304,Retinal degeneration,CCL2
+C0035304,Retinal degeneration,CP
+C0035304,Retinal degeneration,CRX
+C0035304,Retinal degeneration,CX3CR1
+C0035304,Retinal degeneration,GDNF
+C0035304,Retinal degeneration,IFT80
+C0035304,Retinal degeneration,NMNAT1
+C0035304,Retinal degeneration,NRL
+C0035304,Retinal degeneration,NTF5
+C0035304,Retinal degeneration,PDE6B
+C0035304,Retinal degeneration,RAX2
+C0035304,Retinal degeneration,RDH12
+C0035304,Retinal degeneration,RHO
+C0035304,Retinal degeneration,RPE65
+C0035304,Retinal degeneration,RPGR
+C0035304,Retinal degeneration,RPGRIP1L
+C0035304,Retinal degeneration,SLC1A1
+C0035304,Retinal degeneration,SOD1
+C0035305,Retinal detachment,AIFM1
+C0035305,Retinal detachment,APAF1
+C0035305,Retinal detachment,CASP3
+C0035305,Retinal detachment,CASP9
+C0035305,Retinal detachment,COL2A1
+C0035305,Retinal detachment,CRB1
+C0035305,Retinal detachment,HP
+C0035305,Retinal detachment,IFNA2
+C0035305,Retinal detachment,PRKCQ
+C0035328,Retinal vein occlusion,F5
+C0035328,Retinal vein occlusion,ITGA2
+C0035328,Retinal vein occlusion,VEGFA
+C0035333,Retinitis,CRH
+C0035333,Retinitis,NDP
+C0035344,Retinopathy of prematurity,AGT
+C0035410,Rhabdomyolysis,CYP2C8
+C0035410,Rhabdomyolysis,INS
+C0035455,Rhinitis,CFTR
+C0035455,Rhinitis,HNMT
+C0035455,Rhinitis,HRH1
+C0035455,Rhinitis,IL4
+C0035455,Rhinitis,NPY
+C0035455,Rhinitis,TBXA2R
+C0035455,Rhinitis,VIP
+C0035579,Rickets,CYP27B1
+C0035579,Rickets,PTH
+C0035579,Rickets,PTH1R
+C0035579,Rickets,VDR
+C0035854,Rosacea,CAMP
+C0036202,Sarcoidosis,ANXA11
+C0036202,Sarcoidosis,BTNL2
+C0036202,Sarcoidosis,HLA-DPB1
+C0036202,Sarcoidosis,HLA-DRB1
+C0036202,Sarcoidosis,IL18
+C0036202,Sarcoidosis,SLC11A1
+C0036202,Sarcoidosis,SOD2
+C0036202,Sarcoidosis,TGFB1
+C0036341,Schizophrenia,A1BG
+C0036341,Schizophrenia,ACOT6
+C0036341,Schizophrenia,ADAMTS3
+C0036341,Schizophrenia,ADCY7
+C0036341,Schizophrenia,ADGRF4
+C0036341,Schizophrenia,AFG2A
+C0036341,Schizophrenia,AHI1
+C0036341,Schizophrenia,AKAP11
+C0036341,Schizophrenia,AKT1
+C0036341,Schizophrenia,ALS2CL
+C0036341,Schizophrenia,APOA4
+C0036341,Schizophrenia,APOE
+C0036341,Schizophrenia,APOL2
+C0036341,Schizophrenia,APOL4
+C0036341,Schizophrenia,AS3MT
+C0036341,Schizophrenia,AVP
+C0036341,Schizophrenia,BDNF
+C0036341,Schizophrenia,BORCS7
+C0036341,Schizophrenia,BTG1
+C0036341,Schizophrenia,CAMK2B
+C0036341,Schizophrenia,CASP4
+C0036341,Schizophrenia,CBLIF
+C0036341,Schizophrenia,CCDC137
+C0036341,Schizophrenia,CCL2
+C0036341,Schizophrenia,CELF2
+C0036341,Schizophrenia,CFAP65
+C0036341,Schizophrenia,CHD4
+C0036341,Schizophrenia,CHI3L1
+C0036341,Schizophrenia,CHL1
+C0036341,Schizophrenia,CNR1
+C0036341,Schizophrenia,CNTNAP2
+C0036341,Schizophrenia,COL3A1
+C0036341,Schizophrenia,COMT
+C0036341,Schizophrenia,CP
+C0036341,Schizophrenia,CPLX1
+C0036341,Schizophrenia,CPLX2
+C0036341,Schizophrenia,DAO
+C0036341,Schizophrenia,DAOA
+C0036341,Schizophrenia,DDHD2
+C0036341,Schizophrenia,DGCR2
+C0036341,Schizophrenia,DISC1
+C0036341,Schizophrenia,DISC2
+C0036341,Schizophrenia,DIXDC1
+C0036341,Schizophrenia,DLG1
+C0036341,Schizophrenia,DPYD
+C0036341,Schizophrenia,DRD1
+C0036341,Schizophrenia,DRD2
+C0036341,Schizophrenia,DRD3
+C0036341,Schizophrenia,DRD4
+C0036341,Schizophrenia,DTNBP1
+C0036341,Schizophrenia,EDEM2
+C0036341,Schizophrenia,EIF5
+C0036341,Schizophrenia,EPHX2
+C0036341,Schizophrenia,ESAM
+C0036341,Schizophrenia,F2
+C0036341,Schizophrenia,FAM3D
+C0036341,Schizophrenia,FASTKD5
+C0036341,Schizophrenia,FGFR1
+C0036341,Schizophrenia,GABRA6
+C0036341,Schizophrenia,GABRB2
+C0036341,Schizophrenia,GABRD
+C0036341,Schizophrenia,GAD1
+C0036341,Schizophrenia,GAD2
+C0036341,Schizophrenia,GC
+C0036341,Schizophrenia,GPR153
+C0036341,Schizophrenia,GRIK2
+C0036341,Schizophrenia,GRIK5
+C0036341,Schizophrenia,GRIN2B
+C0036341,Schizophrenia,GRIN2D
+C0036341,Schizophrenia,GRM2
+C0036341,Schizophrenia,GRM3
+C0036341,Schizophrenia,GSK3A
+C0036341,Schizophrenia,GSK3B
+C0036341,Schizophrenia,HCAR2
+C0036341,Schizophrenia,HINT1
+C0036341,Schizophrenia,HLA-DRB1
+C0036341,Schizophrenia,HNRNPA3
+C0036341,Schizophrenia,HP
+C0036341,Schizophrenia,HRH1
+C0036341,Schizophrenia,HTR2A
+C0036341,Schizophrenia,HTR6
+C0036341,Schizophrenia,HTR7
+C0036341,Schizophrenia,IL1B
+C0036341,Schizophrenia,IL2RA
+C0036341,Schizophrenia,IL6
+C0036341,Schizophrenia,IL6R
+C0036341,Schizophrenia,INPP5A
+C0036341,Schizophrenia,KCNB1
+C0036341,Schizophrenia,KDM2B
+C0036341,Schizophrenia,KDR
+C0036341,Schizophrenia,KLF12
+C0036341,Schizophrenia,KPNA1
+C0036341,Schizophrenia,LAMA1
+C0036341,Schizophrenia,LAMA2
+C0036341,Schizophrenia,LRP1
+C0036341,Schizophrenia,MAGEC1
+C0036341,Schizophrenia,MAGI2
+C0036341,Schizophrenia,MAOB
+C0036341,Schizophrenia,MET
+C0036341,Schizophrenia,MIR137
+C0036341,Schizophrenia,MTHFR
+C0036341,Schizophrenia,MTOR
+C0036341,Schizophrenia,ND4
+C0036341,Schizophrenia,NDUFV2
+C0036341,Schizophrenia,NKAPL
+C0036341,Schizophrenia,NOS1
+C0036341,Schizophrenia,NPRL2
+C0036341,Schizophrenia,NR3C1
+C0036341,Schizophrenia,NRG1
+C0036341,Schizophrenia,NRG3
+C0036341,Schizophrenia,NRGN
+C0036341,Schizophrenia,NRIP1
+C0036341,Schizophrenia,NRXN1
+C0036341,Schizophrenia,NTF3
+C0036341,Schizophrenia,NTNG1
+C0036341,Schizophrenia,NTNG2
+C0036341,Schizophrenia,NTRK1
+C0036341,Schizophrenia,NTSR1
+C0036341,Schizophrenia,OR4C46
+C0036341,Schizophrenia,OXTR
+C0036341,Schizophrenia,PAG1
+C0036341,Schizophrenia,PAK2
+C0036341,Schizophrenia,PCM1
+C0036341,Schizophrenia,PDE4B
+C0036341,Schizophrenia,PGBD1
+C0036341,Schizophrenia,PHB1
+C0036341,Schizophrenia,PIK3CB
+C0036341,Schizophrenia,PITPNM1
+C0036341,Schizophrenia,PLCB1
+C0036341,Schizophrenia,PLCL2
+C0036341,Schizophrenia,PLXNA2
+C0036341,Schizophrenia,PML
+C0036341,Schizophrenia,PRODH
+C0036341,Schizophrenia,PVALB
+C0036341,Schizophrenia,RB1CC1
+C0036341,Schizophrenia,RELN
+C0036341,Schizophrenia,RGS12
+C0036341,Schizophrenia,RGS9
+C0036341,Schizophrenia,RTN4
+C0036341,Schizophrenia,RTN4R
+C0036341,Schizophrenia,SAP30BP
+C0036341,Schizophrenia,SBNO1
+C0036341,Schizophrenia,SDF4
+C0036341,Schizophrenia,SELENBP1
+C0036341,Schizophrenia,SHANK3
+C0036341,Schizophrenia,SLC1A1
+C0036341,Schizophrenia,SLC26A7
+C0036341,Schizophrenia,SLC26A8
+C0036341,Schizophrenia,SLC6A1
+C0036341,Schizophrenia,SLC6A3
+C0036341,Schizophrenia,SLC6A4
+C0036341,Schizophrenia,SP4
+C0036341,Schizophrenia,SRSF1
+C0036341,Schizophrenia,SYN2
+C0036341,Schizophrenia,SYP
+C0036341,Schizophrenia,TAC1
+C0036341,Schizophrenia,TEKT5
+C0036341,Schizophrenia,THBS1
+C0036341,Schizophrenia,TNF
+C0036341,Schizophrenia,TP53
+C0036341,Schizophrenia,TPH1
+C0036341,Schizophrenia,TRAK1
+C0036341,Schizophrenia,TRRAP
+C0036341,Schizophrenia,TSPAN18
+C0036341,Schizophrenia,UGT1A3
+C0036341,Schizophrenia,VIPR2
+C0036341,Schizophrenia,VPS35
+C0036341,Schizophrenia,VPS39
+C0036341,Schizophrenia,WDR11
+C0036341,Schizophrenia,ZKSCAN4
+C0036341,Schizophrenia,ZNF480
+C0036341,Schizophrenia,ZNF530
+C0036341,Schizophrenia,ZNF565
+C0036341,Schizophrenia,ZNF804A
+C0036830,Serum sickness,ALB
+C0036974,Shock,AVP
+C0036974,Shock,PTI
+C0037052,Sick sinus syndrome,CACNA1D
+C0037052,Sick sinus syndrome,KCNJ5
+C0037052,Sick sinus syndrome,MYH6
+C0037052,Sick sinus syndrome,POMC
+C0037188,Sinoatrial block,LMNA
+C0037199,Sinusitis,AZGP1
+C0037199,Sinusitis,CFTR
+C0037199,Sinusitis,IL13
+C0037199,Sinusitis,MET
+C0037199,Sinusitis,PIP
+C0037199,Sinusitis,PPP1R9B
+C0037299,Skin ulcer,ITGB2
+C0037299,Skin ulcer,LAMA3
+C0037299,Skin ulcer,NGF
+C0037299,Skin ulcer,PEPD
+C0037383,Sneezing,TRPA1
+C0037383,Sneezing,TRPV1
+C0037926,Spinal cord compression,CCL2
+C0037926,Spinal cord compression,PLAT
+C0037926,Spinal cord compression,TNF
+C0038002,Splenomegaly,AHR
+C0038002,Splenomegaly,APC
+C0038002,Splenomegaly,APOE
+C0038002,Splenomegaly,APP
+C0038002,Splenomegaly,BDKRB1
+C0038002,Splenomegaly,CYP1A2
+C0038002,Splenomegaly,DNASE2A
+C0038002,Splenomegaly,EIF2AK1
+C0038002,Splenomegaly,FAS
+C0038002,Splenomegaly,FLT3
+C0038002,Splenomegaly,HBB
+C0038002,Splenomegaly,KRAS
+C0038002,Splenomegaly,MAPT
+C0038002,Splenomegaly,MECOM
+C0038002,Splenomegaly,NFE2L2
+C0038002,Splenomegaly,NOTCH1
+C0038002,Splenomegaly,NRAS
+C0038002,Splenomegaly,OCLN
+C0038002,Splenomegaly,OVAL
+C0038002,Splenomegaly,PEPD
+C0038002,Splenomegaly,PSEN1
+C0038002,Splenomegaly,STAT5B
+C0038220,Status epilepticus,ABCB1A
+C0038220,Status epilepticus,ABCB1B
+C0038220,Status epilepticus,ABCC2
+C0038220,Status epilepticus,ANK3
+C0038220,Status epilepticus,AQP4
+C0038220,Status epilepticus,ATP2A2
+C0038220,Status epilepticus,BDNF
+C0038220,Status epilepticus,BECN1
+C0038220,Status epilepticus,CASP1
+C0038220,Status epilepticus,CASP3
+C0038220,Status epilepticus,CASP8
+C0038220,Status epilepticus,CAT
+C0038220,Status epilepticus,CCL2
+C0038220,Status epilepticus,CCL3
+C0038220,Status epilepticus,CCR10
+C0038220,Status epilepticus,CCR2
+C0038220,Status epilepticus,CCR3
+C0038220,Status epilepticus,CCR7
+C0038220,Status epilepticus,CCR8
+C0038220,Status epilepticus,CCR9
+C0038220,Status epilepticus,CD40
+C0038220,Status epilepticus,CDH2
+C0038220,Status epilepticus,CNR1
+C0038220,Status epilepticus,CRH
+C0038220,Status epilepticus,DMD
+C0038220,Status epilepticus,EIF2AK2
+C0038220,Status epilepticus,EIF2AK3
+C0038220,Status epilepticus,EIF2S1
+C0038220,Status epilepticus,EPO
+C0038220,Status epilepticus,FOS
+C0038220,Status epilepticus,GAP43
+C0038220,Status epilepticus,GDNF
+C0038220,Status epilepticus,GRIA2
+C0038220,Status epilepticus,GRM1
+C0038220,Status epilepticus,GRM5
+C0038220,Status epilepticus,HMOX1
+C0038220,Status epilepticus,HSPB1
+C0038220,Status epilepticus,IL1RN
+C0038220,Status epilepticus,JUN
+C0038220,Status epilepticus,JUNB
+C0038220,Status epilepticus,JUND
+C0038220,Status epilepticus,KCNK5
+C0038220,Status epilepticus,KCNMA1
+C0038220,Status epilepticus,LAMP2
+C0038220,Status epilepticus,MEF2C
+C0038220,Status epilepticus,NGF
+C0038220,Status epilepticus,NOS1
+C0038220,Status epilepticus,NOS2
+C0038220,Status epilepticus,NTF3
+C0038220,Status epilepticus,NTRK2
+C0038220,Status epilepticus,NTRK3
+C0038220,Status epilepticus,PDXK
+C0038220,Status epilepticus,PNPO
+C0038220,Status epilepticus,PTGS2
+C0038220,Status epilepticus,PTK2B
+C0038220,Status epilepticus,RET
+C0038220,Status epilepticus,SCN8A
+C0038220,Status epilepticus,SLC12A5
+C0038220,Status epilepticus,SLC8A1
+C0038220,Status epilepticus,SLC8A3
+C0038220,Status epilepticus,SNTA1
+C0038220,Status epilepticus,SRC
+C0038220,Status epilepticus,SSTR1
+C0038220,Status epilepticus,SSTR2
+C0038220,Status epilepticus,SSTR3
+C0038220,Status epilepticus,SSTR4
+C0038220,Status epilepticus,SSTR5
+C0038220,Status epilepticus,TNF
+C0038220,Status epilepticus,VEGFA
+C0038325,Stevens-Johnson syndrome,ALB
+C0038325,Stevens-Johnson syndrome,APCS
+C0038325,Stevens-Johnson syndrome,C1QA
+C0038325,Stevens-Johnson syndrome,C1QC
+C0038325,Stevens-Johnson syndrome,CAV1
+C0038325,Stevens-Johnson syndrome,CELF2
+C0038325,Stevens-Johnson syndrome,CFHR1
+C0038325,Stevens-Johnson syndrome,CFP
+C0038325,Stevens-Johnson syndrome,COPS5
+C0038325,Stevens-Johnson syndrome,CRP
+C0038325,Stevens-Johnson syndrome,CSF3
+C0038325,Stevens-Johnson syndrome,CTNNB1
+C0038325,Stevens-Johnson syndrome,CUL1
+C0038325,Stevens-Johnson syndrome,CUL4A
+C0038325,Stevens-Johnson syndrome,DERL1
+C0038325,Stevens-Johnson syndrome,ELMO1
+C0038325,Stevens-Johnson syndrome,EP300
+C0038325,Stevens-Johnson syndrome,FBXO6
+C0038325,Stevens-Johnson syndrome,HLA-A
+C0038325,Stevens-Johnson syndrome,HLA-B
+C0038325,Stevens-Johnson syndrome,HLA-C
+C0038325,Stevens-Johnson syndrome,IFNA2
+C0038325,Stevens-Johnson syndrome,IFNG
+C0038325,Stevens-Johnson syndrome,LBP
+C0038325,Stevens-Johnson syndrome,LRG1
+C0038325,Stevens-Johnson syndrome,MIF
+C0038325,Stevens-Johnson syndrome,MIR18A
+C0038325,Stevens-Johnson syndrome,NEDD4
+C0038325,Stevens-Johnson syndrome,NOS2
+C0038325,Stevens-Johnson syndrome,NUCB1
+C0038325,Stevens-Johnson syndrome,ORM1
+C0038325,Stevens-Johnson syndrome,ORM2
+C0038325,Stevens-Johnson syndrome,PARP1
+C0038325,Stevens-Johnson syndrome,PML
+C0038325,Stevens-Johnson syndrome,PROS1
+C0038325,Stevens-Johnson syndrome,PSMC5
+C0038325,Stevens-Johnson syndrome,PTGER3
+C0038325,Stevens-Johnson syndrome,PTGIS
+C0038325,Stevens-Johnson syndrome,RB1
+C0038325,Stevens-Johnson syndrome,RBX1
+C0038325,Stevens-Johnson syndrome,SELS
+C0038325,Stevens-Johnson syndrome,VCP
+C0038325,Stevens-Johnson syndrome,VWF
+C0038362,Stomatitis,CSF3
+C0038362,Stomatitis,IFNA2
+C0038362,Stomatitis,NBN
+C0038362,Stomatitis,XRCC1
+C0038814,Sunburn,ERCC2
+C0039103,Synovitis,COL2A1
+C0039103,Synovitis,HLA-B
+C0039103,Synovitis,POMC
+C0039231,Tachycardia,AHR
+C0039231,Tachycardia,BCHE
+C0039231,Tachycardia,DRD2
+C0039231,Tachycardia,GAL
+C0039231,Tachycardia,GCG
+C0039231,Tachycardia,GNAS
+C0039231,Tachycardia,GNRH1
+C0039231,Tachycardia,HTR4
+C0039231,Tachycardia,INS
+C0039231,Tachycardia,KNG1
+C0039231,Tachycardia,LEP
+C0039231,Tachycardia,LHB
+C0039231,Tachycardia,RYR2
+C0039231,Tachycardia,SCT
+C0039231,Tachycardia,TNF
+C0039231,Tachycardia,TRH
+C0039231,Tachycardia,VAV3
+C0039231,Tachycardia,VIP
+C0039621,Tetany,CNNM2
+C0040034,Thrombocytopenia,ALB
+C0040034,Thrombocytopenia,ASPG
+C0040034,Thrombocytopenia,CSF2
+C0040034,Thrombocytopenia,CSF3
+C0040034,Thrombocytopenia,CYCS
+C0040034,Thrombocytopenia,EPO
+C0040034,Thrombocytopenia,ETV6
+C0040034,Thrombocytopenia,FCGR2A
+C0040034,Thrombocytopenia,GATA1
+C0040034,Thrombocytopenia,GP1BB
+C0040034,Thrombocytopenia,GP9
+C0040034,Thrombocytopenia,HLA-A
+C0040034,Thrombocytopenia,IFNA2
+C0040034,Thrombocytopenia,IL3
+C0040034,Thrombocytopenia,ITGA2B
+C0040034,Thrombocytopenia,ITGB3
+C0040034,Thrombocytopenia,ITPA
+C0040034,Thrombocytopenia,MTHFR
+C0040034,Thrombocytopenia,PECAM1
+C0040034,Thrombocytopenia,PF4
+C0040034,Thrombocytopenia,SPARC
+C0040034,Thrombocytopenia,TNFRSF10A
+C0040034,Thrombocytopenia,WDR1
+C0040034,Thrombocytopenia,XDH
+C0040053,Thrombosis,AGT
+C0040053,Thrombosis,BCRP3
+C0040053,Thrombosis,BDKRB2
+C0040053,Thrombosis,CD2
+C0040053,Thrombosis,CRP
+C0040053,Thrombosis,CYP2C19
+C0040053,Thrombosis,CYP3A5
+C0040053,Thrombosis,EPO
+C0040053,Thrombosis,F10
+C0040053,Thrombosis,F2
+C0040053,Thrombosis,F3
+C0040053,Thrombosis,F5
+C0040053,Thrombosis,F9
+C0040053,Thrombosis,FCGR2A
+C0040053,Thrombosis,FGA
+C0040053,Thrombosis,FLT3
+C0040053,Thrombosis,FUT4
+C0040053,Thrombosis,GAS6
+C0040053,Thrombosis,GP1BA
+C0040053,Thrombosis,GUCY1A1
+C0040053,Thrombosis,HGF
+C0040053,Thrombosis,HMOX1
+C0040053,Thrombosis,KLF4
+C0040053,Thrombosis,KLKB1
+C0040053,Thrombosis,MAS1
+C0040053,Thrombosis,MERTK
+C0040053,Thrombosis,P2RY1
+C0040053,Thrombosis,P2RY12
+C0040053,Thrombosis,PDE3A
+C0040053,Thrombosis,PF4
+C0040053,Thrombosis,PLAT
+C0040053,Thrombosis,PLAU
+C0040053,Thrombosis,PODXL
+C0040053,Thrombosis,PROC
+C0040053,Thrombosis,PROS1
+C0040053,Thrombosis,PTGER3
+C0040053,Thrombosis,PTGS2
+C0040053,Thrombosis,SELP
+C0040053,Thrombosis,SERPINC1
+C0040053,Thrombosis,SERPINE1
+C0040053,Thrombosis,SIRT1
+C0040053,Thrombosis,THBD
+C0040053,Thrombosis,TNF
+C0040053,Thrombosis,TYRO3
+C0040053,Thrombosis,VKORC1
+C0040053,Thrombosis,VWF
+C0040264,Tinnitus,IFNA2
+C0040264,Tinnitus,RNR1
+C0040460,Toothache,NPY1R
+C0040485,Torticollis,DRD5
+C0040822,Tremor,ACHE
+C0040822,Tremor,ADORA2A
+C0040822,Tremor,ADRB2
+C0040822,Tremor,ATP7A
+C0040822,Tremor,CHRM4
+C0040822,Tremor,CYP2D6
+C0040822,Tremor,HTR1A
+C0040822,Tremor,REL
+C0040822,Tremor,SCN8A
+C0040822,Tremor,TRH
+C0040953,Trichotillomania,HOXB8
+C0040953,Trichotillomania,SLITRK1
+C0041105,Trismus,BCHE
+C0041296,Tuberculosis,CORO1A
+C0041296,Tuberculosis,HP
+C0041296,Tuberculosis,SLC11A1
+C0041296,Tuberculosis,TIRAP
+C0041466,Typhoid fever,HLA-DRB1
+C0041582,Ulcer,DDIT3
+C0041582,Ulcer,PPIF
+C0041834,Erythema,ACSL4
+C0041834,Erythema,C9
+C0041834,Erythema,CAMP
+C0041834,Erythema,COL2A1
+C0041834,Erythema,XRCC1
+C0042109,Urticaria,ALB
+C0042109,Urticaria,ALOX5
+C0042109,Urticaria,FCER1A
+C0042109,Urticaria,GSTM1
+C0042109,Urticaria,HLA-DPB1
+C0042109,Urticaria,HLA-DQB1
+C0042109,Urticaria,HLA-DRB1
+C0042109,Urticaria,HNMT
+C0042109,Urticaria,ICAM1
+C0042109,Urticaria,IL18
+C0042109,Urticaria,IL1B
+C0042109,Urticaria,MPO
+C0042109,Urticaria,SELE
+C0042109,Urticaria,TGFB1
+C0042109,Urticaria,TNF
+C0042109,Urticaria,VCAM1
+C0042164,Uveitis,ALB
+C0042164,Uveitis,CALB2
+C0042164,Uveitis,CRYAA
+C0042164,Uveitis,CRYBB2
+C0042164,Uveitis,HSPA9
+C0042164,Uveitis,RBP3
+C0042164,Uveitis,SAG
+C0042164,Uveitis,SERPINF1
+C0042164,Uveitis,SOD2
+C0042384,Vasculitis,CBL
+C0042384,Vasculitis,GATA2
+C0042384,Vasculitis,MOCOS
+C0042384,Vasculitis,NFKBIA
+C0042384,Vasculitis,SENP1
+C0042384,Vasculitis,SERPINA1
+C0042487,Venous thrombosis,CSF2
+C0042487,Venous thrombosis,EPO
+C0042487,Venous thrombosis,F13A1
+C0042487,Venous thrombosis,F13B
+C0042487,Venous thrombosis,F2
+C0042487,Venous thrombosis,F3
+C0042487,Venous thrombosis,F5
+C0042487,Venous thrombosis,F7
+C0042487,Venous thrombosis,F8
+C0042487,Venous thrombosis,HIF1A
+C0042487,Venous thrombosis,JAK2
+C0042487,Venous thrombosis,KDR
+C0042487,Venous thrombosis,LPA
+C0042487,Venous thrombosis,MTHFR
+C0042487,Venous thrombosis,PIGM
+C0042487,Venous thrombosis,PLAT
+C0042487,Venous thrombosis,PLAU
+C0042487,Venous thrombosis,PLG
+C0042487,Venous thrombosis,PROC
+C0042487,Venous thrombosis,SERPINA10
+C0042487,Venous thrombosis,SERPINC1
+C0042487,Venous thrombosis,TFPI
+C0042510,Ventricular fibrillation,EPO
+C0042510,Ventricular fibrillation,INS
+C0042510,Ventricular fibrillation,KCNE2
+C0042510,Ventricular fibrillation,KCNJ8
+C0042510,Ventricular fibrillation,PLAU
+C0042510,Ventricular fibrillation,SCN10A
+C0042900,Vitiligo,BACH2
+C0042900,Vitiligo,CASP7
+C0042900,Vitiligo,CCR6
+C0042900,Vitiligo,CD44
+C0042900,Vitiligo,CD80
+C0042900,Vitiligo,CLNK
+C0042900,Vitiligo,FOXP1
+C0042900,Vitiligo,IFIH1
+C0042900,Vitiligo,IKZF4
+C0042900,Vitiligo,IL1A
+C0042900,Vitiligo,MC1R
+C0042900,Vitiligo,NFE2L2
+C0042900,Vitiligo,PIK3R1
+C0042900,Vitiligo,SH2B3
+C0042900,Vitiligo,SLA
+C0042900,Vitiligo,TNF
+C0042900,Vitiligo,TOB2
+C0042963,Vomiting,ABCB1
+C0042963,Vomiting,ASPG
+C0042963,Vomiting,GNRH1
+C0042963,Vomiting,IFNA2
+C0042963,Vomiting,IFNG
+C0042963,Vomiting,PYY
+C0042963,Vomiting,TAC1
+C0042963,Vomiting,TACR1
+C0043049,Water intoxication,OXT
+C0043049,Water intoxication,UTS2
+C0080274,Urinary retention,EDN1
+C0085083,Ovarian hyperstimulation syndrome,FSHR
+C0085129,Bronchial hyperreactivity,ADAM33
+C0085129,Bronchial hyperreactivity,CALCA
+C0085129,Bronchial hyperreactivity,CCL12
+C0085129,Bronchial hyperreactivity,CCL2
+C0085129,Bronchial hyperreactivity,CXCL1
+C0085129,Bronchial hyperreactivity,ICAM1
+C0085129,Bronchial hyperreactivity,IL13
+C0085129,Bronchial hyperreactivity,IL1RL1
+C0085129,Bronchial hyperreactivity,IL1RN
+C0085129,Bronchial hyperreactivity,NGF
+C0085129,Bronchial hyperreactivity,PTGS1
+C0085129,Bronchial hyperreactivity,TAC1
+C0085129,Bronchial hyperreactivity,TRPA1
+C0085129,Bronchial hyperreactivity,VIP
+C0085580,Essential hypertension,ADD1
+C0085580,Essential hypertension,AGTR1
+C0085580,Essential hypertension,AIF1
+C0085580,Essential hypertension,ATP1B1
+C0085580,Essential hypertension,CALY
+C0085580,Essential hypertension,CYBA
+C0085580,Essential hypertension,CYBB
+C0085580,Essential hypertension,CYP3A5
+C0085580,Essential hypertension,ECE1
+C0085580,Essential hypertension,FFAR2
+C0085580,Essential hypertension,FFAR3
+C0085580,Essential hypertension,GNB3
+C0085580,Essential hypertension,HCAR3
+C0085580,Essential hypertension,HMGB1
+C0085580,Essential hypertension,IL1B
+C0085580,Essential hypertension,NCF1
+C0085580,Essential hypertension,OCLN
+C0085580,Essential hypertension,PTGIS
+C0085580,Essential hypertension,RGS5
+C0085580,Essential hypertension,TH
+C0085580,Essential hypertension,TJP1
+C0085580,Essential hypertension,TLR2
+C0085580,Essential hypertension,TLR4
+C0085580,Essential hypertension,TNF
+C0085593,Chills,IFNA2
+C0085593,Chills,IFNG
+C0085602,Polydipsia,LEP
+C0085628,Stupor,TRH
+C0085636,Photophobia,ATF6
+C0085650,Purpura fulminans,PROC
+C0085652,Pyoderma gangrenosum,MEFV
+C0085652,Pyoderma gangrenosum,NLRP3
+C0085652,Pyoderma gangrenosum,NOD2
+C0085652,Pyoderma gangrenosum,PSTPIP1
+C0085655,Polymyositis,CYP27B1
+C0085655,Polymyositis,IL1A
+C0085655,Polymyositis,IL1B
+C0085655,Polymyositis,IL6
+C0085655,Polymyositis,TNF
+C0086439,Hypokinesia,APOD
+C0086439,Hypokinesia,GCH1
+C0086439,Hypokinesia,OPRL1
+C0086439,Hypokinesia,REL
+C0086439,Hypokinesia,SLC39A14
+C0086543,Cataract,AKR1B1
+C0086543,Cataract,ALDH3A1
+C0086543,Cataract,ATM
+C0086543,Cataract,ATP2B1
+C0086543,Cataract,COL2A1
+C0086543,Cataract,CRYAA
+C0086543,Cataract,CRYAB
+C0086543,Cataract,CRYBB1
+C0086543,Cataract,CRYGC
+C0086543,Cataract,CRYGD
+C0086543,Cataract,CRYGF
+C0086543,Cataract,CRYGS
+C0086543,Cataract,ERCC6
+C0086543,Cataract,GALK1
+C0086543,Cataract,GJA8
+C0086543,Cataract,LIM2
+C0086543,Cataract,MIP
+C0086543,Cataract,MIR221
+C0086543,Cataract,NDRG2
+C0086543,Cataract,PAX6
+C0086543,Cataract,PITX3
+C0086543,Cataract,SLC33A1
+C0086543,Cataract,SLC4A4
+C0086543,Cataract,TDRD7
+C0086543,Cataract,VIM
+C0149521,Pancreatitis chronic,CEL
+C0149521,Pancreatitis chronic,CELP
+C0149521,Pancreatitis chronic,CFTR
+C0149521,Pancreatitis chronic,CPA1
+C0149521,Pancreatitis chronic,CTRC
+C0149521,Pancreatitis chronic,PRSS1
+C0149521,Pancreatitis chronic,PRSS2
+C0149521,Pancreatitis chronic,PTHLH
+C0149521,Pancreatitis chronic,SPINK1
+C0151827,Eye pain,POMC
+C0152427,Polydactyly,ALX4
+C0152427,Polydactyly,GLI3
+C0152427,Polydactyly,IFT80
+C0152427,Polydactyly,IFT88
+C0152427,Polydactyly,KIAA0586
+C0152427,Polydactyly,KIF3A
+C0152427,Polydactyly,MIPOL1
+C0152427,Polydactyly,PTEN
+C0158266,Intervertebral disc degeneration,IL1B
+C0158266,Intervertebral disc degeneration,SPARC
+C0158266,Intervertebral disc degeneration,TGFB1
+C0158266,Intervertebral disc degeneration,TNF
+C0162429,Malnutrition,CBS
+C0162429,Malnutrition,MTHFR
+C0162429,Malnutrition,MTR
+C0206160,Reticulocytosis,PARK7
+C0206160,Reticulocytosis,SOD2
+C0221204,Osteolysis,ANTXR2
+C0221204,Osteolysis,IBSP
+C0221204,Osteolysis,PTHLH
+C0221204,Osteolysis,SPP1
+C0221204,Osteolysis,TNF
+C0221204,Osteolysis,TNFRSF11B
+C0221204,Osteolysis,TNFSF11
+C0235280,Ototoxicity,SIRT3
+C0242184,Hypoxia,ACADVL
+C0242184,Hypoxia,ACTB
+C0242184,Hypoxia,ADK
+C0242184,Hypoxia,AHCY
+C0242184,Hypoxia,ALDH1L1
+C0242184,Hypoxia,ALDOB
+C0242184,Hypoxia,APOA1
+C0242184,Hypoxia,ATF4
+C0242184,Hypoxia,ATP5F1B
+C0242184,Hypoxia,BDNF
+C0242184,Hypoxia,CA9
+C0242184,Hypoxia,CPA2
+C0242184,Hypoxia,CS
+C0242184,Hypoxia,CTRB1
+C0242184,Hypoxia,DAF-2
+C0242184,Hypoxia,EGR1
+C0242184,Hypoxia,ESD
+C0242184,Hypoxia,F54D11.3
+C0242184,Hypoxia,F54G2.1
+C0242184,Hypoxia,GADR-1
+C0242184,Hypoxia,GAPDH
+C0242184,Hypoxia,GNAS
+C0242184,Hypoxia,HIM-6
+C0242184,Hypoxia,HSP70
+C0242184,Hypoxia,MPO
+C0242184,Hypoxia,NME1
+C0242184,Hypoxia,NOS1
+C0242184,Hypoxia,NOS3
+C0242184,Hypoxia,NPPA
+C0242184,Hypoxia,PCK2
+C0242184,Hypoxia,PDYN
+C0242184,Hypoxia,PLAT
+C0242184,Hypoxia,POMC
+C0242184,Hypoxia,RPS14
+C0242184,Hypoxia,RPS2
+C0242184,Hypoxia,SARDH
+C0242184,Hypoxia,SOD2
+C0242184,Hypoxia,SRAB-21
+C0242184,Hypoxia,TFPI
+C0242184,Hypoxia,TKT
+C0242184,Hypoxia,ZK262.8
+C0242350,Erectile dysfunction,BCL2
+C0242350,Erectile dysfunction,BCL2L1
+C0242350,Erectile dysfunction,EDN1
+C0242350,Erectile dysfunction,EDNRA
+C0242350,Erectile dysfunction,GRIN3A
+C0242350,Erectile dysfunction,NOS3
+C0242350,Erectile dysfunction,PRL
+C0242350,Erectile dysfunction,SHBG
+C0242350,Erectile dysfunction,VEGFA
+C0242350,Erectile dysfunction,VIP
+C0242656,Disease progression,ABCA13
+C0242656,Disease progression,ABCA7
+C0242656,Disease progression,ABCB1
+C0242656,Disease progression,ABCB4
+C0242656,Disease progression,ABCC1
+C0242656,Disease progression,ABCC11
+C0242656,Disease progression,ABCC6
+C0242656,Disease progression,ABCD4
+C0242656,Disease progression,ABCF1
+C0242656,Disease progression,ABCF2
+C0242656,Disease progression,ABT1
+C0242656,Disease progression,ACAD8
+C0242656,Disease progression,ALDH7A1
+C0242656,Disease progression,AMFR
+C0242656,Disease progression,AMOTL1
+C0242656,Disease progression,APEX1
+C0242656,Disease progression,APOE
+C0242656,Disease progression,ARFGAP2
+C0242656,Disease progression,ARG2
+C0242656,Disease progression,ATF2
+C0242656,Disease progression,ATP7B
+C0242656,Disease progression,BCL2
+C0242656,Disease progression,BGN
+C0242656,Disease progression,BIRC2
+C0242656,Disease progression,BIRC3
+C0242656,Disease progression,BMI1
+C0242656,Disease progression,BOP1
+C0242656,Disease progression,C19ORF33
+C0242656,Disease progression,CAT
+C0242656,Disease progression,CCND1
+C0242656,Disease progression,CCNE1
+C0242656,Disease progression,CCR5
+C0242656,Disease progression,CCT7
+C0242656,Disease progression,CD274
+C0242656,Disease progression,CD44
+C0242656,Disease progression,CD74
+C0242656,Disease progression,CDC25B
+C0242656,Disease progression,CDH1
+C0242656,Disease progression,CDH2
+C0242656,Disease progression,CDKL2
+C0242656,Disease progression,CEBPB
+C0242656,Disease progression,CGA
+C0242656,Disease progression,CHEK2
+C0242656,Disease progression,CLCN3
+C0242656,Disease progression,CLN3
+C0242656,Disease progression,CNPY2
+C0242656,Disease progression,COL7A1
+C0242656,Disease progression,COPS7A
+C0242656,Disease progression,CPSF1
+C0242656,Disease progression,CRYBG1
+C0242656,Disease progression,CSTA
+C0242656,Disease progression,CTNNB1
+C0242656,Disease progression,CTSB
+C0242656,Disease progression,CTSC
+C0242656,Disease progression,CTSLP8
+C0242656,Disease progression,CYP2A6
+C0242656,Disease progression,DDB1
+C0242656,Disease progression,DPAGT1
+C0242656,Disease progression,E2F2
+C0242656,Disease progression,E2F4
+C0242656,Disease progression,E2F5
+C0242656,Disease progression,E2F7
+C0242656,Disease progression,E2F8
+C0242656,Disease progression,EDNRA
+C0242656,Disease progression,EGF
+C0242656,Disease progression,EGFR
+C0242656,Disease progression,EHD1
+C0242656,Disease progression,EPAS1
+C0242656,Disease progression,EPHA2
+C0242656,Disease progression,ERBB2
+C0242656,Disease progression,ERBB3
+C0242656,Disease progression,ESR1
+C0242656,Disease progression,ESRRA
+C0242656,Disease progression,EXOSC5
+C0242656,Disease progression,FAM168A
+C0242656,Disease progression,FAM83A
+C0242656,Disease progression,FAS
+C0242656,Disease progression,FAT1
+C0242656,Disease progression,FGD5
+C0242656,Disease progression,FGF2
+C0242656,Disease progression,FKBP2
+C0242656,Disease progression,FLT1
+C0242656,Disease progression,FOXP4-AS1
+C0242656,Disease progression,G3BP1
+C0242656,Disease progression,GJA1
+C0242656,Disease progression,GRHL2-DT
+C0242656,Disease progression,GSTP1
+C0242656,Disease progression,HCP5
+C0242656,Disease progression,HDAC3
+C0242656,Disease progression,HDAC6
+C0242656,Disease progression,HIF1A
+C0242656,Disease progression,HIKESHI
+C0242656,Disease progression,HNRNPL
+C0242656,Disease progression,HOXD10
+C0242656,Disease progression,HOXD11
+C0242656,Disease progression,HRAS
+C0242656,Disease progression,IDH3B
+C0242656,Disease progression,IL1A
+C0242656,Disease progression,IL1B
+C0242656,Disease progression,IL1RAP
+C0242656,Disease progression,ING1
+C0242656,Disease progression,KCNJ12
+C0242656,Disease progression,KDM1A
+C0242656,Disease progression,KEAP1
+C0242656,Disease progression,KLK3
+C0242656,Disease progression,KRAS
+C0242656,Disease progression,LAMC2
+C0242656,Disease progression,LAT2
+C0242656,Disease progression,LINC00115
+C0242656,Disease progression,LINC00852
+C0242656,Disease progression,LINC01089
+C0242656,Disease progression,LOXL3
+C0242656,Disease progression,M6PR
+C0242656,Disease progression,MALAT1
+C0242656,Disease progression,MIF
+C0242656,Disease progression,MIR100
+C0242656,Disease progression,MIR145
+C0242656,Disease progression,MIR186
+C0242656,Disease progression,MIR196A2
+C0242656,Disease progression,MIR200B
+C0242656,Disease progression,MIR200C
+C0242656,Disease progression,MIR206
+C0242656,Disease progression,MIR21
+C0242656,Disease progression,MIR29C
+C0242656,Disease progression,MIR33B
+C0242656,Disease progression,MIR346
+C0242656,Disease progression,MIR34B
+C0242656,Disease progression,MIR424
+C0242656,Disease progression,MIR4324
+C0242656,Disease progression,MIR885
+C0242656,Disease progression,MIR99A
+C0242656,Disease progression,MKI67
+C0242656,Disease progression,MMP2
+C0242656,Disease progression,MMP9
+C0242656,Disease progression,MRPL13
+C0242656,Disease progression,MRPS11
+C0242656,Disease progression,MRPS18B
+C0242656,Disease progression,MSLN
+C0242656,Disease progression,MYB
+C0242656,Disease progression,MYC
+C0242656,Disease progression,NAXD
+C0242656,Disease progression,NBAS
+C0242656,Disease progression,NCAPG
+C0242656,Disease progression,NDUFA2
+C0242656,Disease progression,NDUFS1
+C0242656,Disease progression,NDUFV1
+C0242656,Disease progression,NFE2L2
+C0242656,Disease progression,NOP56
+C0242656,Disease progression,NT5E
+C0242656,Disease progression,PA2G4
+C0242656,Disease progression,PDHA1
+C0242656,Disease progression,PHB1
+C0242656,Disease progression,PIK3CA
+C0242656,Disease progression,PIN1
+C0242656,Disease progression,PLPP1
+C0242656,Disease progression,POLR3K
+C0242656,Disease progression,PPP2R1A
+C0242656,Disease progression,PRDX3
+C0242656,Disease progression,PRDX4
+C0242656,Disease progression,PREP
+C0242656,Disease progression,PRKAB1
+C0242656,Disease progression,PRPF19
+C0242656,Disease progression,PSMA3-AS1
+C0242656,Disease progression,PSMD14
+C0242656,Disease progression,PTEN
+C0242656,Disease progression,PTOV1
+C0242656,Disease progression,PTPA
+C0242656,Disease progression,PTPRF
+C0242656,Disease progression,PUS1
+C0242656,Disease progression,RAB27A
+C0242656,Disease progression,RAB27B
+C0242656,Disease progression,RAC2
+C0242656,Disease progression,RAD23A
+C0242656,Disease progression,RANBP10
+C0242656,Disease progression,RAP1GAP
+C0242656,Disease progression,RASAL2
+C0242656,Disease progression,RCHY1
+C0242656,Disease progression,RELA
+C0242656,Disease progression,RHPN1-AS1
+C0242656,Disease progression,RIGI
+C0242656,Disease progression,RNF168
+C0242656,Disease progression,RPL13
+C0242656,Disease progression,RPL15
+C0242656,Disease progression,RPL18
+C0242656,Disease progression,RPS15
+C0242656,Disease progression,RPS19
+C0242656,Disease progression,RPS21
+C0242656,Disease progression,RPS26
+C0242656,Disease progression,RPS6
+C0242656,Disease progression,RRM1
+C0242656,Disease progression,RRP9
+C0242656,Disease progression,RXRB
+C0242656,Disease progression,SERBP1
+C0242656,Disease progression,SHFM1
+C0242656,Disease progression,SIK2
+C0242656,Disease progression,SNRPB
+C0242656,Disease progression,SNX27
+C0242656,Disease progression,SNX5
+C0242656,Disease progression,SOD1
+C0242656,Disease progression,SOD2
+C0242656,Disease progression,SOD3
+C0242656,Disease progression,SP1
+C0242656,Disease progression,SREBF2
+C0242656,Disease progression,STAT1
+C0242656,Disease progression,SUCLG1
+C0242656,Disease progression,SYMPK
+C0242656,Disease progression,TAF15
+C0242656,Disease progression,TERT
+C0242656,Disease progression,TIAL1
+C0242656,Disease progression,TMEM63A
+C0242656,Disease progression,TNF
+C0242656,Disease progression,TNFSF8
+C0242656,Disease progression,TOP1
+C0242656,Disease progression,TOP2A
+C0242656,Disease progression,TP53
+C0242656,Disease progression,TRAP1
+C0242656,Disease progression,TXNIP
+C0242656,Disease progression,UBXN1
+C0242656,Disease progression,URM1
+C0242656,Disease progression,VCP
+C0242656,Disease progression,VEGFB
+C0242656,Disease progression,WDR46
+C0242656,Disease progression,XPC
+C0242656,Disease progression,YAP1
+C0242656,Disease progression,YEATS2
+C0242656,Disease progression,YY1
+C0242656,Disease progression,ZEB1
+C0242656,Disease progression,ZEB2
+C0242656,Disease progression,ZMIZ1-AS1
+C0242656,Disease progression,ZNF593
+C0242973,Ventricular dysfunction,ADORA1
+C0242973,Ventricular dysfunction,ADORA2A
+C0242973,Ventricular dysfunction,ADRB1
+C0242973,Ventricular dysfunction,ALDH2
+C0242973,Ventricular dysfunction,DMD
+C0242973,Ventricular dysfunction,GAA
+C0242973,Ventricular dysfunction,IGF2R
+C0242973,Ventricular dysfunction,TNF
+C0243010,Encephalitis viral,ADRB2
+C0243010,Encephalitis viral,OPRM1
+C0243026,Sepsis,ADM
+C0243026,Sepsis,ADORA2A
+C0243026,Sepsis,ADORA2B
+C0243026,Sepsis,ANGPT1
+C0243026,Sepsis,CASP3
+C0243026,Sepsis,CSF3
+C0243026,Sepsis,CXCR2
+C0243026,Sepsis,HMGB1
+C0243026,Sepsis,IFNA2
+C0243026,Sepsis,IFNG
+C0243026,Sepsis,IL10
+C0243026,Sepsis,IL1B
+C0243026,Sepsis,IL6
+C0243026,Sepsis,LBP
+C0243026,Sepsis,LTA
+C0243026,Sepsis,MAPK1
+C0243026,Sepsis,MAPK3
+C0243026,Sepsis,MIF
+C0243026,Sepsis,MIR483
+C0243026,Sepsis,MMP9
+C0243026,Sepsis,MT1
+C0243026,Sepsis,MT2
+C0243026,Sepsis,NLRP3
+C0243026,Sepsis,NOS2
+C0243026,Sepsis,NOS3
+C0243026,Sepsis,PROC
+C0243026,Sepsis,RPL4
+C0243026,Sepsis,RPL9
+C0243026,Sepsis,TGFB1
+C0243026,Sepsis,TGFBI
+C0243026,Sepsis,TLR4
+C0243026,Sepsis,TNF
+C0243026,Sepsis,TOP2A
+C0270736,Essential tremor,GABRA1
+C0270736,Essential tremor,GSTP1
+C0270736,Essential tremor,LINGO1
+C0282193,Iron overload,CP
+C0282193,Iron overload,FTH1
+C0282193,Iron overload,HAMP
+C0282193,Iron overload,HAMP2
+C0282193,Iron overload,SLC40A1
+C0282193,Iron overload,TF
+C0282548,Leukostasis,HMGB1
+C0282548,Leukostasis,ICAM1
+C0282548,Leukostasis,PPARG
+C0333641,Atrophy,AHR
+C0333641,Atrophy,CLN6
+C0333641,Atrophy,CLU
+C0333641,Atrophy,CYP1A2
+C0333641,Atrophy,IL1RN
+C0333641,Atrophy,MAPK3
+C0333641,Atrophy,RPS6KB1
+C0333641,Atrophy,SLC1A1
+C0333641,Atrophy,STAT3
+C0333641,Atrophy,TRIM63
+C0338480,Migraine without aura,ASTN2
+C0338480,Migraine without aura,CALCA
+C0338480,Migraine without aura,LRP1
+C0338480,Migraine without aura,MEF2D
+C0338480,Migraine without aura,PHACTR1
+C0338480,Migraine without aura,TAC1
+C0338480,Migraine without aura,TRPM8
+C0392525,Nephrolithiasis,CYP24A1
+C0393593,Dystonia,ACTB
+C0393593,Dystonia,ANO3
+C0393593,Dystonia,ATP1A3
+C0393593,Dystonia,CHRNA4
+C0393593,Dystonia,CIZ1
+C0393593,Dystonia,COL6A3
+C0393593,Dystonia,CYP2D6
+C0393593,Dystonia,GCH1
+C0393593,Dystonia,GNAL
+C0393593,Dystonia,KMT2B
+C0393593,Dystonia,PRKRA
+C0393593,Dystonia,SCP2
+C0393593,Dystonia,SERAC1
+C0393593,Dystonia,SLC30A10
+C0393593,Dystonia,TH
+C0393593,Dystonia,THAP1
+C0393593,Dystonia,TOR1A
+C0413252,Hypothermia,CHRNB2
+C0413252,Hypothermia,CNR1
+C0413252,Hypothermia,GCG
+C0413252,Hypothermia,GNRH1
+C0413252,Hypothermia,HCRT
+C0413252,Hypothermia,IL12A
+C0413252,Hypothermia,IL12B
+C0413252,Hypothermia,LHB
+C0413252,Hypothermia,NCF1
+C0413252,Hypothermia,NOS2
+C0413252,Hypothermia,OVAL
+C0413252,Hypothermia,PRKCD
+C0413252,Hypothermia,SOD1
+C0413252,Hypothermia,TNF
+C0413252,Hypothermia,TRH
+C0413252,Hypothermia,TSHB
+C0413252,Hypothermia,ZFP91
+C0428977,Bradycardia,ADORA1
+C0428977,Bradycardia,AGT
+C0428977,Bradycardia,CACNA1D
+C0428977,Bradycardia,CHRM2
+C0428977,Bradycardia,CHRM2A
+C0428977,Bradycardia,CRH
+C0428977,Bradycardia,CYP1A1
+C0428977,Bradycardia,CYP2D6
+C0428977,Bradycardia,DRD2
+C0428977,Bradycardia,EDN1
+C0428977,Bradycardia,EDN2
+C0428977,Bradycardia,EDN3
+C0428977,Bradycardia,GCG
+C0428977,Bradycardia,GNAI2
+C0428977,Bradycardia,GNRH1
+C0428977,Bradycardia,HTR1A
+C0428977,Bradycardia,INS1
+C0428977,Bradycardia,KNG1
+C0428977,Bradycardia,LHB
+C0428977,Bradycardia,NISCH
+C0428977,Bradycardia,NTS
+C0428977,Bradycardia,PDYN
+C0428977,Bradycardia,POMC
+C0428977,Bradycardia,PRL
+C0428977,Bradycardia,TAC1
+C0428977,Bradycardia,TACR1
+C0428977,Bradycardia,TRH
+C0428977,Bradycardia,UTS2
+C0456909,Blindness,ATIC
+C0456909,Blindness,LCA5
+C0456909,Blindness,RPE65
+C0476254,Dyslexia,DNAAF4
+C0476254,Dyslexia,SLC6A3
+C0497327,Dementia,APP
+C0497327,Dementia,CP
+C0497327,Dementia,DNMT1
+C0497327,Dementia,GRN
+C0497327,Dementia,MAPT
+C0497327,Dementia,SLC6A3
+C0497327,Dementia,SLC9A8
+C0497327,Dementia,TREM2
+C0522224,Paralysis,APP
+C0522224,Paralysis,ATP7A
+C0522224,Paralysis,BCHE
+C0522224,Paralysis,CHRND
+C0522224,Paralysis,EAS
+C0522224,Paralysis,INS
+C0522224,Paralysis,JUS
+C0522224,Paralysis,MOG
+C0522224,Paralysis,PARA
+C0522224,Paralysis,PARP1
+C0522224,Paralysis,SIRT1
+C0522224,Paralysis,SOD1
+C0522224,Paralysis,TRPM7
+C0522224,Paralysis,UNC45B
+C0524620,Metabolic syndrome,ADIPOQ
+C0524620,Metabolic syndrome,CCL2
+C0524620,Metabolic syndrome,CELA2A
+C0524620,Metabolic syndrome,CRP
+C0524620,Metabolic syndrome,FGF15
+C0524620,Metabolic syndrome,GPR17
+C0524620,Metabolic syndrome,HMGA1
+C0524620,Metabolic syndrome,HTR2C
+C0524620,Metabolic syndrome,IL18
+C0524620,Metabolic syndrome,IL6
+C0524620,Metabolic syndrome,INPPL1
+C0524620,Metabolic syndrome,INS
+C0524620,Metabolic syndrome,LBP
+C0524620,Metabolic syndrome,LEP
+C0524620,Metabolic syndrome,NEIL1
+C0524620,Metabolic syndrome,NOS3
+C0524620,Metabolic syndrome,NR1I2
+C0524620,Metabolic syndrome,NR1I3
+C0524620,Metabolic syndrome,PON1
+C0524620,Metabolic syndrome,RETN
+C0524620,Metabolic syndrome,SHBG
+C0524620,Metabolic syndrome,SIRT1
+C0524620,Metabolic syndrome,TRIB3
+C0553730,Chondrocalcinosis,POMC
+C0574960,Sacroiliitis,POMC
+C0596240,Cancer pain,TMPRSS2
+C0751674,Lymphangioleiomyomatosis,HES1
+C0751674,Lymphangioleiomyomatosis,JAG2
+C0751674,Lymphangioleiomyomatosis,PKM
+C0751674,Lymphangioleiomyomatosis,TSC1
+C0751674,Lymphangioleiomyomatosis,TSC2
+C0751674,Lymphangioleiomyomatosis,VEGFD
+C0836924,Thrombocytosis,CALR
+C0836924,Thrombocytosis,JAK2
+C0836924,Thrombocytosis,MPL
+C0836924,Thrombocytosis,SH2B3
+C0836924,Thrombocytosis,THPO
+C0856761,Budd-Chiari syndrome,F5
+C0856761,Budd-Chiari syndrome,JAK2
+C0876994,Cardiotoxicity,AGT
+C0876994,Cardiotoxicity,BACH1
+C0876994,Cardiotoxicity,BCHE
+C0876994,Cardiotoxicity,BMP2
+C0876994,Cardiotoxicity,CAT
+C0876994,Cardiotoxicity,CCL2
+C0876994,Cardiotoxicity,CSF1
+C0876994,Cardiotoxicity,CXCL8
+C0876994,Cardiotoxicity,FAS
+C0876994,Cardiotoxicity,FASL
+C0876994,Cardiotoxicity,FASLG
+C0876994,Cardiotoxicity,GRK2
+C0876994,Cardiotoxicity,HBEGF
+C0876994,Cardiotoxicity,IL1B
+C0876994,Cardiotoxicity,KCNN2
+C0876994,Cardiotoxicity,METTL14
+C0876994,Cardiotoxicity,MIR208A
+C0876994,Cardiotoxicity,NPPB
+C0876994,Cardiotoxicity,NRG1
+C0876994,Cardiotoxicity,RAC1
+C0876994,Cardiotoxicity,RARG
+C0876994,Cardiotoxicity,RNF10
+C0876994,Cardiotoxicity,SIRT6
+C0876994,Cardiotoxicity,TLR2
+C0876994,Cardiotoxicity,TNF
+C0876994,Cardiotoxicity,TP53
+C0876994,Cardiotoxicity,TRP53
+C0948089,Acute coronary syndrome,ACTG1
+C0948089,Acute coronary syndrome,ARHGDIB
+C0948089,Acute coronary syndrome,CAPZB
+C0948089,Acute coronary syndrome,CKB
+C0948089,Acute coronary syndrome,CKM
+C0948089,Acute coronary syndrome,CRP
+C0948089,Acute coronary syndrome,ENO1
+C0948089,Acute coronary syndrome,FASN
+C0948089,Acute coronary syndrome,GAPDH
+C0948089,Acute coronary syndrome,GSN
+C0948089,Acute coronary syndrome,GSTP1
+C0948089,Acute coronary syndrome,HSPA8
+C0948089,Acute coronary syndrome,HSPD1
+C0948089,Acute coronary syndrome,IL6
+C0948089,Acute coronary syndrome,ITGB3
+C0948089,Acute coronary syndrome,LDHB
+C0948089,Acute coronary syndrome,MMP9
+C0948089,Acute coronary syndrome,PAPPA
+C0948089,Acute coronary syndrome,PDIA3
+C0948089,Acute coronary syndrome,PON1
+C0948089,Acute coronary syndrome,PSMB1
+C0948089,Acute coronary syndrome,RAB7B
+C0948089,Acute coronary syndrome,SERPINC1
+C0948089,Acute coronary syndrome,SOD2
+C0948089,Acute coronary syndrome,TLR4
+C0948089,Acute coronary syndrome,TNF
+C0948089,Acute coronary syndrome,TNNI3
+C0948089,Acute coronary syndrome,TNNT2
+C0948089,Acute coronary syndrome,TPM4
+C0948089,Acute coronary syndrome,TUBA1C
+C0948089,Acute coronary syndrome,TUBB1
+C0948089,Acute coronary syndrome,VCL
+C0948089,Acute coronary syndrome,VIM
+C1261473,Sarcoma,CSF2
+C1261473,Sarcoma,GSTP1
+C1261473,Sarcoma,HNF1B
+C1261473,Sarcoma,IFNG
+C1261473,Sarcoma,MAML3
+C1261473,Sarcoma,MCL1
+C1261473,Sarcoma,NF1
+C1261473,Sarcoma,PAX3
+C1261473,Sarcoma,PIK3CA
+C1261473,Sarcoma,PRAME
+C1261473,Sarcoma,SMARCA4
+C1261473,Sarcoma,SOX2
+C1261473,Sarcoma,TNF
+C1261473,Sarcoma,TP53
+C1261473,Sarcoma,TRP53
+C1261473,Sarcoma,ZNF667-AS1
+C1306577,Death,APOA1
+C1306577,Death,BCHE
+C1306577,Death,C47E8.3
+C1306577,Death,CTL-1
+C1306577,Death,CTL-2
+C1306577,Death,DAF-16
+C1306577,Death,F44D12.6
+C1306577,Death,FBXA-78
+C1306577,Death,LEC-10
+C1306577,Death,PRDX-2
+C1306577,Death,PRDX-3
+C1306577,Death,SPE-49
+C1306577,Death,SPP-20
+C1306577,Death,T07E3.4
+C1306577,Death,Y60A9.1
+C1527336,Sjogren's syndrome,DGKQ
+C1527336,Sjogren's syndrome,FCGR2A
+C1527336,Sjogren's syndrome,GTF2I
+C1527336,Sjogren's syndrome,IL12A
+C1527336,Sjogren's syndrome,IRAK1BP1
+C1527336,Sjogren's syndrome,ITSN2
+C1527336,Sjogren's syndrome,NCF1
+C1527336,Sjogren's syndrome,PHIP
+C1527336,Sjogren's syndrome,PRDM1
+C1527336,Sjogren's syndrome,PTTG1
+C1527336,Sjogren's syndrome,STAT4
+C1527336,Sjogren's syndrome,TNFAIP3
+C1527336,Sjogren's syndrome,TNIP1
+C1535893,Orthostatic intolerance,SLC6A2
+C1800706,Idiopathic pulmonary fibrosis,ATP11A
+C1800706,Idiopathic pulmonary fibrosis,CCL12
+C1800706,Idiopathic pulmonary fibrosis,DPP9
+C1800706,Idiopathic pulmonary fibrosis,DSP
+C1800706,Idiopathic pulmonary fibrosis,ESR1
+C1800706,Idiopathic pulmonary fibrosis,FAM13A
+C1800706,Idiopathic pulmonary fibrosis,GPER1
+C1800706,Idiopathic pulmonary fibrosis,HIF1A
+C1800706,Idiopathic pulmonary fibrosis,MMP3
+C1800706,Idiopathic pulmonary fibrosis,MUC5B
+C1800706,Idiopathic pulmonary fibrosis,PARN
+C1800706,Idiopathic pulmonary fibrosis,PLAU
+C1800706,Idiopathic pulmonary fibrosis,RTEL1
+C1800706,Idiopathic pulmonary fibrosis,SFTPA2
+C1800706,Idiopathic pulmonary fibrosis,SFTPC
+C1800706,Idiopathic pulmonary fibrosis,ST14
+C1800706,Idiopathic pulmonary fibrosis,STAT3
+C1800706,Idiopathic pulmonary fibrosis,STN1
+C1800706,Idiopathic pulmonary fibrosis,TERC
+C1800706,Idiopathic pulmonary fibrosis,TERT
+C1800706,Idiopathic pulmonary fibrosis,TNF
+C1800706,Idiopathic pulmonary fibrosis,WNT5A
+C1800706,Idiopathic pulmonary fibrosis,YTHDF1
+C1956346,Coronary artery disease,ABCG5
+C1956346,Coronary artery disease,ABCG8
+C1956346,Coronary artery disease,ABO
+C1956346,Coronary artery disease,ACE
+C1956346,Coronary artery disease,ADAMTS7
+C1956346,Coronary artery disease,ADTRP
+C1956346,Coronary artery disease,ANGPTL4
+C1956346,Coronary artery disease,ANKS1A
+C1956346,Coronary artery disease,APCS
+C1956346,Coronary artery disease,APOA1
+C1956346,Coronary artery disease,APOA5
+C1956346,Coronary artery disease,APOC3
+C1956346,Coronary artery disease,ATP2B1
+C1956346,Coronary artery disease,CARF
+C1956346,Coronary artery disease,CCL2
+C1956346,Coronary artery disease,CD40LG
+C1956346,Coronary artery disease,CDKN2B
+C1956346,Coronary artery disease,CELSR2
+C1956346,Coronary artery disease,CRP
+C1956346,Coronary artery disease,CXCL12
+C1956346,Coronary artery disease,DDAH2
+C1956346,Coronary artery disease,EPO
+C1956346,Coronary artery disease,ESR1
+C1956346,Coronary artery disease,ESR2
+C1956346,Coronary artery disease,FES
+C1956346,Coronary artery disease,FURIN
+C1956346,Coronary artery disease,GDF15
+C1956346,Coronary artery disease,GFOD1
+C1956346,Coronary artery disease,GGCX
+C1956346,Coronary artery disease,GNB3
+C1956346,Coronary artery disease,GUCY1A1
+C1956346,Coronary artery disease,HECTD4
+C1956346,Coronary artery disease,HHIPL1
+C1956346,Coronary artery disease,HMOX1
+C1956346,Coronary artery disease,ICA1L
+C1956346,Coronary artery disease,IRAK1
+C1956346,Coronary artery disease,IRS1
+C1956346,Coronary artery disease,JCAD
+C1956346,Coronary artery disease,KCNE2
+C1956346,Coronary artery disease,KL
+C1956346,Coronary artery disease,LDLR
+C1956346,Coronary artery disease,LIPA
+C1956346,Coronary artery disease,LMOD1
+C1956346,Coronary artery disease,LPA
+C1956346,Coronary artery disease,LTA
+C1956346,Coronary artery disease,MAT2A
+C1956346,Coronary artery disease,MIA3
+C1956346,Coronary artery disease,MIR146A
+C1956346,Coronary artery disease,MIR146B
+C1956346,Coronary artery disease,MMP3
+C1956346,Coronary artery disease,MRAS
+C1956346,Coronary artery disease,MRPS6
+C1956346,Coronary artery disease,NAT2
+C1956346,Coronary artery disease,NBEAL1
+C1956346,Coronary artery disease,NOS3
+C1956346,Coronary artery disease,NPPB
+C1956346,Coronary artery disease,PAPPA
+C1956346,Coronary artery disease,PCSK9
+C1956346,Coronary artery disease,PDGFD
+C1956346,Coronary artery disease,PECAM1
+C1956346,Coronary artery disease,PHACTR1
+C1956346,Coronary artery disease,PLPP3
+C1956346,Coronary artery disease,PON1
+C1956346,Coronary artery disease,PRDM16
+C1956346,Coronary artery disease,PROCR
+C1956346,Coronary artery disease,PSRC1
+C1956346,Coronary artery disease,PTGS2
+C1956346,Coronary artery disease,SARS1
+C1956346,Coronary artery disease,SH2B3
+C1956346,Coronary artery disease,SLC5A3
+C1956346,Coronary artery disease,SORT1
+C1956346,Coronary artery disease,TBC1D7
+C1956346,Coronary artery disease,TBX2
+C1956346,Coronary artery disease,TCF21
+C1956346,Coronary artery disease,TERT
+C1956346,Coronary artery disease,TLR4
+C1956346,Coronary artery disease,TRAF6
+C1956346,Coronary artery disease,TRIB1
+C1956346,Coronary artery disease,TWIST1
+C1956346,Coronary artery disease,VAMP5
+C1956346,Coronary artery disease,VAMP8
+C1956346,Coronary artery disease,VEGFA
+C1956346,Coronary artery disease,WDR12
+C1956346,Coronary artery disease,ZC3HC1
+C2607914,Rhinitis allergic,CAT
+C2607914,Rhinitis allergic,CLDN3
+C2607914,Rhinitis allergic,CLDN7
+C2607914,Rhinitis allergic,GRIA1
+C2607914,Rhinitis allergic,GRIA2
+C2607914,Rhinitis allergic,HMOX1
+C2607914,Rhinitis allergic,HRH1
+C2607914,Rhinitis allergic,IFNG
+C2607914,Rhinitis allergic,IL10
+C2607914,Rhinitis allergic,IL13
+C2607914,Rhinitis allergic,IL4
+C2607914,Rhinitis allergic,MRC1
+C2607914,Rhinitis allergic,OCLN
+C2607914,Rhinitis allergic,OVAL
+C2607914,Rhinitis allergic,PTGS2
+C2973725,Pulmonary arterial hypertension,AHR
+C2973725,Pulmonary arterial hypertension,BMPR2
+C3203358,Hypoventilation,DCTN1

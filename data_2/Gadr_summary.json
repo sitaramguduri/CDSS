@@ -1,0 +1,15 @@
+{
+  "full_n_adr": 3366,
+  "filtered_n_adr": 1347,
+  "n_gene": 978,
+  "hpo_nnz": 16738,
+  "ctd_nnz": 774,
+  "full_nnz": 17481,
+  "filtered_nnz": 17481,
+  "full_density": 0.005310229687710741,
+  "filtered_density": 0.01326966082318809,
+  "zero_gene_adrs_removed": 2019,
+  "mean_genes_per_adr_filtered": 12.977728285077951,
+  "median_genes_per_adr_filtered": 4.0,
+  "max_genes_per_adr_filtered": 319
+}
